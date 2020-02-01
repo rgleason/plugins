@@ -112,7 +112,7 @@ https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/test
     <target>darwin</target>
     <target-version>10.13.6</target-version>
     <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-pkg/raw/names/weatherrouting-darwin-10.13.6-tarball/versions/v1.13.3.1/weatherrouting_pi-1.13.3.1-ov50-1.16_darwin-10.13.6.tar.gz
+    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-prod/raw/names/weatherrouting-darwin-10.13.6-tarball/versions/v1.13.3.1/weatherrouting_pi-1.13.3.1-ov50-1.16_darwin-10.13.6.tar.gz
   </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weather_routing.html </info-url>
   </plugin>
@@ -131,7 +131,7 @@ https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/test
     <target>flatpak</target>
     <target-version>18.08</target-version>
     <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-pkg/raw/names/weatherrouting-flatpak-18.08-tarball/versions/v1.13.3.1/weatherrouting_pi-1.13.3.1-ov50-1.16_flatpak-18.08.tar.gz
+    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-prod/raw/names/weatherrouting-flatpak-18.08-tarball/versions/v1.13.3.1/weatherrouting_pi-1.13.3.1-ov50-1.16_flatpak-18.08.tar.gz
   </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weather_routing.html </info-url>
   </plugin>
@@ -150,7 +150,7 @@ https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/test
     <target>mingw</target>
     <target-version>10</target-version>
     <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-pkg/raw/names/weatherrouting-mingw-10-tarball/versions/v1.13.3.1/weatherrouting_pi-1.13.3.1-ov50-1.16_mingw-10.tar.gz
+    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-prod/raw/names/weatherrouting-mingw-10-tarball/versions/v1.13.3.1/weatherrouting_pi-1.13.3.1-ov50-1.16_mingw-10.tar.gz
   </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weather_routing.html </info-url>
   </plugin>
@@ -169,7 +169,7 @@ Weather_Routing Plugin optimizes weather routing
     <target>msvc</target>
     <target-version>10.0.14393</target-version>
     <tarball-url>
-https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-pkg/raw/names/weatherrouting-msvc-10.0.14393-tarball/versions/v1.13.3.1/weatherrouting_pi-1.13.3.1-ov50-1.16_msvc-10.0.14393.tar.gz
+https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-prod/raw/names/weatherrouting-msvc-10.0.14393-tarball/versions/v1.13.3.1/weatherrouting_pi-1.13.3.1-ov50-1.16_msvc-10.0.14393.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weather_routing.html </info-url>
   </plugin>
@@ -188,7 +188,7 @@ https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-pkg/raw/names/weath
     <target>ubuntu</target>
     <target-version>16.04</target-version>
     <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-pkg/raw/names/weatherrouting-ubuntu-16.04-tarball/versions/v1.13.3.1/opencpn-plugin-weatherrouting-1.13.3.1-ov50-1.16_ubuntu-16.04.tar.gz
+    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-prod/raw/names/weatherrouting-ubuntu-16.04-tarball/versions/v1.13.3.1/opencpn-plugin-weatherrouting-1.13.3.1-ov50-1.16_ubuntu-16.04.tar.gz
   </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weather_routing.html </info-url>
   </plugin>
