@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opencpn-plugin version="1">
-  <name> weatherrouting </name>
+  <name> WeatherRouting </name>
   <version> 1.13.3 </version>
   <release> 1 </release>
   <summary> Plugin to complete optimal routing with weather files </summary>
@@ -14,10 +14,10 @@
     Weather_Routing Plugin optimizes weather routing
   </description>
 
-  <target>darwin</target>
-  <target-version>10.13.6</target-version>
+  <target>flatpak</target>
+  <target-version>18.08</target-version>
   <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-pkg/raw/names/weatherrouting-darwin-10.13.6-tarball/versions/v1.13.3.1/weatherrouting_pi-1.13.3.1-ov50-1.16_darwin-10.13.6.tar.gz
+    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names//versions/1.13.3.1+157.71b2b5c/weather_routing_pi-1.13.3.1-ov50-1.16_flatpak-18.08.tar.gz
   </tarball-url>
   <info-url> https://opencpn.org/OpenCPN/plugins/weather_routing.html </info-url>
 </opencpn-plugin>
