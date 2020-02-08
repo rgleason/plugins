@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opencpn-plugin version="1">
-  <name>  </name>
+  <name> WeatherRouting </name>
   <version> 1.13.3 </version>
   <release> 1 </release>
   <summary> Plugin to complete optimal routing with weather files </summary>
@@ -17,7 +17,7 @@
   <target>ubuntu</target>
   <target-version>16.04</target-version>
   <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names//versions/1.13.3.1+159.4c07444/opencpn-plugin-weather_routing-1.13.3.1-ov50-1.16_ubuntu-16.04.tar.gz
+    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names//versions/1.13.3.1+167.bc72c37/opencpn-plugin-weather_routing-1.13.3.1-ov50-1.16_ubuntu-16.04.tar.gz
   </tarball-url>
   <info-url> https://opencpn.org/OpenCPN/plugins/weather_routing.html </info-url>
 </opencpn-plugin>

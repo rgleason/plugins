@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opencpn-plugin version="1">
-  <name>  </name>
+  <name> WeatherRouting </name>
   <version> 1.13.3 </version>
   <release> 1 </release>
   <summary> Plugin to complete optimal routing with weather files </summary>
@@ -17,7 +17,7 @@
   <target>mingw</target>
   <target-version>10</target-version>
   <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names//versions/1.13.3.1+161.4c07444/weather_routing_pi-1.13.3.1-ov50-1.16_mingw-10.tar.gz
+    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names//versions/1.13.3.1+168.bc72c37/weather_routing_pi-1.13.3.1-ov50-1.16_mingw-10.tar.gz
   </tarball-url>
   <info-url> https://opencpn.org/OpenCPN/plugins/weather_routing.html </info-url>
 </opencpn-plugin>
