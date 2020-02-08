@@ -19,5 +19,5 @@
   <tarball-url>
     https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names//versions/1.13.3.1+177.e93a58d/opencpn-plugin-weather_routing-1.13.3.1-ov50-1.16_ubuntu-16.04.tar.gz
   </tarball-url>
-  <info-url> https://opencpn.org/OpenCPN/plugins/weatherrouting.html </info-url>
+  <info-url> https://opencpn.org/OpenCPN/plugins/weatherroute.html </info-url>
 </opencpn-plugin>
