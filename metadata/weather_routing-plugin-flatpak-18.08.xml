@@ -17,7 +17,7 @@
   <target>flatpak</target>
   <target-version>18.08</target-version>
   <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names//versions/1.13.3.1+169.bc72c37/weather_routing_pi-1.13.3.1-ov50-1.16_flatpak-18.08.tar.gz
+    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names//versions/1.13.3.1+174.e93a58d/weather_routing_pi-1.13.3.1-ov50-1.16_flatpak-18.08.tar.gz
   </tarball-url>
   <info-url> https://opencpn.org/OpenCPN/plugins/weatherrouting.html </info-url>
 </opencpn-plugin>
