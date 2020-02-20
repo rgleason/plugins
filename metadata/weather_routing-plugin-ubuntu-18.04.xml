@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opencpn-plugin version="1">
   <name> WeatherRouting </name>
-  <version> 1.13.3 </version>
-  <release> 1 </release>
+  <version> 1.13.4 </version>
+  <release> 0 </release>
   <summary> Plugin to complete optimal routing with weather files </summary>
 
   <api-version> 1.16 </api-version>
@@ -14,10 +14,10 @@
     Weather_Routing Plugin optimizes weather routing
   </description>
 
-  <target>darwin</target>
-  <target-version>10.13.6</target-version>
+  <target>ubuntu</target>
+  <target-version>18.04</target-version>
   <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names//versions/1.13.3.1+176.e93a58d/weather_routing_pi-1.13.3.1-ov50-1.16_darwin-10.13.6.tar.gz
+    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names//versions/1.13.4.0+217.62e4faa/opencpn-plugin-weather_routing-1.13.4.0-ov50-1.16_ubuntu-18.04.tar.gz
   </tarball-url>
   <info-url> https://opencpn.org/OpenCPN/plugins/weatherroute.html </info-url>
 </opencpn-plugin>

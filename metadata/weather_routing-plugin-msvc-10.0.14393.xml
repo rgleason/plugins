@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opencpn-plugin version="1">
 <name> WeatherRouting </name>
-<version> 1.13.3 </version>
-<release> 1 </release>
+<version> 1.13.4 </version>
+<release> 0 </release>
 <summary> Plugin to complete optimal routing with weather files </summary>
 
 <api-version> 1.16 </api-version>
@@ -17,7 +17,7 @@ Weather_Routing Plugin optimizes weather routing
 <target>msvc</target>
 <target-version>10.0.14393</target-version>
 <tarball-url>
-https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weather_routing-msvc-10.0.14393-tarball/versions/1.13.3.+106.e93a58d/weather_routing_pi-1.13.3.1-ov50-1.16_msvc-10.0.14393.tar.gz
+https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weather_routing-msvc-10.0.14393-tarball/versions/1.13.4.+112.62e4faa/weather_routing_pi-1.13.4.0-ov50-1.16_msvc-10.0.14393.tar.gz
 </tarball-url>
 <info-url> https://opencpn.org/OpenCPN/plugins/weatherroute.html </info-url>
 </opencpn-plugin>
