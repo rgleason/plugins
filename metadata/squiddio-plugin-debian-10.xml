@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opencpn-plugin version="1">
+  <name> squiddio </name>
+  <version> 1.2.0 </version>
+  <release> 1 </release>
+  <summary> Repository of sailing destination waypoints and Bouy Reports </summary>
+
+  <api-version> 1.16 </api-version>
+  <open-source> no </open-source>
+  <author> Mauro Calvi </author>
+  <source> https://github.com/rgleason/squiddio_pi/ </source>
+  <info-url>https://opencpn.org/OpenCPN/plugins/sQuiddio.html </info-url>	
+
+  <description>
+Squiddio Plugin makes its global user-sourced and user-maintained
+repository of sailing destinations (marinas, anchorages, yacht clubs,
+docks, fuel stations etc.) available as waypoints in OpenCPN. OpenCPN
+Android comes with sQuiddio built in.
+  </description>
+
+  <target>debian</target>
+  <target-version>10</target-version>
+  <tarball-url> https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/squiddio-debian-10-tarball/versions/1.2.0.1.f9ec61a/squiddio_pi-1.2.0-1_debian-10.tar.gz </tarball-url>
+</opencpn-plugin>
