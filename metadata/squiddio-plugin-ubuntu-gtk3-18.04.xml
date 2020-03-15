@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opencpn-plugin version="1">
-  <name> squiddio </name>
+  <name> Squiddio </name>
   <version> 1.2.0 </version>
   <release> 1 </release>
   <summary> Repository of sailing destination waypoints and Bouy Reports </summary>
@@ -20,5 +20,5 @@ Android comes with sQuiddio built in.
 
   <target>ubuntu-gtk3</target>
   <target-version>18.04</target-version>
-  <tarball-url> https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/squiddio_pi-1.2.0-1_ubuntu-gtk3-18.04.tar.gz-ubuntu-gtk3-18.04-tarball/versions/1.2.0.1.690de44/squiddio_pi-1.2.0-1_ubuntu-gtk3-18.04.tar.gz </tarball-url>
+  <tarball-url> https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/squiddio_pi-1.2.1-1_ubuntu-gtk3-18.04.tar.gz-ubuntu-gtk3-18.04-tarball/versions/1.2.0.1.add8976/squiddio_pi-1.2.1-1_ubuntu-gtk3-18.04.tar.gz </tarball-url>
 </opencpn-plugin>
