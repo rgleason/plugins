@@ -3,7 +3,7 @@
   <version>0.0.0</version>
   <date>2020-03-17 17:34</date>
   <?xml version="1.0" encoding="UTF-8"?>
-		<plugin version="1">
+  <plugin version="1">
 		<name> VDR </name>
 		<version> 1.2.0 </version>
 		<release> 1 </release>
