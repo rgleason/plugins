@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin version="1">
   <name> WeatherRouting </name>
-  <version> 1.13.4 </version>
-  <release> 0 </release>
-  <summary>     Weather_Routing Plugin optimizes weather routing  </summary>
+  <version> 1.13.5 </version>
+  <release> 3 </release>
+  <summary> Plugin to complete optimal routing with weather files </summary>
 
   <api-version> 1.16 </api-version>
   <open-source> yes </open-source>
   <author> Sean d'Epagnier </author>
   <source> https://github.com/rgleason/weather_routing_pi </source>
-  <info-url> https://opencpn.org/OpenCPN/plugins/weatherroute.html </info-url>
 
-  <description> Plugin to complete optimal routing with weather files  </description>
+  <description>
+    Weather_Routing Plugin optimizes weather routing
+  </description>
 
   <target>debian</target>
   <target-version>10</target-version>
   <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weather_routing-debian-10-tarball/versions/1.13.4.0+219.62e4faa/opencpn-plugin-weather_routing-1.13.4.0-ov50-1.16_debian-10.tar.gz
+    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weather_routing-debian-10-tarball/versions/1.13.5.3+508.c4cdefd/opencpn-plugin-weather_routing-1.13.5.3-ov50-1.16_debian-10.tar.gz
   </tarball-url>
+  <info-url> https://opencpn.org/OpenCPN/plugins/weatherroute.html </info-url>
 </plugin>
