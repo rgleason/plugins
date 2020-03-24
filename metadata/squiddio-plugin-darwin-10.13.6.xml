@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plugin version="1">
+<opencpn-plugin version="1">
   <name> Squiddio </name>
   <version> 1.2.0 </version>
   <release> 1 </release>
@@ -21,4 +21,4 @@ Android comes with sQuiddio built in.
   <target>darwin</target>
   <target-version>10.13.6</target-version>
   <tarball-url> https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/squiddio_pi-1.2.1-1_darwin-10.13.6.tar.gz-darwin-10.13.6-tarball/versions/1.2.0.1.add8976/squiddio_pi-1.2.1-1_darwin-10.13.6.tar.gz </tarball-url>
-</plugin>
+</opencpn-plugin>

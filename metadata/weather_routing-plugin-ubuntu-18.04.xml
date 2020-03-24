@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plugin version="1">
+<opencpn-plugin version="1">
   <name> WeatherRouting </name>
   <version> 1.13.5 </version>
   <release> 3 </release>
@@ -20,4 +20,4 @@
     https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weather_routing-ubuntu-18.04-tarball/versions/1.13.5.3+507.c4cdefd/opencpn-plugin-weather_routing-1.13.5.3-ov50-1.16_ubuntu-18.04.tar.gz
   </tarball-url>
   <info-url> https://opencpn.org/OpenCPN/plugins/weatherroute.html </info-url>
-</plugin>
+</opencpn-plugin>
