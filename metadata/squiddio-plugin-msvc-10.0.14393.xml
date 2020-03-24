@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opencpn-plugin version="1">
-<name> squiddio </name>
+<name> Squiddio </name>
 <version> 1.2.0 </version>
 <release> 1 </release>
 <summary> Repository of sailing destination waypoints </summary>
