@@ -19,6 +19,6 @@ Android comes with sQuiddio built in.
 
   <target>flatpak</target>
   <target-version>18.08</target-version>
-  <tarball-url> https://dl.cloudsmith.io/public/mauro-calvi/squiddio-pi/raw/names/squiddio-flatpak-18.08-tarball/versions/1.2.0.1+218.b192cc8/squiddio_pi-1.2.0.1_flatpak-18.08.tar.gz </tarball-url>
+  <tarball-url> https://dl.cloudsmith.io/public/mauro-calvi/squiddio-pi/raw/names/squiddio-flatpak-18.08.gz/versions/1.2.0.1+225.2b958d2/squiddio_pi-1.2.0.1_flatpak-18.08.tar.gz </tarball-url>
   <info-url> https://opencpn.org/OpenCPN/plugins/sQuiddio.html </info-url>
 </opencpn-plugin>
