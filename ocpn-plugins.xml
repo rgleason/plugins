@@ -592,270 +592,269 @@ Save NMEA stream to a file.  Replay NMEA stream previously saved. Plugin by Seth
     <tarball-url> https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-prod/raw/names/vdr_pi-0.5.0-1_ubuntu-gtk3-18.04.tar.gz-ubuntu-gtk3-18.04-tarball/versions/v0.5.0/vdr_pi-0.5.0-1_ubuntu-gtk3-18.04.tar.gz </tarball-url>
   </plugin>
   <plugin version="1">
-    <name> WeatherFax </name>
-    <version> 1.9.4 </version>
-    <release> 1 </release>
-    <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
-    <api-version> 1.16 </api-version>
-    <open-source> yes </open-source>
-    <author> Sean d'Epagnier </author>
-    <source> https://github.com/rgleason/weatherfax_pi </source>
-    <description>
-    Weatherfax Plugin has simple calibration for image overly, Converts images, and can convert any image into a raster chart.  Db for HF radio fax stations via SSB and Metro URL internet retrieval.
-  </description>
-    <target>darwin</target>
-    <target-version>10.13.6</target-version>
-    <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-alpha/raw/names/weatherfax-darwin-10.13.6-macos-tarball/versions/1.9.4.1+178.01c1c13/weatherfax_pi-1.9.4.1-ov50-1.16_darwin-10.13.6-macos.tar.gz
-  </tarball-url>
-    <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
+		<name> WeatherFax </name>
+		<version> 1.9.4 </version>
+		<release> 1 </release>
+		<summary> Open fax image files or decode audio faxes and overlay on chart </summary>
+		<api-version> 1.16 </api-version>
+		<open-source> yes </open-source>
+		<author> Sean d'Epagnier </author>
+		<source> https://github.com/rgleason/weatherfax_pi </source>
+		<description>
+		Weatherfax Plugin has simple calibration for image overly, Converts images, and can convert any image into a raster chart.  Db for HF radio fax stations via SSB and Metro URL internet retrieval.
+	  </description>
+		<target>darwin</target>
+		<target-version>10.13.6</target-version>
+		<tarball-url>
+		https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-alpha/raw/names/weatherfax-darwin-10.13.6-macos-tarball/versions/1.9.4.1+178.01c1c13/weatherfax_pi-1.9.4.1-ov50-1.16_darwin-10.13.6-macos.tar.gz
+	  </tarball-url>
+		<info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> WeatherFax </name>
-    <version> 1.9.4 </version>
-    <release> 1 </release>
-    <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
-    <api-version> 1.16 </api-version>
-    <open-source> yes </open-source>
-    <author> Sean d'Epagnier </author>
-    <source> https://github.com/rgleason/weatherfax_pi </source>
-    <description>
-    Weatherfax Plugin has simple calibration for image overly, Converts images, and can convert any image into a raster chart.  Db for HF radio fax stations via SSB and Metro URL internet retrieval.
-  </description>
-    <target>debian</target>
-    <target-version>10</target-version>
-    <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-alpha/raw/names/weatherfax-debian-10-buster-tarball/versions/1.9.4.1+177.01c1c13/opencpn-plugin-weatherfax-1.9.4.1-ov50-1.16_debian-10-buster.tar.gz
-  </tarball-url>
-    <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
+		<name> WeatherFax </name>
+		<version> 1.9.4 </version>
+		<release> 1 </release>
+		<summary> Open fax image files or decode audio faxes and overlay on chart </summary>
+		<api-version> 1.16 </api-version>
+		<open-source> yes </open-source>
+		<author> Sean d'Epagnier </author>
+		<source> https://github.com/rgleason/weatherfax_pi </source>
+		<description>
+		Weatherfax Plugin has simple calibration for image overly, Converts images, and can convert any image into a raster chart.  Db for HF radio fax stations via SSB and Metro URL internet retrieval.
+	  </description>
+		<target>debian</target>
+		<target-version>10</target-version>
+		<tarball-url>
+		https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-alpha/raw/names/weatherfax-debian-10-buster-tarball/versions/1.9.4.1+177.01c1c13/opencpn-plugin-weatherfax-1.9.4.1-ov50-1.16_debian-10-buster.tar.gz
+	  </tarball-url>
+		<info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> WeatherFax </name>
-    <version> 1.9.4 </version>
-    <release> 1 </release>
-    <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
-    <api-version> 1.16 </api-version>
-    <open-source> yes </open-source>
-    <author> Sean d'Epagnier </author>
-    <source> https://github.com/rgleason/weatherfax_pi </source>
-    <description>
-    Weatherfax Plugin has simple calibration for image overly, Converts images, and can convert any image into a raster chart.  Db for HF radio fax stations via SSB and Metro URL internet retrieval.
-  </description>
-    <target>fedora</target>
-    <target-version>29</target-version>
-    <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-alpha/raw/names/weatherfax-fedora-29-fedora-tarball/versions/1.9.4.1+175.01c1c13/opencpn-plugin-weatherfax-1.9.4.1-ov50-1.16_fedora-29-fedora.tar.gz
-  </tarball-url>
-    <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
+		<name> WeatherFax </name>
+		<version> 1.9.4 </version>
+		<release> 1 </release>
+		<summary> Open fax image files or decode audio faxes and overlay on chart </summary>
+		<api-version> 1.16 </api-version>
+		<open-source> yes </open-source>
+		<author> Sean d'Epagnier </author>
+		<source> https://github.com/rgleason/weatherfax_pi </source>
+		<description>
+		Weatherfax Plugin has simple calibration for image overly, Converts images, and can convert any image into a raster chart.  Db for HF radio fax stations via SSB and Metro URL internet retrieval.
+	  </description>
+		<target>fedora</target>
+		<target-version>29</target-version>
+		<tarball-url>
+		https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-alpha/raw/names/weatherfax-fedora-29-fedora-tarball/versions/1.9.4.1+175.01c1c13/opencpn-plugin-weatherfax-1.9.4.1-ov50-1.16_fedora-29-fedora.tar.gz
+	  </tarball-url>
+		<info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> WeatherFax </name>
-    <version> 1.9.4 </version>
-    <release> 1 </release>
-    <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
-    <api-version> 1.16 </api-version>
-    <open-source> yes </open-source>
-    <author> Sean d'Epagnier </author>
-    <source> https://github.com/rgleason/weatherfax_pi </source>
-    <description>
-    Weatherfax Plugin has simple calibration for image overly, Converts images, and can convert any image into a raster chart.  Db for HF radio fax stations via SSB and Metro URL internet retrieval.
-  </description>
-    <target>flatpak</target>
-    <target-version>18.08</target-version>
-    <tarball-url>
-    	https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-alpha/raw/names/weatherfax-flatpak-18.08.gz/versions/1.9.4.1+181.01c1c13/weatherfax_pi-1.9.4.1-ov50-1.16_flatpak-18.08.tar.gz
-  </tarball-url>
-    <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
+		<name> WeatherFax </name>
+		<version> 1.9.4 </version>
+		<release> 1 </release>
+		<summary> Open fax image files or decode audio faxes and overlay on chart </summary>
+		<api-version> 1.16 </api-version>
+		<open-source> yes </open-source>
+		<author> Sean d'Epagnier </author>
+		<source> https://github.com/rgleason/weatherfax_pi </source>
+		<description>
+		Weatherfax Plugin has simple calibration for image overly, Converts images, and can convert any image into a raster chart.  Db for HF radio fax stations via SSB and Metro URL internet retrieval.
+	  </description>
+		<target>flatpak</target>
+		<target-version>18.08</target-version>
+		<tarball-url>
+			https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-alpha/raw/names/weatherfax-flatpak-18.08.gz/versions/1.9.4.1+181.01c1c13/weatherfax_pi-1.9.4.1-ov50-1.16_flatpak-18.08.tar.gz
+	  </tarball-url>
+		<info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> WeatherFax </name>
-    <version> 1.9.4 </version>
-    <release> 1 </release>
-    <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
-    <api-version> 1.16 </api-version>
-    <open-source> yes </open-source>
-    <author> Sean d'Epagnier </author>
-    <source> https://github.com/rgleason/weatherfax_pi </source>
-    <description>
-    Weatherfax Plugin has simple calibration for image overly, Converts images, and can convert any image into a raster chart.  Db for HF radio fax stations via SSB and Metro URL internet retrieval.
-  </description>
-    <target>ubuntu</target>
-    <target-version>14.04</target-version>
-    <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-alpha/raw/names/weatherfax-ubuntu-14.04-trusty-tarball/versions/1.9.4.1+180.01c1c13/opencpn-plugin-weatherfax-1.9.4.1-ov50-1.16_ubuntu-14.04-trusty.tar.gz
-  </tarball-url>
-    <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
+		<name> WeatherFax </name>
+		<version> 1.9.4 </version>
+		<release> 1 </release>
+		<summary> Open fax image files or decode audio faxes and overlay on chart </summary>
+		<api-version> 1.16 </api-version>
+		<open-source> yes </open-source>
+		<author> Sean d'Epagnier </author>
+		<source> https://github.com/rgleason/weatherfax_pi </source>
+		<description>
+		Weatherfax Plugin has simple calibration for image overly, Converts images, and can convert any image into a raster chart.  Db for HF radio fax stations via SSB and Metro URL internet retrieval.
+	  </description>
+		<target>ubuntu</target>
+		<target-version>14.04</target-version>
+		<tarball-url>
+		https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-alpha/raw/names/weatherfax-ubuntu-14.04-trusty-tarball/versions/1.9.4.1+180.01c1c13/opencpn-plugin-weatherfax-1.9.4.1-ov50-1.16_ubuntu-14.04-trusty.tar.gz
+	  </tarball-url>
+		<info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> WeatherFax </name>
-    <version> 1.9.4 </version>
-    <release> 1 </release>
-    <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
-    <api-version> 1.16 </api-version>
-    <open-source> yes </open-source>
-    <author> Sean d'Epagnier </author>
-    <source> https://github.com/rgleason/weatherfax_pi </source>
-    <description>
-    Weatherfax Plugin has simple calibration for image overly, Converts images, and can convert any image into a raster chart.  Db for HF radio fax stations via SSB and Metro URL internet retrieval.
-  </description>
-    <target>ubuntu</target>
-    <target-version>16.04</target-version>
-    <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-alpha/raw/names/weatherfax-ubuntu-16.04-xenial-tarball/versions/1.9.4.1+176.01c1c13/opencpn-plugin-weatherfax-1.9.4.1-ov50-1.16_ubuntu-16.04-xenial.tar.gz
-  </tarball-url>
-    <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
+		<name> WeatherFax </name>
+		<version> 1.9.4 </version>
+		<release> 1 </release>
+		<summary> Open fax image files or decode audio faxes and overlay on chart </summary>
+		<api-version> 1.16 </api-version>
+		<open-source> yes </open-source>
+		<author> Sean d'Epagnier </author>
+		<source> https://github.com/rgleason/weatherfax_pi </source>
+		<description>
+		Weatherfax Plugin has simple calibration for image overly, Converts images, and can convert any image into a raster chart.  Db for HF radio fax stations via SSB and Metro URL internet retrieval.
+	  </description>
+		<target>ubuntu</target>
+		<target-version>16.04</target-version>
+		<tarball-url>
+		https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-alpha/raw/names/weatherfax-ubuntu-16.04-xenial-tarball/versions/1.9.4.1+176.01c1c13/opencpn-plugin-weatherfax-1.9.4.1-ov50-1.16_ubuntu-16.04-xenial.tar.gz
+	  </tarball-url>
+		<info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> WeatherFax </name>
-    <version> 1.9.4 </version>
-    <release> 1 </release>
-    <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
-    <api-version> 1.16 </api-version>
-    <open-source> yes </open-source>
-    <author> Sean d'Epagnier </author>
-    <source> https://github.com/rgleason/weatherfax_pi </source>
-    <description>
-    Weatherfax Plugin has simple calibration for image overly, Converts images, and can convert any image into a raster chart.  Db for HF radio fax stations via SSB and Metro URL internet retrieval.
-  </description>
-    <target>ubuntu</target>
-    <target-version>18.04</target-version>
-    <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-alpha/raw/names/weatherfax-ubuntu-18.04-bionic-gtk3-tarball/versions/1.9.4.1+182.01c1c13/opencpn-plugin-weatherfax-1.9.4.1-ov50-1.16_ubuntu-18.04-bionic-gtk3.tar.gz
-  </tarball-url>
-    <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
+		<name> WeatherFax </name>
+		<version> 1.9.4 </version>
+		<release> 1 </release>
+		<summary> Open fax image files or decode audio faxes and overlay on chart </summary>
+		<api-version> 1.16 </api-version>
+		<open-source> yes </open-source>
+		<author> Sean d'Epagnier </author>
+		<source> https://github.com/rgleason/weatherfax_pi </source>
+		<description>
+		Weatherfax Plugin has simple calibration for image overly, Converts images, and can convert any image into a raster chart.  Db for HF radio fax stations via SSB and Metro URL internet retrieval.
+	  </description>
+		<target>ubuntu</target>
+		<target-version>18.04</target-version>
+		<tarball-url>
+		https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-alpha/raw/names/weatherfax-ubuntu-18.04-bionic-gtk3-tarball/versions/1.9.4.1+182.01c1c13/opencpn-plugin-weatherfax-1.9.4.1-ov50-1.16_ubuntu-18.04-bionic-gtk3.tar.gz
+	  </tarball-url>
+		<info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> WeatherFax </name>
-    <version> 1.9.4 </version>
-    <release> 1 </release>
-    <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
-    <api-version> 1.16 </api-version>
-    <open-source> yes </open-source>
-    <author> Sean d'Epagnier </author>
-    <source> https://github.com/rgleason/weatherfax_pi </source>
-    <description>
-    Weatherfax Plugin has simple calibration for image overly, Converts images, and can convert any image into a raster chart.  Db for HF radio fax stations via SSB and Metro URL internet retrieval.
-  </description>
-    <target>ubuntu</target>
-    <target-version>18.04</target-version>
-    <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-alpha/raw/names/weatherfax-ubuntu-18.04-bionic-tarball/versions/1.9.4.1+179.01c1c13/opencpn-plugin-weatherfax-1.9.4.1-ov50-1.16_ubuntu-18.04-bionic.tar.gz
-  </tarball-url>
-    <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
+		<name> WeatherFax </name>
+		<version> 1.9.4 </version>
+		<release> 1 </release>
+		<summary> Open fax image files or decode audio faxes and overlay on chart </summary>
+		<api-version> 1.16 </api-version>
+		<open-source> yes </open-source>
+		<author> Sean d'Epagnier </author>
+		<source> https://github.com/rgleason/weatherfax_pi </source>
+		<description>
+		Weatherfax Plugin has simple calibration for image overly, Converts images, and can convert any image into a raster chart.  Db for HF radio fax stations via SSB and Metro URL internet retrieval.
+	  </description>
+		<target>ubuntu</target>
+		<target-version>18.04</target-version>
+		<tarball-url>
+		https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-alpha/raw/names/weatherfax-ubuntu-18.04-bionic-tarball/versions/1.9.4.1+179.01c1c13/opencpn-plugin-weatherfax-1.9.4.1-ov50-1.16_ubuntu-18.04-bionic.tar.gz
+	  </tarball-url>
+		<info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> WeatherRouting </name>
-    <version> 1.13.5 </version>
-    <release> 3 </release>
-    <summary> Plugin to complete optimal routing with weather files </summary>
-    <api-version> 1.16 </api-version>
-    <open-source> yes </open-source>
-    <author> Sean d'Epagnier </author>
-    <source> https://github.com/rgleason/weather_routing_pi </source>
-    <description>
-    Weather_Routing Plugin optimizes weather routing
-  </description>
-    <target>darwin</target>
-    <target-version>10.13.6</target-version>
-    <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weather_routing-darwin-10.13.6-tarball/versions/1.13.5.3+506.c4cdefd/weather_routing_pi-1.13.5.3-ov50-1.16_darwin-10.13.6.tar.gz
-  </tarball-url>
-    <info-url> https://opencpn.org/OpenCPN/plugins/weatherroute.html </info-url>
+		<name> WeatherRouting </name>
+		<version> 1.13.5 </version>
+		<release> 3 </release>
+		<summary> Plugin to complete optimal routing with weather files </summary>
+		<api-version> 1.16 </api-version>
+		<open-source> yes </open-source>
+		<author> Sean d'Epagnier </author>
+		<source> https://github.com/rgleason/weather_routing_pi </source>
+		<description>
+		Weather_Routing Plugin optimizes weather routing
+	  </description>
+		<target>darwin</target>
+		<target-version>10.13.6</target-version>
+		<tarball-url>
+		https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weather_routing-darwin-10.13.6-tarball/versions/1.13.5.3+506.c4cdefd/weather_routing_pi-1.13.5.3-ov50-1.16_darwin-10.13.6.tar.gz
+	  </tarball-url>
+		<info-url> https://opencpn.org/OpenCPN/plugins/weatherroute.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> WeatherRouting </name>
-    <version> 1.13.5 </version>
-    <release> 3 </release>
-    <summary> Plugin to complete optimal routing with weather files </summary>
-    <api-version> 1.16 </api-version>
-    <open-source> yes </open-source>
-    <author> Sean d'Epagnier </author>
-    <source> https://github.com/rgleason/weather_routing_pi </source>
-    <description>
-    Weather_Routing Plugin optimizes weather routing
-  </description>
-    <target>debian</target>
-    <target-version>10</target-version>
-    <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weather_routing-debian-10-tarball/versions/1.13.5.3+508.c4cdefd/opencpn-plugin-weather_routing-1.13.5.3-ov50-1.16_debian-10.tar.gz
-  </tarball-url>
-    <info-url> https://opencpn.org/OpenCPN/plugins/weatherroute.html </info-url>
+		<name> WeatherRouting </name>
+		<version> 1.13.5 </version>
+		<release> 3 </release>
+		<summary> Plugin to complete optimal routing with weather files </summary>
+		<api-version> 1.16 </api-version>
+		<open-source> yes </open-source>
+		<author> Sean d'Epagnier </author>
+		<source> https://github.com/rgleason/weather_routing_pi </source>
+		<description>
+		Weather_Routing Plugin optimizes weather routing
+	  </description>
+		<target>debian</target>
+		<target-version>10</target-version>
+		<tarball-url>
+		https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weather_routing-debian-10-tarball/versions/1.13.5.3+508.c4cdefd/opencpn-plugin-weather_routing-1.13.5.3-ov50-1.16_debian-10.tar.gz
+	  </tarball-url>
+		<info-url> https://opencpn.org/OpenCPN/plugins/weatherroute.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> WeatherRouting </name>
-    <version> 1.13.5 </version>
-    <release> 3 </release>
-    <summary> Plugin to complete optimal routing with weather files </summary>
-    <api-version> 1.16 </api-version>
-    <open-source> yes </open-source>
-    <author> Sean d'Epagnier </author>
-    <source> https://github.com/rgleason/weather_routing_pi </source>
-    <description>
-    Weather_Routing Plugin optimizes weather routing
-  </description>
-    <target>fedora</target>
-    <target-version>29</target-version>
-    <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weather_routing-fedora-29-tarball/versions/1.13.5.3+504.c4cdefd/opencpn-plugin-weather_routing-1.13.5.3-ov50-1.16_fedora-29.tar.gz
-  </tarball-url>
-    <info-url> https://opencpn.org/OpenCPN/plugins/weatherroute.html </info-url>
+		<name> WeatherRouting </name>
+		<version> 1.13.5 </version>
+		<release> 3 </release>
+		<summary> Plugin to complete optimal routing with weather files </summary>
+		<api-version> 1.16 </api-version>
+		<open-source> yes </open-source>
+		<author> Sean d'Epagnier </author>
+		<source> https://github.com/rgleason/weather_routing_pi </source>
+		<description>
+		Weather_Routing Plugin optimizes weather routing
+	  </description>
+		<target>fedora</target>
+		<target-version>29</target-version>
+		<tarball-url>
+		https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weather_routing-fedora-29-tarball/versions/1.13.5.3+504.c4cdefd/opencpn-plugin-weather_routing-1.13.5.3-ov50-1.16_fedora-29.tar.gz
+	  </tarball-url>
+		<info-url> https://opencpn.org/OpenCPN/plugins/weatherroute.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> WeatherRouting </name>
-    <version> 1.13.5 </version>
-    <release> 3 </release>
-    <summary> Plugin to complete optimal routing with weather files </summary>
-    <api-version> 1.16 </api-version>
-    <open-source> yes </open-source>
-    <author> Sean d'Epagnier </author>
-    <source> https://github.com/rgleason/weather_routing_pi </source>
-    <description>
-    Weather_Routing Plugin optimizes weather routing
-  </description>
-    <target>flatpak</target>
-    <target-version>18.08</target-version>
-    <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weather_routing-flatpak-18.08-tarball/versions/1.13.5.3+505.c4cdefd/weather_routing_pi-1.13.5.3-ov50-1.16_flatpak-18.08.tar.gz
-  </tarball-url>
-    <info-url> https://opencpn.org/OpenCPN/plugins/weatherroute.html </info-url>
+		<name> WeatherRouting </name>
+		<version> 1.13.5 </version>
+		<release> 3 </release>
+		<summary> Plugin to complete optimal routing with weather files </summary>
+		<api-version> 1.16 </api-version>
+		<open-source> yes </open-source>
+		<author> Sean d'Epagnier </author>
+		<source> https://github.com/rgleason/weather_routing_pi </source>
+		<description>
+		Weather_Routing Plugin optimizes weather routing
+	  </description>
+		<target>flatpak</target>
+		<target-version>18.08</target-version>
+		<tarball-url>
+		https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weather_routing-flatpak-18.08-tarball/versions/1.13.5.3+505.c4cdefd/weather_routing_pi-1.13.5.3-ov50-1.16_flatpak-18.08.tar.gz
+	  </tarball-url>
+		<info-url> https://opencpn.org/OpenCPN/plugins/weatherroute.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> WeatherRouting </name>
-    <version> 1.13.5 </version>
-    <release> 3 </release>
-    <summary> Plugin to complete optimal routing with weather files </summary>
-    <api-version> 1.16 </api-version>
-    <open-source> yes </open-source>
-    <author> Sean d'Epagnier </author>
-    <source> https://github.com/rgleason/weather_routing_pi </source>
-    <description>
-    Weather_Routing Plugin optimizes weather routing
-  </description>
-    <target>mingw</target>
-    <target-version>10</target-version>
-    <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weather_routing-mingw-10-tarball/versions/1.13.5.3+511.c4cdefd/weather_routing_pi-1.13.5.3-ov50-1.16_mingw-10.tar.gz
-  </tarball-url>
-    <info-url> https://opencpn.org/OpenCPN/plugins/weatherroute.html </info-url>
+		<name> WeatherRouting </name>
+		<version> 1.13.5 </version>
+		<release> 3 </release>
+		<summary> Plugin to complete optimal routing with weather files </summary>
+		<api-version> 1.16 </api-version>
+		<open-source> yes </open-source>
+		<author> Sean d'Epagnier </author>
+		<source> https://github.com/rgleason/weather_routing_pi </source>
+		<description>
+		Weather_Routing Plugin optimizes weather routing
+	  </description>
+		<target>mingw</target>
+		<target-version>10</target-version>
+		<tarball-url>
+		https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weather_routing-mingw-10-tarball/versions/1.13.5.3+511.c4cdefd/weather_routing_pi-1.13.5.3-ov50-1.16_mingw-10.tar.gz
+	  </tarball-url>
+		<info-url> https://opencpn.org/OpenCPN/plugins/weatherroute.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> WeatherRouting </name>
-    <version> 1.13.5 </version>
-    <release> 3 </release>
-    <summary> Plugin to complete optimal routing with weather files </summary>
-    <api-version> 1.16 </api-version>
-    <open-source> yes </open-source>
-    <author> Sean d'Epagnier </author>
-    <source> https://github.com/rgleason/weather_routing_pi </source>
-    <description>
-Weather_Routing Plugin optimizes weather routing
-</description>
-    <target>msvc</target>
-    <target-version>10.0.14393</target-version>
-    <tarball-url>
-https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weather_routing-msvc-10.0.14393-tarball/versions/1.13.5.+151.c4cdefd/weather_routing_pi-1.13.5.3-ov50-1.16_msvc-10.0.14393.tar.gz
-</tarball-url>
-    <info-url> https://opencpn.org/OpenCPN/plugins/weatherroute.html </info-url>
+		<name> WeatherRouting </name>
+		<version> 1.13.5 </version>
+		<release> 3 </release>
+		<summary> Plugin to complete optimal routing with weather files </summary>
+		<api-version> 1.16 </api-version>
+		<open-source> yes </open-source>
+		<author> Sean d'Epagnier </author>
+		<source> https://github.com/rgleason/weather_routing_pi </source>
+		<description>	Weather_Routing Plugin optimizes weather routing
+	</description>
+		<target>msvc</target>
+		<target-version>10.0.14393</target-version>
+		<tarball-url>
+	https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weather_routing-msvc-10.0.14393-tarball/versions/1.13.5.+151.c4cdefd/weather_routing_pi-1.13.5.3-ov50-1.16_msvc-10.0.14393.tar.gz
+	</tarball-url>
+		<info-url> https://opencpn.org/OpenCPN/plugins/weatherroute.html </info-url>
   </plugin>
   <plugin version="1">
     <name> WeatherRouting </name>
