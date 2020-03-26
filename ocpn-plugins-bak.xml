@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <plugins>
   <version>0.0.0</version>
-  <date>2020-03-25 13:17</date>
+  <date>2020-03-25 13:25</date>
   <plugin version="1">
     <name> Squiddio </name>
     <version> 1.2.0 </version>
@@ -79,7 +79,7 @@ Android comes with sQuiddio built in.
   </description>
     <target>flatpak</target>
     <target-version>18.08</target-version>
-    <tarball-url> https://dl.cloudsmith.io/public/mauro-calvi/squiddio-pi/raw/names/squiddio-flatpak-18.08-tarball/versions/1.2.0.1+218.b192cc8/squiddio_pi-1.2.0.1_flatpak-18.08.tar.gz </tarball-url>
+    <tarball-url> https://dl.cloudsmith.io/public/mauro-calvi/squiddio-pi/raw/names/squiddio-flatpak-18.08.gz/versions/1.2.0.1+225.2b958d2/squiddio_pi-1.2.0.1_flatpak-18.08.tar.gz </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/sQuiddio.html </info-url>
   </plugin>
   <plugin version="1">
@@ -663,7 +663,7 @@ Save NMEA stream to a file.  Replay NMEA stream previously saved. Plugin by Seth
     <target>flatpak</target>
     <target-version>18.08</target-version>
     <tarball-url>
-    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-alpha/raw/names/weatherfax-flatpak-18.08-flatpak-tarball/versions/1.9.4.1+181.01c1c13/weatherfax_pi-1.9.4.1-ov50-1.16_flatpak-18.08.tar.gz
+    	https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-alpha/raw/names/weatherfax-flatpak-18.08.gz/versions/1.9.4.1+181.01c1c13/weatherfax_pi-1.9.4.1-ov50-1.16_flatpak-18.08.tar.gz
   </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
