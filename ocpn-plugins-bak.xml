@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <plugins>
   <version>0.0.0</version>
-  <date>2020-03-25 13:25</date>
+  <date>2020-03-26 14:43</date>
   <plugin version="1">
     <name> Squiddio </name>
     <version> 1.2.0 </version>
@@ -592,7 +592,7 @@ Save NMEA stream to a file.  Replay NMEA stream previously saved. Plugin by Seth
     <tarball-url> https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-prod/raw/names/vdr_pi-0.5.0-1_ubuntu-gtk3-18.04.tar.gz-ubuntu-gtk3-18.04-tarball/versions/v0.5.0/vdr_pi-0.5.0-1_ubuntu-gtk3-18.04.tar.gz </tarball-url>
   </plugin>
   <plugin version="1">
-    <name> weatherfax </name>
+    <name> WeatherFax </name>
     <version> 1.9.4 </version>
     <release> 1 </release>
     <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
@@ -611,7 +611,7 @@ Save NMEA stream to a file.  Replay NMEA stream previously saved. Plugin by Seth
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> weatherfax </name>
+    <name> WeatherFax </name>
     <version> 1.9.4 </version>
     <release> 1 </release>
     <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
@@ -630,7 +630,7 @@ Save NMEA stream to a file.  Replay NMEA stream previously saved. Plugin by Seth
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> weatherfax </name>
+    <name> WeatherFax </name>
     <version> 1.9.4 </version>
     <release> 1 </release>
     <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
@@ -649,7 +649,7 @@ Save NMEA stream to a file.  Replay NMEA stream previously saved. Plugin by Seth
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> weatherfax </name>
+    <name> WeatherFax </name>
     <version> 1.9.4 </version>
     <release> 1 </release>
     <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
@@ -668,7 +668,7 @@ Save NMEA stream to a file.  Replay NMEA stream previously saved. Plugin by Seth
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> weatherfax </name>
+    <name> WeatherFax </name>
     <version> 1.9.4 </version>
     <release> 1 </release>
     <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
@@ -687,7 +687,7 @@ Save NMEA stream to a file.  Replay NMEA stream previously saved. Plugin by Seth
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> weatherfax </name>
+    <name> WeatherFax </name>
     <version> 1.9.4 </version>
     <release> 1 </release>
     <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
@@ -706,7 +706,7 @@ Save NMEA stream to a file.  Replay NMEA stream previously saved. Plugin by Seth
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> weatherfax </name>
+    <name> WeatherFax </name>
     <version> 1.9.4 </version>
     <release> 1 </release>
     <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
@@ -725,7 +725,7 @@ Save NMEA stream to a file.  Replay NMEA stream previously saved. Plugin by Seth
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> weatherfax </name>
+    <name> WeatherFax </name>
     <version> 1.9.4 </version>
     <release> 1 </release>
     <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
