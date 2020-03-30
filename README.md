@@ -11,7 +11,7 @@ icons in the `icons/` directory.
 Dependencies
 ------------
 
-  - python >= 3.4
+  - python >= 3.6    (for print f)
   - GNU make (optional)
 
 
@@ -39,6 +39,20 @@ whatever file opencpn was installed with. You might want to add
 
 A third option is to just use `make` which creates a ocpn-plugins.xml in 
 current directory.
+
+
+Fast track: Checking URL's used in ocpn-plugins.xml
+------------------------------------------------
+
+    > python tools/ocpn-metadata-urls [path]  path assumed is to ocpn-plugins.xml
+	
+
+Fast track: Batch Files to use the above commands
+------------------------------------------------
+
+    > check.bat   - to be run from the "plugins" directory
+
+    > runcheck.bat   - to be run from the "tools" directory
 
 
 Developer info
