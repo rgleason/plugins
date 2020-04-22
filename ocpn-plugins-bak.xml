@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <plugins>
   <version>0.0.0</version>
-  <date>2020-04-22 08:06</date>
+  <date>2020-04-22 08:39</date>
   <plugin>
     <version>0.0.0</version>
     <date>2020-04-20 20:28</date>
@@ -1822,7 +1822,7 @@ https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weat
     </plugin>
   </plugin>
   <plugin version="1">
-    <name> WeatherFax </name>
+    <name> weatherfax </name>
     <version> 1.9.4 </version>
     <release> 1 </release>
     <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
@@ -1841,7 +1841,7 @@ https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weat
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> WeatherFax </name>
+    <name> weatherfax </name>
     <version> 1.9.4 </version>
     <release> 1 </release>
     <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
@@ -1860,7 +1860,7 @@ https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weat
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> WeatherFax </name>
+    <name> weatherfax </name>
     <version> 1.9.4 </version>
     <release> 1 </release>
     <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
@@ -1879,7 +1879,7 @@ https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weat
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> WeatherFax </name>
+    <name> weatherfax </name>
     <version> 1.9.4 </version>
     <release> 1 </release>
     <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
@@ -1893,12 +1893,12 @@ https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weat
     <target>flatpak</target>
     <target-version>18.08</target-version>
     <tarball-url>
-    	https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-alpha/raw/names/weatherfax-flatpak-18.08.gz/versions/1.9.4.1+181.01c1c13/weatherfax_pi-1.9.4.1-ov50-1.16_flatpak-18.08.tar.gz
+    https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-alpha/raw/names/weatherfax-flatpak-18.08-flatpak-tarball/versions/1.9.4.1+181.01c1c13/weatherfax_pi-1.9.4.1-ov50-1.16_flatpak-18.08.tar.gz
   </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> WeatherFax </name>
+    <name> weatherfax </name>
     <version> 1.9.4 </version>
     <release> 1 </release>
     <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
@@ -1917,7 +1917,7 @@ https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weat
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> WeatherFax </name>
+    <name> weatherfax </name>
     <version> 1.9.4 </version>
     <release> 1 </release>
     <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
@@ -1936,7 +1936,7 @@ https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weat
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> WeatherFax </name>
+    <name> weatherfax </name>
     <version> 1.9.4 </version>
     <release> 1 </release>
     <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
@@ -1955,7 +1955,7 @@ https://dl.cloudsmith.io/public/rick-gleason/opencpn-plugins-beta/raw/names/weat
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> WeatherFax </name>
+    <name> weatherfax </name>
     <version> 1.9.4 </version>
     <release> 1 </release>
     <summary> Open fax image files or decode audio faxes and overlay on chart </summary>
