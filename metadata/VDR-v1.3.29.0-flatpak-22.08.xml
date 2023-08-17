@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/rgleason/vdr_pi/1999 -->
+<!-- https://circleci.com/gh/rgleason/vdr_pi/2023 -->
 <plugin version="1">
   <name> VDR </name>
   <version> v1.3.29.0 </version>
@@ -20,5 +20,5 @@ Save NMEA stream to a file.  Replay NMEA stream previously saved. Used to test p
   <target-version>22.08</target-version>
   <target-arch>x86_64</target-arch>
   <tarball-url> https://dl.cloudsmith.io/public/opencpn/vdr-prod/raw/names/VDR-v1.3.29.0-flatpak-22.08-tarball/versions/v1.3.29.0/VDR-v1.3.29.0_flatpak-22.08-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 6bf748bd2602438df5a2ac310399cb87e43bed4857d5fa05221bdd77d12148e5 </tarball-checksum>
+  <tarball-checksum> 5d55f01ec97654139f86292ac0e0762731b0736d8fa070ac3deaeb9267ec1378 </tarball-checksum>
 </plugin>
