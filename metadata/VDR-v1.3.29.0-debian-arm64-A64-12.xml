@@ -20,5 +20,5 @@ Save NMEA stream to a file.  Replay NMEA stream previously saved. Used to test p
   <target-version>12</target-version>
   <target-arch>arm64</target-arch>
   <tarball-url> https://dl.cloudsmith.io/public/opencpn/vdr-prod/raw/names/VDR-v1.3.29.0-debian-arm64-A64-12-tarball/versions/v1.3.29.0/VDR-v1.3.29.0_debian-arm64-12-arm64.tar.gz </tarball-url>
-  <tarball-checksum> 53c59d3e97ddc87051ac43014b3cb07f5f752678d1b7cedff55f621450111f2b </tarball-checksum>
+  <tarball-checksum> f0ba4deb3a6b3027658bb979f25ff44eb1ab80572bf13331923219397b6d973c </tarball-checksum>
 </plugin>
