@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  -->
+<plugin version="1">
+  <name> Logbook </name>
+  <version> 1.4.32.0+1731.0e765ea </version>
+  <release> 0 </release>
+  <summary> Complex, feature-rich logbook </summary>
+
+  <api-version> 1.17 </api-version>
+  <open-source> yes </open-source>
+  <author> Del Elson </author>
+  <source>  </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/logbookkonni.html </info-url>
+
+  <description>  Marine Logbook
+with flexible and customizable layout. Help on YouTube,
+search LogbookKonni
+ </description>
+
+  <target>debian-x86_64</target>
+  <target-version>12</target-version>
+  <target-arch>x86_64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/logbookkonni-alpha/raw/names/Logbook-1.4-debian-x86_64-12-tarball/versions/1.4.32.0+1731.0e765ea/Logbook-1.4.32.0+1731.0e765ea_debian-x86_64-12-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 800b8aedc1c7ad79554a5ade50f68b07245a5c9525ff376649874974d3b6f754 </tarball-checksum>
+</plugin>
