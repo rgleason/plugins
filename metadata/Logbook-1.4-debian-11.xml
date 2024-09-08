@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/rgleason/LogbookKonni_pi/1872 -->
+<!-- https://circleci.com/gh/rgleason/LogbookKonni_pi/1884 -->
 <plugin version="1">
   <name> Logbook </name>
-  <version> 1.4.32.0+1872.8723ac6 </version>
+  <version> 1.4.33.0+1884.6b6dfde </version>
   <release> 0 </release>
   <summary> Complex, feature-rich logbook </summary>
 
@@ -20,6 +20,6 @@ search LogbookKonni
   <target>debian-x86_64</target>
   <target-version>11</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/logbookkonni-alpha/raw/names/Logbook-1.4-debian-11-tarball/versions/1.4.32.0+1872.8723ac6/Logbook-1.4.32.0+1872.8723ac6_debian-11-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 37be161b561054deb91ed5f42f633461f12a981b1e6d711c1f0340b5ae77089a </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/logbookkonni-alpha/raw/names/Logbook-1.4-debian-11-tarball/versions/1.4.33.0+1884.6b6dfde/Logbook-1.4.33.0+1884.6b6dfde_debian-11-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> f75601dbbb2ba333023a5b25cb761671e935147aadb090834632264790812945 </tarball-checksum>
 </plugin>
