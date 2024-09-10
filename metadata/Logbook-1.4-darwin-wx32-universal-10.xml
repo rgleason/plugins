@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/rgleason/LogbookKonni_pi/1901 -->
+<plugin version="1">
+  <name> Logbook </name>
+  <version> 1.4.33.0+1901.7a1f70f </version>
+  <release> 0 </release>
+  <summary> Complex, feature-rich logbook </summary>
+
+  <api-version> 1.17 </api-version>
+  <open-source> yes </open-source>
+  <author> Del Elson </author>
+  <source>  </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/logbookkonni.html </info-url>
+
+  <description>  Marine Logbook
+with flexible and customizable layout. Help on YouTube,
+search LogbookKonni
+ </description>
+
+  <target>darwin-wx32</target>
+  <target-version>10</target-version>
+  <target-arch>arm64;x86_64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/logbookkonni-alpha/raw/names/Logbook-1.4-darwin-wx32-universal-10-tarball/versions/1.4.33.0+1901.7a1f70f/Logbook-1.4.33.0+1901.7a1f70f_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> ea7c563c2c72ca51af2619172b7f93a1a3e6e9194e74f67ca75d802830fafe1e </tarball-checksum>
+</plugin>
