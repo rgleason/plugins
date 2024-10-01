@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/rgleason/LogbookKonni_pi/1901 -->
+<!-- https://circleci.com/gh/rgleason/LogbookKonni_pi/1925 -->
 <plugin version="1">
   <name> Logbook </name>
-  <version> 1.4.33.0+1901.7a1f70f </version>
+  <version> 1.4.34.0+1925.1fabf9a </version>
   <release> 0 </release>
   <summary> Complex, feature-rich logbook </summary>
 
@@ -20,6 +20,6 @@ search LogbookKonni
   <target>darwin-wx32</target>
   <target-version>10</target-version>
   <target-arch>arm64;x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/logbookkonni-alpha/raw/names/Logbook-1.4-darwin-wx32-universal-10-tarball/versions/1.4.33.0+1901.7a1f70f/Logbook-1.4.33.0+1901.7a1f70f_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> ea7c563c2c72ca51af2619172b7f93a1a3e6e9194e74f67ca75d802830fafe1e </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/logbookkonni-alpha/raw/names/Logbook-1.4-darwin-wx32-universal-10-tarball/versions/1.4.34.0+1925.1fabf9a/Logbook-1.4.34.0+1925.1fabf9a_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 2a768a37ba0400e081fe0b9bffb85d73321278695f7b14195aa43409b83d65fd </tarball-checksum>
 </plugin>
