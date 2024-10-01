@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/rgleason/LogbookKonni_pi/1926 -->
+<plugin version="1">
+  <name> Logbook </name>
+  <version> 1.4.34.0+1926.1fabf9a </version>
+  <release> 0 </release>
+  <summary> Complex, feature-rich logbook </summary>
+
+  <api-version> 1.17 </api-version>
+  <open-source> yes </open-source>
+  <author> Del Elson </author>
+  <source>  </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/logbookkonni.html </info-url>
+
+  <description>  Marine Logbook
+with flexible and customizable layout. Help on YouTube,
+search LogbookKonni
+ </description>
+
+  <target>android-armhf</target>
+  <target-version>16</target-version>
+  <target-arch>armhf</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/logbookkonni-alpha/raw/names/Logbook-1.4-android-armhf-A32-16-tarball/versions/1.4.34.0+1926.1fabf9a/Logbook-1.4.34.0+1926.1fabf9a_android-armhf-16-armhf.tar.gz </tarball-url>
+  <tarball-checksum> e35e395a56d1bd1c797a0d53ed8d137b9e1ff8311326c9c642e363a4c25b5e1c </tarball-checksum>
+</plugin>
