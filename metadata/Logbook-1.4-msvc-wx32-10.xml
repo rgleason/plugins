@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/rgleason/logbookkonni-pi/builds/50711130 -->
+<!-- https://ci.appveyor.com/project/rgleason/logbookkonni-pi/builds/51094737 -->
 <plugin version="1">
   <name> Logbook </name>
-  <version> 1.4.34.0+225.1fabf9a </version>
+  <version> 1.4.35.0+228.abd7102 </version>
   <release> 0 </release>
   <summary> Complex, feature-rich logbook </summary>
 
@@ -20,6 +20,6 @@ search LogbookKonni
   <target>msvc-wx32</target>
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/logbookkonni-alpha/raw/names/Logbook-1.4-msvc-wx32-10-tarball/versions/1.4.34.0+225.1fabf9a/Logbook-1.4.34.0+225.1fabf9a_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> 2f93cc10856c5338f518a70f6d4a0349146446044cb2ddb40f7da12eb2fad3ec </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/logbookkonni-alpha/raw/names/Logbook-1.4-msvc-wx32-10-tarball/versions/1.4.35.0+228.abd7102/Logbook-1.4.35.0+228.abd7102_msvc-wx32-10-x86.tar.gz </tarball-url>
+  <tarball-checksum> ca76385d2ad2b945fcd75c1243d40ee7e08d4c9bfacfdaa8a1db978ce5a60384 </tarball-checksum>
 </plugin>
