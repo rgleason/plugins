@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/rgleason/vdr_pi/2982 -->
+<!-- https://circleci.com/gh/rgleason/vdr_pi/2992 -->
 <plugin version="1">
   <name> VDR </name>
-  <version> 1.3.37.0+2982.739e22f </version>
+  <version> 1.3.37.0+2992.b95a259 </version>
   <release> 0 </release>
   <summary> Voyage Data Recorder </summary>
 
@@ -19,6 +19,6 @@ Save NMEA stream to a file.  Replay NMEA stream previously saved. Used to test p
   <target>darwin-wx32</target>
   <target-version>10</target-version>
   <target-arch>arm64;x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/vdr-alpha/raw/names/VDR-1.3-darwin-wx32-universal-10-tarball/versions/1.3.37.0+2982.739e22f/VDR-1.3.37.0+2982.739e22f_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 3eb107382cf04226d3100f7e67f47691e59aec150e5358fc5211d00e20bfc5f3 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/vdr-alpha/raw/names/VDR-1.3-darwin-wx32-universal-10-tarball/versions/1.3.37.0+2992.b95a259/VDR-1.3.37.0+2992.b95a259_darwin-wx32-10-arm64-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> b9ad141ea03813130b9761a905303c358e3e7247ed351774b90ada66a728f2f4 </tarball-checksum>
 </plugin>
