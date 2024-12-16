@@ -2,7 +2,7 @@
 <!--  -->
 <plugin version="1">
   <name> Logbook </name>
-  <version> 1.4.35.0+1989.90ad52c </version>
+  <version> 1.4.35.0+2053.5bf10e0 </version>
   <release> 0 </release>
   <summary> Complex, feature-rich logbook </summary>
 
@@ -20,6 +20,6 @@ search LogbookKonni
   <target>debian-wx32-arm64</target>
   <target-version>11</target-version>
   <target-arch>arm64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/logbookkonni-alpha/raw/names/Logbook-1.4-debian-wx32-arm64-A64-11-tarball/versions/1.4.35.0+1989.90ad52c/Logbook-1.4.35.0+1989.90ad52c_debian-wx32-arm64-11-arm64.tar.gz </tarball-url>
-  <tarball-checksum> 5cf7bd62c7b4ec16087bb4ce48184e17f8b72c2e43d6733b595e4c3ab0e7d230 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/logbookkonni-alpha/raw/names/Logbook-1.4-debian-wx32-arm64-A64-11-tarball/versions/1.4.35.0+2053.5bf10e0/Logbook-1.4.35.0+2053.5bf10e0_debian-wx32-arm64-11-arm64.tar.gz </tarball-url>
+  <tarball-checksum> 0777fb69443bc2ea4361f10672cdbf673518e1ee493d87ec06aa57a4050edd2c </tarball-checksum>
 </plugin>
