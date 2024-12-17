@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/rgleason/LogbookKonni_pi/2062 -->
+<!-- https://circleci.com/gh/rgleason/LogbookKonni_pi/2113 -->
 <plugin version="1">
   <name> Logbook </name>
-  <version> 1.4.35.0+2062.77fd842 </version>
+  <version> 1.4.35.0+2113.d805d3e </version>
   <release> 0 </release>
   <summary> Complex, feature-rich logbook </summary>
 
@@ -20,6 +20,6 @@ search LogbookKonni
   <target>flatpak-aarch64</target>
   <target-version>24.08</target-version>
   <target-arch>aarch64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/logbookkonni-alpha/raw/names/Logbook-1.4-flatpak-aarch64-A64-24.08-tarball/versions/1.4.35.0+2062.77fd842/Logbook-1.4.35.0+2062.77fd842_flatpak-aarch64-24.08-aarch64.tar.gz </tarball-url>
-  <tarball-checksum> a0e82c1728d1ad9f067d2256c13b899c61c810d370abcfb2b325acaa05c57267 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/logbookkonni-alpha/raw/names/Logbook-1.4-flatpak-aarch64-A64-24.08-tarball/versions/1.4.35.0+2113.d805d3e/Logbook-1.4.35.0+2113.d805d3e_flatpak-aarch64-24.08-aarch64.tar.gz </tarball-url>
+  <tarball-checksum> c47b40531728e6fc1052216361a5eb5ae38b23d8a1aeffdc2abb1bec7455b5ef </tarball-checksum>
 </plugin>
