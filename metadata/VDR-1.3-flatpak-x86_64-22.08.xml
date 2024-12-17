@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/rgleason/vdr_pi/3332 -->
+<!-- https://circleci.com/gh/rgleason/vdr_pi/3524 -->
 <plugin version="1">
   <name> VDR </name>
-  <version> 1.3.37.0+3332.76ca7e6 </version>
+  <version> 1.3.37.0+3524.281642b </version>
   <release> 0 </release>
   <summary> Voyage Data Recorder </summary>
 
@@ -19,6 +19,6 @@ Save NMEA stream to a file.  Replay NMEA stream previously saved. Used to test p
   <target>flatpak-x86_64</target>
   <target-version>22.08</target-version>
   <target-arch>x86_64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/vdr-alpha/raw/names/VDR-1.3-flatpak-x86_64-22.08-tarball/versions/1.3.37.0+3332.76ca7e6/VDR-1.3.37.0+3332.76ca7e6_flatpak-x86_64-22.08-x86_64.tar.gz </tarball-url>
-  <tarball-checksum> 2a6823df010a96de5e1519d39c787e67979833d173d028097448f5041269f0d3 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/vdr-alpha/raw/names/VDR-1.3-flatpak-x86_64-22.08-tarball/versions/1.3.37.0+3524.281642b/VDR-1.3.37.0+3524.281642b_flatpak-x86_64-22.08-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 262f26197bb4569fbc19e1466c17eddadfaacb23127ce96c6845cc46bbf6788d </tarball-checksum>
 </plugin>
