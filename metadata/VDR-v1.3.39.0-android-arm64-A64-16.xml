@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://circleci.com/gh/rgleason/vdr_pi/3797 -->
+<plugin version="1">
+  <name> VDR </name>
+  <version> v1.3.39.0 </version>
+  <release> 0 </release>
+  <summary> Voyage Data Recorder </summary>
+
+  <api-version> 1.19 </api-version>
+  <open-source> yes </open-source>
+  <author> Rick Gleason </author>
+  <source>  </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/vdr.html </info-url>
+
+  <description> A Voyage Data Recorder (VDR) to record and play NMEA files.
+Save NMEA stream to a file.  Replay NMEA stream previously saved. Used to test plugins.
+ </description>
+
+  <target>android-arm64</target>
+  <target-version>16</target-version>
+  <target-arch>arm64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/vdr-prod/raw/names/VDR-v1.3.39.0-android-arm64-A64-16-tarball/versions/v1.3.39.0/VDR-v1.3.39.0_android-arm64-16-arm64.tar.gz </tarball-url>
+  <tarball-checksum> 40de3ce056a7d528d245b30bed361e91efc9f31fc808ca4d49c8056bc14324fe </tarball-checksum>
+</plugin>
