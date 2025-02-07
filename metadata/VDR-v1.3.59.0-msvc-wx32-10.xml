@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://ci.appveyor.com/project/rgleason/vdr-pi/builds/51475115 -->
+<!-- https://ci.appveyor.com/project/rgleason/vdr-pi/builds/51475116 -->
 <plugin version="1">
   <name> VDR </name>
   <version> v1.3.59.0 </version>
@@ -20,5 +20,5 @@ Save NMEA stream to a file.  Replay NMEA stream previously saved. Used to test p
   <target-version>10</target-version>
   <target-arch>x86</target-arch>
   <tarball-url> https://dl.cloudsmith.io/public/opencpn/vdr-prod/raw/names/VDR-v1.3.59.0-msvc-wx32-10-tarball/versions/v1.3.59.0/VDR-v1.3.59.0_msvc-wx32-10-x86.tar.gz </tarball-url>
-  <tarball-checksum> 110de3ee7dbe5927dd1e97f8c5a057dd01ff3730cc8a0c8d67e48f2b9171d461 </tarball-checksum>
+  <tarball-checksum> 426121a7fe9b5ae8aaea689f5fea291304891200d7ed65e9c755d10c84af8a9f </tarball-checksum>
 </plugin>
