@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/rgleason/vdr_pi/5998 -->
+<!-- https://circleci.com/gh/rgleason/vdr_pi/6106 -->
 <plugin version="1">
   <name> VDR </name>
-  <version> 1.3.60.0+5998.f5dc706 </version>
+  <version> 1.3.61.0+6106.305c10f </version>
   <release> 0 </release>
   <summary> Voyage Data Recorder </summary>
 
@@ -19,6 +19,6 @@ Save NMEA stream to a file.  Replay NMEA stream previously saved. Used to test p
   <target>android-arm64</target>
   <target-version>16</target-version>
   <target-arch>arm64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/vdr-alpha/raw/names/VDR-1.3-android-arm64-A64-16-tarball/versions/1.3.60.0+5998.f5dc706/VDR-1.3.60.0+5998.f5dc706_android-arm64-16-arm64.tar.gz </tarball-url>
-  <tarball-checksum> 0f1b7d31da0a7a0abc28ef9dff7ba8075ca8128b834a10e3343929a7d0bb8feb </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/vdr-alpha/raw/names/VDR-1.3-android-arm64-A64-16-tarball/versions/1.3.61.0+6106.305c10f/VDR-1.3.61.0+6106.305c10f_android-arm64-16-arm64.tar.gz </tarball-url>
+  <tarball-checksum> 26628176765f530cc0e8c8ac27563a21086264ad2f8cee1afecd76d34953555f </tarball-checksum>
 </plugin>
