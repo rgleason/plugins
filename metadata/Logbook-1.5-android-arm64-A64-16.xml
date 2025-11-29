@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- https://circleci.com/gh/rgleason/LogbookKonni_pi/2327 -->
+<!-- https://circleci.com/gh/rgleason/LogbookKonni_pi/2341 -->
 <plugin version="1">
   <name> Logbook </name>
-  <version> 1.5.0.0+2327.a6c59b6 </version>
+  <version> 1.5.0.0+2341.6eba6ef </version>
   <release> 0 </release>
   <summary> Complex, feature-rich logbook </summary>
 
@@ -20,6 +20,6 @@ search LogbookKonni
   <target>android-arm64</target>
   <target-version>16</target-version>
   <target-arch>arm64</target-arch>
-  <tarball-url> https://dl.cloudsmith.io/public/opencpn/logbookkonni-alpha/raw/names/Logbook-1.5-android-arm64-A64-16-tarball/versions/1.5.0.0+2327.a6c59b6/Logbook-1.5.0.0+2327.a6c59b6_android-arm64-16-arm64.tar.gz </tarball-url>
-  <tarball-checksum> 5eb7b5ec95af7f2fb750133e4b8a4c8474bd6625ce333663d55ba21bcf7512d8 </tarball-checksum>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/logbookkonni-alpha/raw/names/Logbook-1.5-android-arm64-A64-16-tarball/versions/1.5.0.0+2341.6eba6ef/Logbook-1.5.0.0+2341.6eba6ef_android-arm64-16-arm64.tar.gz </tarball-url>
+  <tarball-checksum> cff6906904aff48852d7963fe4ca15ce447d6d53045619a22a8a6e7944b0a2d8 </tarball-checksum>
 </plugin>
