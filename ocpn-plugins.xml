@@ -1,16 +1,16 @@
 <?xml version="1.0" ?>
 <plugins>
   <version>0.0.0</version>
-  <date>2026-01-31 15:53</date>
+  <date>2026-02-01 11:35</date>
   <plugin version="1">
     <name> AutoTrackRaymarine </name>
-    <version> 2.3.0.0 </version>
+    <version> 2.3.1.0 </version>
     <release> 0 </release>
     <summary> Route following for Raymarine EV-1 Autopilots </summary>
     <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Douwe Fokkema </author>
-    <source> https://github.com/douwefokkema/AutoTrackRaymarine_pi </source>
+    <source> https://github.com/rgleason/AutoTrackRaymarine_pi </source>
     <description>
 Route tracking and remote control for Evolution pilots
 </description>
@@ -20,19 +20,19 @@ Route tracking and remote control for Evolution pilots
     <target-version>16</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.0.0-android-arm64-16-android-arm64-tarball/versions/v2.3.0.0/AutoTrackRaymarine_pi-2.3.0.0-android-arm64-16-android-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.1.0-android-arm64-16-android-arm64-tarball/versions/v2.3.1.0/AutoTrackRaymarine_pi-2.3.1.0-android-arm64-16-android-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autotrackraymarine/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AutoTrackRaymarine </name>
-    <version> 2.3.0.0 </version>
+    <version> 2.3.1.0 </version>
     <release> 0 </release>
     <summary> Route following for Raymarine EV-1 Autopilots </summary>
     <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Douwe Fokkema </author>
-    <source> https://github.com/douwefokkema/AutoTrackRaymarine_pi </source>
+    <source> https://github.com/rgleason/AutoTrackRaymarine_pi </source>
     <description>
 Route tracking and remote control for Evolution pilots
 </description>
@@ -42,41 +42,41 @@ Route tracking and remote control for Evolution pilots
     <target-version>16</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.0.0-android-armhf-16-android-armhf-tarball/versions/v2.3.0.0/AutoTrackRaymarine_pi-2.3.0.0-android-armhf-16-android-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.1.0-android-armhf-16-android-armhf-tarball/versions/v2.3.1.0/AutoTrackRaymarine_pi-2.3.1.0-android-armhf-16-android-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autotrackraymarine/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AutoTrackRaymarine </name>
-    <version> 2.3.0.0 </version>
+    <version> 2.3.1.0 </version>
     <release> 0 </release>
     <summary> Route following for Raymarine EV-1 Autopilots </summary>
     <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Douwe Fokkema </author>
-    <source> https://github.com/douwefokkema/AutoTrackRaymarine_pi </source>
+    <source> https://github.com/rgleason/AutoTrackRaymarine_pi </source>
     <description>
 Route tracking and remote control for Evolution pilots
 </description>
     <target>darwin-wx32</target>
     <build-target>darwin</build-target>
     <build-gtk/>
-    <target-version>14.1</target-version>
+    <target-version>14.3.1</target-version>
     <target-arch>arm64;x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.0.0-darwin-wx32-arm64-x86_64-14.1-macos-tarball/versions/v2.3.0.0/AutoTrackRaymarine_pi-2.3.0.0-darwin-wx32-arm64-x86_64-14.1-macos.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.1.0-darwin-wx32-arm64-x86_64-14.3.1-macos-tarball/versions/v2.3.1.0/AutoTrackRaymarine_pi-2.3.1.0-darwin-wx32-arm64-x86_64-14.3.1-macos.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autotrackraymarine/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AutoTrackRaymarine </name>
-    <version> 2.3.0.0 </version>
+    <version> 2.3.1.0 </version>
     <release> 0 </release>
     <summary> Route following for Raymarine EV-1 Autopilots </summary>
     <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Douwe Fokkema </author>
-    <source> https://github.com/douwefokkema/AutoTrackRaymarine_pi </source>
+    <source> https://github.com/rgleason/AutoTrackRaymarine_pi </source>
     <description>
 Route tracking and remote control for Evolution pilots
 </description>
@@ -86,19 +86,19 @@ Route tracking and remote control for Evolution pilots
     <target-version>11</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.0.0-debian-arm64-11-bullseye-arm64-tarball/versions/v2.3.0.0/AutoTrackRaymarine_pi-2.3.0.0-debian-arm64-11-bullseye-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.1.0-debian-arm64-11-bullseye-arm64-tarball/versions/v2.3.1.0/AutoTrackRaymarine_pi-2.3.1.0-debian-arm64-11-bullseye-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autotrackraymarine/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AutoTrackRaymarine </name>
-    <version> 2.3.0.0 </version>
+    <version> 2.3.1.0 </version>
     <release> 0 </release>
     <summary> Route following for Raymarine EV-1 Autopilots </summary>
     <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Douwe Fokkema </author>
-    <source> https://github.com/douwefokkema/AutoTrackRaymarine_pi </source>
+    <source> https://github.com/rgleason/AutoTrackRaymarine_pi </source>
     <description>
 Route tracking and remote control for Evolution pilots
 </description>
@@ -108,19 +108,41 @@ Route tracking and remote control for Evolution pilots
     <target-version>12</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.0.0-debian-arm64-12-bookworm-arm64-tarball/versions/v2.3.0.0/AutoTrackRaymarine_pi-2.3.0.0-debian-arm64-12-bookworm-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.1.0-debian-arm64-12-bookworm-arm64-tarball/versions/v2.3.1.0/AutoTrackRaymarine_pi-2.3.1.0-debian-arm64-12-bookworm-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autotrackraymarine/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AutoTrackRaymarine </name>
-    <version> 2.3.0.0 </version>
+    <version> 2.3.1.0 </version>
     <release> 0 </release>
     <summary> Route following for Raymarine EV-1 Autopilots </summary>
     <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Douwe Fokkema </author>
-    <source> https://github.com/douwefokkema/AutoTrackRaymarine_pi </source>
+    <source> https://github.com/rgleason/AutoTrackRaymarine_pi </source>
+    <description>
+Route tracking and remote control for Evolution pilots
+</description>
+    <target>debian-arm64</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>arm64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.1.0-debian-arm64-13-trixie-arm64-tarball/versions/v2.3.1.0/AutoTrackRaymarine_pi-2.3.1.0-debian-arm64-13-trixie-arm64.tar.gz
+</tarball-url>
+    <info-url> https://opencpn-manuals.github.io/main/autotrackraymarine/index.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> AutoTrackRaymarine </name>
+    <version> 2.3.1.0 </version>
+    <release> 0 </release>
+    <summary> Route following for Raymarine EV-1 Autopilots </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Douwe Fokkema </author>
+    <source> https://github.com/rgleason/AutoTrackRaymarine_pi </source>
     <description>
 Route tracking and remote control for Evolution pilots
 </description>
@@ -130,13 +152,13 @@ Route tracking and remote control for Evolution pilots
     <target-version>11</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.0.0-debian-armhf-11-bullseye-armhf-tarball/versions/v2.3.0.0/AutoTrackRaymarine_pi-2.3.0.0-debian-armhf-11-bullseye-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.1.0-debian-armhf-11-bullseye-armhf-tarball/versions/v2.3.1.0/AutoTrackRaymarine_pi-2.3.1.0-debian-armhf-11-bullseye-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autotrackraymarine/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AutoTrackRaymarine </name>
-    <version> 2.3.0.0 </version>
+    <version> 2.3.1.0 </version>
     <release> 0 </release>
     <summary> Route following for Raymarine EV-1 Autopilots </summary>
     <api-version> 1.18 </api-version>
@@ -152,19 +174,41 @@ Route tracking and remote control for Evolution pilots
     <target-version>12</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.0.0-debian-armhf-12-bookworm-armhf-tarball/versions/v2.3.0.0/AutoTrackRaymarine_pi-2.3.0.0-debian-armhf-12-bookworm-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.1.0-debian-armhf-12-bookworm-armhf-tarball/versions/v2.3.1.0/AutoTrackRaymarine_pi-2.3.1.0-debian-armhf-12-bookworm-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autotrackraymarine/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AutoTrackRaymarine </name>
-    <version> 2.3.0.0 </version>
+    <version> 2.3.1.0 </version>
     <release> 0 </release>
     <summary> Route following for Raymarine EV-1 Autopilots </summary>
     <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Douwe Fokkema </author>
-    <source> https://github.com/douwefokkema/AutoTrackRaymarine_pi </source>
+    <source> https://github.com/rgleason/AutoTrackRaymarine_pi </source>
+    <description>
+Route tracking and remote control for Evolution pilots
+</description>
+    <target>debian-armhf</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>armhf</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.1.0-debian-armhf-13-trixie-armhf-tarball/versions/v2.3.1.0/AutoTrackRaymarine_pi-2.3.1.0-debian-armhf-13-trixie-armhf.tar.gz
+</tarball-url>
+    <info-url> https://opencpn-manuals.github.io/main/autotrackraymarine/index.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> AutoTrackRaymarine </name>
+    <version> 2.3.1.0 </version>
+    <release> 0 </release>
+    <summary> Route following for Raymarine EV-1 Autopilots </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Douwe Fokkema </author>
+    <source> https://github.com/rgleason/AutoTrackRaymarine_pi </source>
     <description>
 Route tracking and remote control for Evolution pilots
 </description>
@@ -174,19 +218,19 @@ Route tracking and remote control for Evolution pilots
     <target-version>11</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.0.0-debian-x86_64-11-bullseye-tarball/versions/v2.3.0.0/AutoTrackRaymarine_pi-2.3.0.0-debian-x86_64-11-bullseye.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.1.0-debian-x86_64-11-bullseye-tarball/versions/v2.3.1.0/AutoTrackRaymarine_pi-2.3.1.0-debian-x86_64-11-bullseye.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autotrackraymarine/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AutoTrackRaymarine </name>
-    <version> 2.3.0.0 </version>
+    <version> 2.3.1.0 </version>
     <release> 0 </release>
     <summary> Route following for Raymarine EV-1 Autopilots </summary>
     <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Douwe Fokkema </author>
-    <source> https://github.com/douwefokkema/AutoTrackRaymarine_pi </source>
+    <source> https://github.com/rgleason/AutoTrackRaymarine_pi </source>
     <description>
 Route tracking and remote control for Evolution pilots
 </description>
@@ -196,19 +240,41 @@ Route tracking and remote control for Evolution pilots
     <target-version>12</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.0.0-debian-x86_64-12-bookworm-tarball/versions/v2.3.0.0/AutoTrackRaymarine_pi-2.3.0.0-debian-x86_64-12-bookworm.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.1.0-debian-x86_64-12-bookworm-tarball/versions/v2.3.1.0/AutoTrackRaymarine_pi-2.3.1.0-debian-x86_64-12-bookworm.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autotrackraymarine/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AutoTrackRaymarine </name>
-    <version> 2.3.0.0 </version>
+    <version> 2.3.1.0 </version>
     <release> 0 </release>
     <summary> Route following for Raymarine EV-1 Autopilots </summary>
     <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Douwe Fokkema </author>
-    <source> https://github.com/douwefokkema/AutoTrackRaymarine_pi </source>
+    <source> https://github.com/rgleason/AutoTrackRaymarine_pi </source>
+    <description>
+Route tracking and remote control for Evolution pilots
+</description>
+    <target>debian-x86_64</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.1.0-debian-x86_64-13-trixie-tarball/versions/v2.3.1.0/AutoTrackRaymarine_pi-2.3.1.0-debian-x86_64-13-trixie.tar.gz
+</tarball-url>
+    <info-url> https://opencpn-manuals.github.io/main/autotrackraymarine/index.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> AutoTrackRaymarine </name>
+    <version> 2.3.1.0 </version>
+    <release> 0 </release>
+    <summary> Route following for Raymarine EV-1 Autopilots </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Douwe Fokkema </author>
+    <source> https://github.com/rgleason/AutoTrackRaymarine_pi </source>
     <description>
 Route tracking and remote control for Evolution pilots
 </description>
@@ -218,19 +284,19 @@ Route tracking and remote control for Evolution pilots
     <target-version>22.08</target-version>
     <target-arch>aarch64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.0.0-flatpak-aarch64-22.08-flatpak-tarball/versions/v2.3.0.0/AutoTrackRaymarine_pi-2.3.0.0-aarch64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.1.0-flatpak-aarch64-22.08-flatpak-tarball/versions/v2.3.1.0/AutoTrackRaymarine_pi-2.3.1.0-aarch64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autotrackraymarine/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AutoTrackRaymarine </name>
-    <version> 2.3.0.0 </version>
+    <version> 2.3.1.0 </version>
     <release> 0 </release>
     <summary> Route following for Raymarine EV-1 Autopilots </summary>
     <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Douwe Fokkema </author>
-    <source> https://github.com/douwefokkema/AutoTrackRaymarine_pi </source>
+    <source> https://github.com/rgleason/AutoTrackRaymarine_pi </source>
     <description>
 Route tracking and remote control for Evolution pilots
 </description>
@@ -240,19 +306,19 @@ Route tracking and remote control for Evolution pilots
     <target-version>24.08</target-version>
     <target-arch>aarch64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.0.0-flatpak-aarch64-24.08-flatpak-tarball/versions/v2.3.0.0/AutoTrackRaymarine_pi-2.3.0.0-aarch64_flatpak-24.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.1.0-flatpak-aarch64-24.08-flatpak-tarball/versions/v2.3.1.0/AutoTrackRaymarine_pi-2.3.1.0-aarch64_flatpak-24.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autotrackraymarine/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AutoTrackRaymarine </name>
-    <version> 2.3.0.0 </version>
+    <version> 2.3.1.0 </version>
     <release> 0 </release>
     <summary> Route following for Raymarine EV-1 Autopilots </summary>
     <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Douwe Fokkema </author>
-    <source> https://github.com/douwefokkema/AutoTrackRaymarine_pi </source>
+    <source> https://github.com/rgleason/AutoTrackRaymarine_pi </source>
     <description>
 Route tracking and remote control for Evolution pilots
 </description>
@@ -262,19 +328,19 @@ Route tracking and remote control for Evolution pilots
     <target-version>22.08</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.0.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v2.3.0.0/AutoTrackRaymarine_pi-2.3.0.0-x86_64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.1.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v2.3.1.0/AutoTrackRaymarine_pi-2.3.1.0-x86_64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autotrackraymarine/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AutoTrackRaymarine </name>
-    <version> 2.3.0.0 </version>
+    <version> 2.3.1.0 </version>
     <release> 0 </release>
     <summary> Route following for Raymarine EV-1 Autopilots </summary>
     <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Douwe Fokkema </author>
-    <source> https://github.com/douwefokkema/AutoTrackRaymarine_pi </source>
+    <source> https://github.com/rgleason/AutoTrackRaymarine_pi </source>
     <description>
 Route tracking and remote control for Evolution pilots
 </description>
@@ -284,19 +350,19 @@ Route tracking and remote control for Evolution pilots
     <target-version>24.08</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.0.0-flatpak-x86_64-24.08-flatpak-tarball/versions/v2.3.0.0/AutoTrackRaymarine_pi-2.3.0.0-x86_64_flatpak-24.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.1.0-flatpak-x86_64-24.08-flatpak-tarball/versions/v2.3.1.0/AutoTrackRaymarine_pi-2.3.1.0-x86_64_flatpak-24.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autotrackraymarine/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AutoTrackRaymarine </name>
-    <version> 2.3.0.0 </version>
+    <version> 2.3.1.0 </version>
     <release> 0 </release>
     <summary> Route following for Raymarine EV-1 Autopilots </summary>
     <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Douwe Fokkema </author>
-    <source> https://github.com/douwefokkema/AutoTrackRaymarine_pi </source>
+    <source> https://github.com/rgleason/AutoTrackRaymarine_pi </source>
     <description>
 Route tracking and remote control for Evolution pilots
 </description>
@@ -306,19 +372,19 @@ Route tracking and remote control for Evolution pilots
     <target-version>10.0.20348</target-version>
     <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.0.0-msvc-x86-10.0.20348-MSVC-tarball/versions/v2.3.0.0/AutoTrackRaymarine_pi-2.3.0.0-msvc-x86-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.1.0-msvc-x86-10.0.20348-MSVC-tarball/versions/v2.3.1.0/AutoTrackRaymarine_pi-2.3.1.0-msvc-x86-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autotrackraymarine/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AutoTrackRaymarine </name>
-    <version> 2.3.0.0 </version>
+    <version> 2.3.1.0 </version>
     <release> 0 </release>
     <summary> Route following for Raymarine EV-1 Autopilots </summary>
     <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Douwe Fokkema </author>
-    <source> https://github.com/douwefokkema/AutoTrackRaymarine_pi </source>
+    <source> https://github.com/rgleason/AutoTrackRaymarine_pi </source>
     <description>
 Route tracking and remote control for Evolution pilots
 </description>
@@ -328,19 +394,19 @@ Route tracking and remote control for Evolution pilots
     <target-version>10.0.20348</target-version>
     <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.0.0-msvc-x86-wx32-10.0.20348-MSVC-tarball/versions/v2.3.0.0/AutoTrackRaymarine_pi-2.3.0.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.1.0-msvc-x86-wx32-10.0.20348-MSVC-tarball/versions/v2.3.1.0/AutoTrackRaymarine_pi-2.3.1.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autotrackraymarine/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AutoTrackRaymarine </name>
-    <version> 2.3.0.0 </version>
+    <version> 2.3.1.0 </version>
     <release> 0 </release>
     <summary> Route following for Raymarine EV-1 Autopilots </summary>
     <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Douwe Fokkema </author>
-    <source> https://github.com/douwefokkema/AutoTrackRaymarine_pi </source>
+    <source> https://github.com/rgleason/AutoTrackRaymarine_pi </source>
     <description>
 Route tracking and remote control for Evolution pilots
 </description>
@@ -350,7 +416,7 @@ Route tracking and remote control for Evolution pilots
     <target-version>22.04</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.0.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v2.3.0.0/AutoTrackRaymarine_pi-2.3.0.0-ubuntu-x86_64-22.04-jammy.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autotrackraymarine-prod/raw/names/AutoTrackRaymarine_pi-2.3.1.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v2.3.1.0/AutoTrackRaymarine_pi-2.3.1.0-ubuntu-x86_64-22.04-jammy.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autotrackraymarine/index.html </info-url>
   </plugin>
@@ -6605,7 +6671,7 @@ using NMEA0183 ECVSD sentence.
   </plugin>
   <plugin version="1">
     <name> AIS Radar view </name>
-    <version> 1.4.20.0 </version>
+    <version> 1.4.21.0 </version>
     <release> 0 </release>
     <summary> AIS Radar view Plugin </summary>
     <api-version> 1.18 </api-version>
@@ -6621,13 +6687,13 @@ Radar PlugIn for OpenCPN Shows AIS targets in a radar style view.
     <target-version>16</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.20.0-android-arm64-16-android-arm64-tarball/versions/v1.4.20.0/aisradar_pi-1.4.20.0-android-arm64-16-android-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.21.0-android-arm64-16-android-arm64-tarball/versions/v1.4.21.0/aisradar_pi-1.4.21.0-android-arm64-16-android-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/aisradarview.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AIS Radar view </name>
-    <version> 1.4.20.0 </version>
+    <version> 1.4.21.0 </version>
     <release> 0 </release>
     <summary> AIS Radar view Plugin </summary>
     <api-version> 1.18 </api-version>
@@ -6643,13 +6709,13 @@ Radar PlugIn for OpenCPN Shows AIS targets in a radar style view.
     <target-version>16</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.20.0-android-armhf-16-android-armhf-tarball/versions/v1.4.20.0/aisradar_pi-1.4.20.0-android-armhf-16-android-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.21.0-android-armhf-16-android-armhf-tarball/versions/v1.4.21.0/aisradar_pi-1.4.21.0-android-armhf-16-android-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/aisradarview.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AIS Radar view </name>
-    <version> 1.4.20.0 </version>
+    <version> 1.4.21.0 </version>
     <release> 0 </release>
     <summary> AIS Radar view Plugin </summary>
     <api-version> 1.18 </api-version>
@@ -6662,16 +6728,16 @@ Radar PlugIn for OpenCPN Shows AIS targets in a radar style view.
     <target>darwin-wx32</target>
     <build-target>darwin</build-target>
     <build-gtk/>
-    <target-version>14.1</target-version>
+    <target-version>14.3.1</target-version>
     <target-arch>arm64;x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.20.0-darwin-wx32-arm64-x86_64-14.1-macos-tarball/versions/v1.4.20.0/aisradar_pi-1.4.20.0-darwin-wx32-arm64-x86_64-14.1-macos.tar.gz
+https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.21.0-darwin-wx32-arm64-x86_64-14.3.1-macos-tarball/versions/v1.4.21.0/aisradar_pi-1.4.21.0-darwin-wx32-arm64-x86_64-14.3.1-macos.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/aisradarview.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AIS Radar view </name>
-    <version> 1.4.20.0 </version>
+    <version> 1.4.21.0 </version>
     <release> 0 </release>
     <summary> AIS Radar view Plugin </summary>
     <api-version> 1.18 </api-version>
@@ -6687,13 +6753,13 @@ Radar PlugIn for OpenCPN Shows AIS targets in a radar style view.
     <target-version>11</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.20.0-debian-arm64-11-bullseye-arm64-tarball/versions/v1.4.20.0/aisradar_pi-1.4.20.0-debian-arm64-11-bullseye-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.21.0-debian-arm64-11-bullseye-arm64-tarball/versions/v1.4.21.0/aisradar_pi-1.4.21.0-debian-arm64-11-bullseye-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/aisradarview.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AIS Radar view </name>
-    <version> 1.4.20.0 </version>
+    <version> 1.4.21.0 </version>
     <release> 0 </release>
     <summary> AIS Radar view Plugin </summary>
     <api-version> 1.18 </api-version>
@@ -6709,13 +6775,35 @@ Radar PlugIn for OpenCPN Shows AIS targets in a radar style view.
     <target-version>12</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.20.0-debian-arm64-12-bookworm-arm64-tarball/versions/v1.4.20.0/aisradar_pi-1.4.20.0-debian-arm64-12-bookworm-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.21.0-debian-arm64-12-bookworm-arm64-tarball/versions/v1.4.21.0/aisradar_pi-1.4.21.0-debian-arm64-12-bookworm-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/aisradarview.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AIS Radar view </name>
-    <version> 1.4.20.0 </version>
+    <version> 1.4.21.0 </version>
+    <release> 0 </release>
+    <summary> AIS Radar view Plugin </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Johan Sman </author>
+    <source> https://github.com/rgleason/AISradar_pi </source>
+    <description>
+Radar PlugIn for OpenCPN Shows AIS targets in a radar style view.
+</description>
+    <target>debian-arm64</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>arm64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.21.0-debian-arm64-13-trixie-arm64-tarball/versions/v1.4.21.0/aisradar_pi-1.4.21.0-debian-arm64-13-trixie-arm64.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/OpenCPN/plugins/aisradarview.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> AIS Radar view </name>
+    <version> 1.4.21.0 </version>
     <release> 0 </release>
     <summary> AIS Radar view Plugin </summary>
     <api-version> 1.18 </api-version>
@@ -6731,13 +6819,13 @@ Radar PlugIn for OpenCPN Shows AIS targets in a radar style view.
     <target-version>11</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.20.0-debian-armhf-11-bullseye-armhf-tarball/versions/v1.4.20.0/aisradar_pi-1.4.20.0-debian-armhf-11-bullseye-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.21.0-debian-armhf-11-bullseye-armhf-tarball/versions/v1.4.21.0/aisradar_pi-1.4.21.0-debian-armhf-11-bullseye-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/aisradarview.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AIS Radar view </name>
-    <version> 1.4.20.0 </version>
+    <version> 1.4.21.0 </version>
     <release> 0 </release>
     <summary> AIS Radar view Plugin </summary>
     <api-version> 1.18 </api-version>
@@ -6753,13 +6841,35 @@ Radar PlugIn for OpenCPN Shows AIS targets in a radar style view.
     <target-version>12</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.20.0-debian-armhf-12-bookworm-armhf-tarball/versions/v1.4.20.0/aisradar_pi-1.4.20.0-debian-armhf-12-bookworm-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.21.0-debian-armhf-12-bookworm-armhf-tarball/versions/v1.4.21.0/aisradar_pi-1.4.21.0-debian-armhf-12-bookworm-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/aisradarview.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AIS Radar view </name>
-    <version> 1.4.20.0 </version>
+    <version> 1.4.21.0 </version>
+    <release> 0 </release>
+    <summary> AIS Radar view Plugin </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Johan Sman </author>
+    <source> https://github.com/rgleason/AISradar_pi </source>
+    <description>
+Radar PlugIn for OpenCPN Shows AIS targets in a radar style view.
+</description>
+    <target>debian-armhf</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>armhf</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.21.0-debian-armhf-13-trixie-armhf-tarball/versions/v1.4.21.0/aisradar_pi-1.4.21.0-debian-armhf-13-trixie-armhf.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/OpenCPN/plugins/aisradarview.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> AIS Radar view </name>
+    <version> 1.4.21.0 </version>
     <release> 0 </release>
     <summary> AIS Radar view Plugin </summary>
     <api-version> 1.18 </api-version>
@@ -6775,13 +6885,13 @@ Radar PlugIn for OpenCPN Shows AIS targets in a radar style view.
     <target-version>11</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.20.0-debian-x86_64-11-bullseye-tarball/versions/v1.4.20.0/aisradar_pi-1.4.20.0-debian-x86_64-11-bullseye.tar.gz
+https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.21.0-debian-x86_64-11-bullseye-tarball/versions/v1.4.21.0/aisradar_pi-1.4.21.0-debian-x86_64-11-bullseye.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/aisradarview.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AIS Radar view </name>
-    <version> 1.4.20.0 </version>
+    <version> 1.4.21.0 </version>
     <release> 0 </release>
     <summary> AIS Radar view Plugin </summary>
     <api-version> 1.18 </api-version>
@@ -6797,13 +6907,35 @@ Radar PlugIn for OpenCPN Shows AIS targets in a radar style view.
     <target-version>12</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.20.0-debian-x86_64-12-bookworm-tarball/versions/v1.4.20.0/aisradar_pi-1.4.20.0-debian-x86_64-12-bookworm.tar.gz
+https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.21.0-debian-x86_64-12-bookworm-tarball/versions/v1.4.21.0/aisradar_pi-1.4.21.0-debian-x86_64-12-bookworm.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/aisradarview.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AIS Radar view </name>
-    <version> 1.4.20.0 </version>
+    <version> 1.4.21.0 </version>
+    <release> 0 </release>
+    <summary> AIS Radar view Plugin </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Johan Sman </author>
+    <source> https://github.com/rgleason/AISradar_pi </source>
+    <description>
+Radar PlugIn for OpenCPN Shows AIS targets in a radar style view.
+</description>
+    <target>debian-x86_64</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.21.0-debian-x86_64-13-trixie-tarball/versions/v1.4.21.0/aisradar_pi-1.4.21.0-debian-x86_64-13-trixie.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/OpenCPN/plugins/aisradarview.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> AIS Radar view </name>
+    <version> 1.4.21.0 </version>
     <release> 0 </release>
     <summary> AIS Radar view Plugin </summary>
     <api-version> 1.18 </api-version>
@@ -6819,13 +6951,13 @@ Radar PlugIn for OpenCPN Shows AIS targets in a radar style view.
     <target-version>22.08</target-version>
     <target-arch>aarch64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.20.0-flatpak-aarch64-22.08-flatpak-tarball/versions/v1.4.20.0/aisradar_pi-1.4.20.0-aarch64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.21.0-flatpak-aarch64-22.08-flatpak-tarball/versions/v1.4.21.0/aisradar_pi-1.4.21.0-aarch64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/aisradarview.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AIS Radar view </name>
-    <version> 1.4.20.0 </version>
+    <version> 1.4.21.0 </version>
     <release> 0 </release>
     <summary> AIS Radar view Plugin </summary>
     <api-version> 1.18 </api-version>
@@ -6841,13 +6973,13 @@ Radar PlugIn for OpenCPN Shows AIS targets in a radar style view.
     <target-version>24.08</target-version>
     <target-arch>aarch64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.20.0-flatpak-aarch64-24.08-flatpak-tarball/versions/v1.4.20.0/aisradar_pi-1.4.20.0-aarch64_flatpak-24.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.21.0-flatpak-aarch64-24.08-flatpak-tarball/versions/v1.4.21.0/aisradar_pi-1.4.21.0-aarch64_flatpak-24.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/aisradarview.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AIS Radar view </name>
-    <version> 1.4.20.0 </version>
+    <version> 1.4.21.0 </version>
     <release> 0 </release>
     <summary> AIS Radar view Plugin </summary>
     <api-version> 1.18 </api-version>
@@ -6863,13 +6995,13 @@ Radar PlugIn for OpenCPN Shows AIS targets in a radar style view.
     <target-version>22.08</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.20.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v1.4.20.0/aisradar_pi-1.4.20.0-x86_64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.21.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v1.4.21.0/aisradar_pi-1.4.21.0-x86_64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/aisradarview.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AIS Radar view </name>
-    <version> 1.4.20.0 </version>
+    <version> 1.4.21.0 </version>
     <release> 0 </release>
     <summary> AIS Radar view Plugin </summary>
     <api-version> 1.18 </api-version>
@@ -6885,13 +7017,13 @@ Radar PlugIn for OpenCPN Shows AIS targets in a radar style view.
     <target-version>24.08</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.20.0-flatpak-x86_64-24.08-flatpak-tarball/versions/v1.4.20.0/aisradar_pi-1.4.20.0-x86_64_flatpak-24.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.21.0-flatpak-x86_64-24.08-flatpak-tarball/versions/v1.4.21.0/aisradar_pi-1.4.21.0-x86_64_flatpak-24.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/aisradarview.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AIS Radar view </name>
-    <version> 1.4.20.0 </version>
+    <version> 1.4.21.0 </version>
     <release> 0 </release>
     <summary> AIS Radar view Plugin </summary>
     <api-version> 1.18 </api-version>
@@ -6907,13 +7039,13 @@ Radar PlugIn for OpenCPN Shows AIS targets in a radar style view.
     <target-version>10.0.20348</target-version>
     <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.20.0-msvc-x86-10.0.20348-MSVC-tarball/versions/v1.4.20.0/aisradar_pi-1.4.20.0-msvc-x86-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.21.0-msvc-x86-10.0.20348-MSVC-tarball/versions/v1.4.21.0/aisradar_pi-1.4.21.0-msvc-x86-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/aisradarview.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AIS Radar view </name>
-    <version> 1.4.20.0 </version>
+    <version> 1.4.21.0 </version>
     <release> 0 </release>
     <summary> AIS Radar view Plugin </summary>
     <api-version> 1.18 </api-version>
@@ -6929,13 +7061,13 @@ Radar PlugIn for OpenCPN Shows AIS targets in a radar style view.
     <target-version>10.0.20348</target-version>
     <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.20.0-msvc-x86-wx32-10.0.20348-MSVC-tarball/versions/v1.4.20.0/aisradar_pi-1.4.20.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.21.0-msvc-x86-wx32-10.0.20348-MSVC-tarball/versions/v1.4.21.0/aisradar_pi-1.4.21.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/aisradarview.html </info-url>
   </plugin>
   <plugin version="1">
     <name> AIS Radar view </name>
-    <version> 1.4.20.0 </version>
+    <version> 1.4.21.0 </version>
     <release> 0 </release>
     <summary> AIS Radar view Plugin </summary>
     <api-version> 1.18 </api-version>
@@ -6951,13 +7083,13 @@ Radar PlugIn for OpenCPN Shows AIS targets in a radar style view.
     <target-version>22.04</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.20.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v1.4.20.0/aisradar_pi-1.4.20.0-ubuntu-x86_64-22.04-jammy.tar.gz
+https://dl.cloudsmith.io/public/opencpn/aisradar-prod/raw/names/aisradar_pi-1.4.21.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v1.4.21.0/aisradar_pi-1.4.21.0-ubuntu-x86_64-22.04-jammy.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/aisradarview.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Autopilot Route </name>
-    <version> 0.4.35.0 </version>
+    <version> 0.4.42.0 </version>
     <release> 0 </release>
     <summary> Autopilot Route PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -6973,13 +7105,13 @@ Configurable Autopilot Route following abilities.
     <target-version>16</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.35.0-android-arm64-16-android-arm64-tarball/versions/v0.4.35.0/autopilot_route_pi-0.4.35.0-android-arm64-16-android-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.42.0-android-arm64-16-android-arm64-tarball/versions/v0.4.42.0/autopilot_route_pi-0.4.42.0-android-arm64-16-android-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:plugins:safety:odraw1.6_pi </info-url>
   </plugin>
   <plugin version="1">
     <name> Autopilot Route </name>
-    <version> 0.4.35.0 </version>
+    <version> 0.4.42.0 </version>
     <release> 0 </release>
     <summary> Autopilot Route PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -6995,13 +7127,13 @@ Configurable Autopilot Route following abilities.
     <target-version>16</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.35.0-android-armhf-16-android-armhf-tarball/versions/v0.4.35.0/autopilot_route_pi-0.4.35.0-android-armhf-16-android-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.42.0-android-armhf-16-android-armhf-tarball/versions/v0.4.42.0/autopilot_route_pi-0.4.42.0-android-armhf-16-android-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:plugins:safety:odraw1.6_pi </info-url>
   </plugin>
   <plugin version="1">
     <name> Autopilot Route </name>
-    <version> 0.4.35.0 </version>
+    <version> 0.4.42.0 </version>
     <release> 0 </release>
     <summary> Autopilot Route PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -7014,16 +7146,16 @@ Configurable Autopilot Route following abilities.
     <target>darwin-wx32</target>
     <build-target>darwin</build-target>
     <build-gtk/>
-    <target-version>14.1</target-version>
+    <target-version>14.3.1</target-version>
     <target-arch>arm64;x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.35.0-darwin-wx32-arm64-x86_64-14.1-macos-tarball/versions/v0.4.35.0/autopilot_route_pi-0.4.35.0-darwin-wx32-arm64-x86_64-14.1-macos.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.42.0-darwin-wx32-arm64-x86_64-14.3.1-macos-tarball/versions/v0.4.42.0/autopilot_route_pi-0.4.42.0-darwin-wx32-arm64-x86_64-14.3.1-macos.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:plugins:safety:odraw1.6_pi </info-url>
   </plugin>
   <plugin version="1">
     <name> Autopilot Route </name>
-    <version> 0.4.35.0 </version>
+    <version> 0.4.42.0 </version>
     <release> 0 </release>
     <summary> Autopilot Route PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -7039,13 +7171,13 @@ Configurable Autopilot Route following abilities.
     <target-version>11</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.35.0-debian-arm64-11-bullseye-arm64-tarball/versions/v0.4.35.0/autopilot_route_pi-0.4.35.0-debian-arm64-11-bullseye-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.42.0-debian-arm64-11-bullseye-arm64-tarball/versions/v0.4.42.0/autopilot_route_pi-0.4.42.0-debian-arm64-11-bullseye-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:plugins:safety:odraw1.6_pi </info-url>
   </plugin>
   <plugin version="1">
     <name> Autopilot Route </name>
-    <version> 0.4.35.0 </version>
+    <version> 0.4.42.0 </version>
     <release> 0 </release>
     <summary> Autopilot Route PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -7061,13 +7193,35 @@ Configurable Autopilot Route following abilities.
     <target-version>12</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.35.0-debian-arm64-12-bookworm-arm64-tarball/versions/v0.4.35.0/autopilot_route_pi-0.4.35.0-debian-arm64-12-bookworm-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.42.0-debian-arm64-12-bookworm-arm64-tarball/versions/v0.4.42.0/autopilot_route_pi-0.4.42.0-debian-arm64-12-bookworm-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:plugins:safety:odraw1.6_pi </info-url>
   </plugin>
   <plugin version="1">
     <name> Autopilot Route </name>
-    <version> 0.4.35.0 </version>
+    <version> 0.4.42.0 </version>
+    <release> 0 </release>
+    <summary> Autopilot Route PlugIn for OpenCPN </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean D'Epagnier </author>
+    <source> https://github.com/rgleason/autopilot_route_pi </source>
+    <description>
+Configurable Autopilot Route following abilities.
+</description>
+    <target>debian-arm64</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>arm64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.42.0-debian-arm64-13-trixie-arm64-tarball/versions/v0.4.42.0/autopilot_route_pi-0.4.42.0-debian-arm64-13-trixie-arm64.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:plugins:safety:odraw1.6_pi </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> Autopilot Route </name>
+    <version> 0.4.42.0 </version>
     <release> 0 </release>
     <summary> Autopilot Route PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -7083,13 +7237,13 @@ Configurable Autopilot Route following abilities.
     <target-version>11</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.35.0-debian-armhf-11-bullseye-armhf-tarball/versions/v0.4.35.0/autopilot_route_pi-0.4.35.0-debian-armhf-11-bullseye-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.42.0-debian-armhf-11-bullseye-armhf-tarball/versions/v0.4.42.0/autopilot_route_pi-0.4.42.0-debian-armhf-11-bullseye-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:plugins:safety:odraw1.6_pi </info-url>
   </plugin>
   <plugin version="1">
     <name> Autopilot Route </name>
-    <version> 0.4.35.0 </version>
+    <version> 0.4.42.0 </version>
     <release> 0 </release>
     <summary> Autopilot Route PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -7105,13 +7259,35 @@ Configurable Autopilot Route following abilities.
     <target-version>12</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.35.0-debian-armhf-12-bookworm-armhf-tarball/versions/v0.4.35.0/autopilot_route_pi-0.4.35.0-debian-armhf-12-bookworm-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.42.0-debian-armhf-12-bookworm-armhf-tarball/versions/v0.4.42.0/autopilot_route_pi-0.4.42.0-debian-armhf-12-bookworm-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:plugins:safety:odraw1.6_pi </info-url>
   </plugin>
   <plugin version="1">
     <name> Autopilot Route </name>
-    <version> 0.4.35.0 </version>
+    <version> 0.4.42.0 </version>
+    <release> 0 </release>
+    <summary> Autopilot Route PlugIn for OpenCPN </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean D'Epagnier </author>
+    <source> https://github.com/rgleason/autopilot_route_pi </source>
+    <description>
+Configurable Autopilot Route following abilities.
+</description>
+    <target>debian-armhf</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>armhf</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.42.0-debian-armhf-13-trixie-armhf-tarball/versions/v0.4.42.0/autopilot_route_pi-0.4.42.0-debian-armhf-13-trixie-armhf.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:plugins:safety:odraw1.6_pi </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> Autopilot Route </name>
+    <version> 0.4.42.0 </version>
     <release> 0 </release>
     <summary> Autopilot Route PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -7127,13 +7303,13 @@ Configurable Autopilot Route following abilities.
     <target-version>11</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.35.0-debian-x86_64-11-bullseye-tarball/versions/v0.4.35.0/autopilot_route_pi-0.4.35.0-debian-x86_64-11-bullseye.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.42.0-debian-x86_64-11-bullseye-tarball/versions/v0.4.42.0/autopilot_route_pi-0.4.42.0-debian-x86_64-11-bullseye.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:plugins:safety:odraw1.6_pi </info-url>
   </plugin>
   <plugin version="1">
     <name> Autopilot Route </name>
-    <version> 0.4.35.0 </version>
+    <version> 0.4.42.0 </version>
     <release> 0 </release>
     <summary> Autopilot Route PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -7149,13 +7325,35 @@ Configurable Autopilot Route following abilities.
     <target-version>12</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.35.0-debian-x86_64-12-bookworm-tarball/versions/v0.4.35.0/autopilot_route_pi-0.4.35.0-debian-x86_64-12-bookworm.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.42.0-debian-x86_64-12-bookworm-tarball/versions/v0.4.42.0/autopilot_route_pi-0.4.42.0-debian-x86_64-12-bookworm.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:plugins:safety:odraw1.6_pi </info-url>
   </plugin>
   <plugin version="1">
     <name> Autopilot Route </name>
-    <version> 0.4.35.0 </version>
+    <version> 0.4.42.0 </version>
+    <release> 0 </release>
+    <summary> Autopilot Route PlugIn for OpenCPN </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean D'Epagnier </author>
+    <source> https://github.com/rgleason/autopilot_route_pi </source>
+    <description>
+Configurable Autopilot Route following abilities.
+</description>
+    <target>debian-x86_64</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.42.0-debian-x86_64-13-trixie-tarball/versions/v0.4.42.0/autopilot_route_pi-0.4.42.0-debian-x86_64-13-trixie.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:plugins:safety:odraw1.6_pi </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> Autopilot Route </name>
+    <version> 0.4.42.0 </version>
     <release> 0 </release>
     <summary> Autopilot Route PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -7171,13 +7369,13 @@ Configurable Autopilot Route following abilities.
     <target-version>22.08</target-version>
     <target-arch>aarch64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.35.0-flatpak-aarch64-22.08-flatpak-tarball/versions/v0.4.35.0/autopilot_route_pi-0.4.35.0-aarch64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.42.0-flatpak-aarch64-22.08-flatpak-tarball/versions/v0.4.42.0/autopilot_route_pi-0.4.42.0-aarch64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:plugins:safety:odraw1.6_pi </info-url>
   </plugin>
   <plugin version="1">
     <name> Autopilot Route </name>
-    <version> 0.4.35.0 </version>
+    <version> 0.4.42.0 </version>
     <release> 0 </release>
     <summary> Autopilot Route PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -7193,13 +7391,13 @@ Configurable Autopilot Route following abilities.
     <target-version>24.08</target-version>
     <target-arch>aarch64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.35.0-flatpak-aarch64-24.08-flatpak-tarball/versions/v0.4.35.0/autopilot_route_pi-0.4.35.0-aarch64_flatpak-24.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.42.0-flatpak-aarch64-24.08-flatpak-tarball/versions/v0.4.42.0/autopilot_route_pi-0.4.42.0-aarch64_flatpak-24.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:plugins:safety:odraw1.6_pi </info-url>
   </plugin>
   <plugin version="1">
     <name> Autopilot Route </name>
-    <version> 0.4.35.0 </version>
+    <version> 0.4.42.0 </version>
     <release> 0 </release>
     <summary> Autopilot Route PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -7215,13 +7413,13 @@ Configurable Autopilot Route following abilities.
     <target-version>22.08</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.35.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v0.4.35.0/autopilot_route_pi-0.4.35.0-x86_64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.42.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v0.4.42.0/autopilot_route_pi-0.4.42.0-x86_64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:plugins:safety:odraw1.6_pi </info-url>
   </plugin>
   <plugin version="1">
     <name> Autopilot Route </name>
-    <version> 0.4.35.0 </version>
+    <version> 0.4.42.0 </version>
     <release> 0 </release>
     <summary> Autopilot Route PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -7237,13 +7435,13 @@ Configurable Autopilot Route following abilities.
     <target-version>24.08</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.35.0-flatpak-x86_64-24.08-flatpak-tarball/versions/v0.4.35.0/autopilot_route_pi-0.4.35.0-x86_64_flatpak-24.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.42.0-flatpak-x86_64-24.08-flatpak-tarball/versions/v0.4.42.0/autopilot_route_pi-0.4.42.0-x86_64_flatpak-24.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:plugins:safety:odraw1.6_pi </info-url>
   </plugin>
   <plugin version="1">
     <name> Autopilot Route </name>
-    <version> 0.4.35.0 </version>
+    <version> 0.4.42.0 </version>
     <release> 0 </release>
     <summary> Autopilot Route PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -7259,13 +7457,13 @@ Configurable Autopilot Route following abilities.
     <target-version>10.0.20348</target-version>
     <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.35.0-msvc-x86-10.0.20348-MSVC-tarball/versions/v0.4.35.0/autopilot_route_pi-0.4.35.0-msvc-x86-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.42.0-msvc-x86-10.0.20348-MSVC-tarball/versions/v0.4.42.0/autopilot_route_pi-0.4.42.0-msvc-x86-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:plugins:safety:odraw1.6_pi </info-url>
   </plugin>
   <plugin version="1">
     <name> Autopilot Route </name>
-    <version> 0.4.35.0 </version>
+    <version> 0.4.42.0 </version>
     <release> 0 </release>
     <summary> Autopilot Route PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -7281,13 +7479,13 @@ Configurable Autopilot Route following abilities.
     <target-version>10.0.20348</target-version>
     <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.35.0-msvc-x86-wx32-10.0.20348-MSVC-tarball/versions/v0.4.35.0/autopilot_route_pi-0.4.35.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.42.0-msvc-x86-wx32-10.0.20348-MSVC-tarball/versions/v0.4.42.0/autopilot_route_pi-0.4.42.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:plugins:safety:odraw1.6_pi </info-url>
   </plugin>
   <plugin version="1">
     <name> Autopilot Route </name>
-    <version> 0.4.35.0 </version>
+    <version> 0.4.42.0 </version>
     <release> 0 </release>
     <summary> Autopilot Route PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -7303,7 +7501,7 @@ Configurable Autopilot Route following abilities.
     <target-version>22.04</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.35.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v0.4.35.0/autopilot_route_pi-0.4.35.0-ubuntu-x86_64-22.04-jammy.tar.gz
+https://dl.cloudsmith.io/public/opencpn/autopilot-route-prod/raw/names/autopilot_route_pi-0.4.42.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v0.4.42.0/autopilot_route_pi-0.4.42.0-ubuntu-x86_64-22.04-jammy.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:plugins:safety:odraw1.6_pi </info-url>
   </plugin>
@@ -14170,7 +14368,7 @@ https://dl.cloudsmith.io/public/opencpn/plots-prod/raw/names/plots_pi-2.3.15.0-u
   </plugin>
   <plugin version="1">
     <name> Polar </name>
-    <version> 1.2.37.0 </version>
+    <version> 1.2.38.0 </version>
     <release> 0 </release>
     <summary> Polar Plugin makes polar diagrams for Weather Routing Predictions </summary>
     <api-version> 1.18 </api-version>
@@ -14186,13 +14384,13 @@ Polar Plugin reads VDR data files directly, reads from Opencpn input Nmea channe
     <target-version>16</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.37.0-android-arm64-16-android-arm64-tarball/versions/v1.2.37.0/polar_pi-1.2.37.0-android-arm64-16-android-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.38.0-android-arm64-16-android-arm64-tarball/versions/v1.2.38.0/polar_pi-1.2.38.0-android-arm64-16-android-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/polar.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Polar </name>
-    <version> 1.2.37.0 </version>
+    <version> 1.2.38.0 </version>
     <release> 0 </release>
     <summary> Polar Plugin makes polar diagrams for Weather Routing Predictions </summary>
     <api-version> 1.18 </api-version>
@@ -14208,13 +14406,13 @@ Polar Plugin reads VDR data files directly, reads from Opencpn input Nmea channe
     <target-version>16</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.37.0-android-armhf-16-android-armhf-tarball/versions/v1.2.37.0/polar_pi-1.2.37.0-android-armhf-16-android-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.38.0-android-armhf-16-android-armhf-tarball/versions/v1.2.38.0/polar_pi-1.2.38.0-android-armhf-16-android-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/polar.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Polar </name>
-    <version> 1.2.37.0 </version>
+    <version> 1.2.38.0 </version>
     <release> 0 </release>
     <summary> Polar Plugin makes polar diagrams for Weather Routing Predictions </summary>
     <api-version> 1.18 </api-version>
@@ -14227,16 +14425,16 @@ Polar Plugin reads VDR data files directly, reads from Opencpn input Nmea channe
     <target>darwin-wx32</target>
     <build-target>darwin</build-target>
     <build-gtk/>
-    <target-version>14.1</target-version>
+    <target-version>14.3.1</target-version>
     <target-arch>arm64;x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.37.0-darwin-wx32-arm64-x86_64-14.1-macos-tarball/versions/v1.2.37.0/polar_pi-1.2.37.0-darwin-wx32-arm64-x86_64-14.1-macos.tar.gz
+https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.38.0-darwin-wx32-arm64-x86_64-14.3.1-macos-tarball/versions/v1.2.38.0/polar_pi-1.2.38.0-darwin-wx32-arm64-x86_64-14.3.1-macos.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/polar.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Polar </name>
-    <version> 1.2.37.0 </version>
+    <version> 1.2.38.0 </version>
     <release> 0 </release>
     <summary> Polar Plugin makes polar diagrams for Weather Routing Predictions </summary>
     <api-version> 1.18 </api-version>
@@ -14252,13 +14450,13 @@ Polar Plugin reads VDR data files directly, reads from Opencpn input Nmea channe
     <target-version>11</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.37.0-debian-arm64-11-bullseye-arm64-tarball/versions/v1.2.37.0/polar_pi-1.2.37.0-debian-arm64-11-bullseye-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.38.0-debian-arm64-11-bullseye-arm64-tarball/versions/v1.2.38.0/polar_pi-1.2.38.0-debian-arm64-11-bullseye-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/polar.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Polar </name>
-    <version> 1.2.37.0 </version>
+    <version> 1.2.38.0 </version>
     <release> 0 </release>
     <summary> Polar Plugin makes polar diagrams for Weather Routing Predictions </summary>
     <api-version> 1.18 </api-version>
@@ -14274,13 +14472,35 @@ Polar Plugin reads VDR data files directly, reads from Opencpn input Nmea channe
     <target-version>12</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.37.0-debian-arm64-12-bookworm-arm64-tarball/versions/v1.2.37.0/polar_pi-1.2.37.0-debian-arm64-12-bookworm-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.38.0-debian-arm64-12-bookworm-arm64-tarball/versions/v1.2.38.0/polar_pi-1.2.38.0-debian-arm64-12-bookworm-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/polar.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Polar </name>
-    <version> 1.2.37.0 </version>
+    <version> 1.2.38.0 </version>
+    <release> 0 </release>
+    <summary> Polar Plugin makes polar diagrams for Weather Routing Predictions </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Peter Tulp </author>
+    <source> https://github.com/rgleason/polar_pi </source>
+    <description>
+Polar Plugin reads VDR data files directly, reads from Opencpn input Nmea channel (Record Start/Stop at bottom) and direct from LogBoookKonni records, to creates a polar diagram which can then be edited manually, saved or loaded as a Boat Polar file. The LogbookKonni selection has several options.
+</description>
+    <target>debian-arm64</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>arm64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.38.0-debian-arm64-13-trixie-arm64-tarball/versions/v1.2.38.0/polar_pi-1.2.38.0-debian-arm64-13-trixie-arm64.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/OpenCPN/plugins/polar.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> Polar </name>
+    <version> 1.2.38.0 </version>
     <release> 0 </release>
     <summary> Polar Plugin makes polar diagrams for Weather Routing Predictions </summary>
     <api-version> 1.18 </api-version>
@@ -14296,13 +14516,13 @@ Polar Plugin reads VDR data files directly, reads from Opencpn input Nmea channe
     <target-version>11</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.37.0-debian-armhf-11-bullseye-armhf-tarball/versions/v1.2.37.0/polar_pi-1.2.37.0-debian-armhf-11-bullseye-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.38.0-debian-armhf-11-bullseye-armhf-tarball/versions/v1.2.38.0/polar_pi-1.2.38.0-debian-armhf-11-bullseye-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/polar.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Polar </name>
-    <version> 1.2.37.0 </version>
+    <version> 1.2.38.0 </version>
     <release> 0 </release>
     <summary> Polar Plugin makes polar diagrams for Weather Routing Predictions </summary>
     <api-version> 1.18 </api-version>
@@ -14318,13 +14538,35 @@ Polar Plugin reads VDR data files directly, reads from Opencpn input Nmea channe
     <target-version>12</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.37.0-debian-armhf-12-bookworm-armhf-tarball/versions/v1.2.37.0/polar_pi-1.2.37.0-debian-armhf-12-bookworm-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.38.0-debian-armhf-12-bookworm-armhf-tarball/versions/v1.2.38.0/polar_pi-1.2.38.0-debian-armhf-12-bookworm-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/polar.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Polar </name>
-    <version> 1.2.37.0 </version>
+    <version> 1.2.38.0 </version>
+    <release> 0 </release>
+    <summary> Polar Plugin makes polar diagrams for Weather Routing Predictions </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Peter Tulp </author>
+    <source> https://github.com/rgleason/polar_pi </source>
+    <description>
+Polar Plugin reads VDR data files directly, reads from Opencpn input Nmea channel (Record Start/Stop at bottom) and direct from LogBoookKonni records, to creates a polar diagram which can then be edited manually, saved or loaded as a Boat Polar file. The LogbookKonni selection has several options.
+</description>
+    <target>debian-armhf</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>armhf</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.38.0-debian-armhf-13-trixie-armhf-tarball/versions/v1.2.38.0/polar_pi-1.2.38.0-debian-armhf-13-trixie-armhf.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/OpenCPN/plugins/polar.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> Polar </name>
+    <version> 1.2.38.0 </version>
     <release> 0 </release>
     <summary> Polar Plugin makes polar diagrams for Weather Routing Predictions </summary>
     <api-version> 1.18 </api-version>
@@ -14340,13 +14582,13 @@ Polar Plugin reads VDR data files directly, reads from Opencpn input Nmea channe
     <target-version>11</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.37.0-debian-x86_64-11-bullseye-tarball/versions/v1.2.37.0/polar_pi-1.2.37.0-debian-x86_64-11-bullseye.tar.gz
+https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.38.0-debian-x86_64-11-bullseye-tarball/versions/v1.2.38.0/polar_pi-1.2.38.0-debian-x86_64-11-bullseye.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/polar.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Polar </name>
-    <version> 1.2.37.0 </version>
+    <version> 1.2.38.0 </version>
     <release> 0 </release>
     <summary> Polar Plugin makes polar diagrams for Weather Routing Predictions </summary>
     <api-version> 1.18 </api-version>
@@ -14362,13 +14604,35 @@ Polar Plugin reads VDR data files directly, reads from Opencpn input Nmea channe
     <target-version>12</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.37.0-debian-x86_64-12-bookworm-tarball/versions/v1.2.37.0/polar_pi-1.2.37.0-debian-x86_64-12-bookworm.tar.gz
+https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.38.0-debian-x86_64-12-bookworm-tarball/versions/v1.2.38.0/polar_pi-1.2.38.0-debian-x86_64-12-bookworm.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/polar.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Polar </name>
-    <version> 1.2.37.0 </version>
+    <version> 1.2.38.0 </version>
+    <release> 0 </release>
+    <summary> Polar Plugin makes polar diagrams for Weather Routing Predictions </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Peter Tulp </author>
+    <source> https://github.com/rgleason/polar_pi </source>
+    <description>
+Polar Plugin reads VDR data files directly, reads from Opencpn input Nmea channel (Record Start/Stop at bottom) and direct from LogBoookKonni records, to creates a polar diagram which can then be edited manually, saved or loaded as a Boat Polar file. The LogbookKonni selection has several options.
+</description>
+    <target>debian-x86_64</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.38.0-debian-x86_64-13-trixie-tarball/versions/v1.2.38.0/polar_pi-1.2.38.0-debian-x86_64-13-trixie.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/OpenCPN/plugins/polar.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> Polar </name>
+    <version> 1.2.38.0 </version>
     <release> 0 </release>
     <summary> Polar Plugin makes polar diagrams for Weather Routing Predictions </summary>
     <api-version> 1.18 </api-version>
@@ -14384,13 +14648,13 @@ Polar Plugin reads VDR data files directly, reads from Opencpn input Nmea channe
     <target-version>22.08</target-version>
     <target-arch>aarch64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.37.0-flatpak-aarch64-22.08-flatpak-tarball/versions/v1.2.37.0/polar_pi-1.2.37.0-aarch64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.38.0-flatpak-aarch64-22.08-flatpak-tarball/versions/v1.2.38.0/polar_pi-1.2.38.0-aarch64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/polar.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Polar </name>
-    <version> 1.2.37.0 </version>
+    <version> 1.2.38.0 </version>
     <release> 0 </release>
     <summary> Polar Plugin makes polar diagrams for Weather Routing Predictions </summary>
     <api-version> 1.18 </api-version>
@@ -14406,13 +14670,13 @@ Polar Plugin reads VDR data files directly, reads from Opencpn input Nmea channe
     <target-version>24.08</target-version>
     <target-arch>aarch64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.37.0-flatpak-aarch64-24.08-flatpak-tarball/versions/v1.2.37.0/polar_pi-1.2.37.0-aarch64_flatpak-24.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.38.0-flatpak-aarch64-24.08-flatpak-tarball/versions/v1.2.38.0/polar_pi-1.2.38.0-aarch64_flatpak-24.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/polar.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Polar </name>
-    <version> 1.2.37.0 </version>
+    <version> 1.2.38.0 </version>
     <release> 0 </release>
     <summary> Polar Plugin makes polar diagrams for Weather Routing Predictions </summary>
     <api-version> 1.18 </api-version>
@@ -14428,13 +14692,13 @@ Polar Plugin reads VDR data files directly, reads from Opencpn input Nmea channe
     <target-version>22.08</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.37.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v1.2.37.0/polar_pi-1.2.37.0-x86_64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.38.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v1.2.38.0/polar_pi-1.2.38.0-x86_64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/polar.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Polar </name>
-    <version> 1.2.37.0 </version>
+    <version> 1.2.38.0 </version>
     <release> 0 </release>
     <summary> Polar Plugin makes polar diagrams for Weather Routing Predictions </summary>
     <api-version> 1.18 </api-version>
@@ -14450,13 +14714,13 @@ Polar Plugin reads VDR data files directly, reads from Opencpn input Nmea channe
     <target-version>24.08</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.37.0-flatpak-x86_64-24.08-flatpak-tarball/versions/v1.2.37.0/polar_pi-1.2.37.0-x86_64_flatpak-24.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.38.0-flatpak-x86_64-24.08-flatpak-tarball/versions/v1.2.38.0/polar_pi-1.2.38.0-x86_64_flatpak-24.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/polar.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Polar </name>
-    <version> 1.2.37.0 </version>
+    <version> 1.2.38.0 </version>
     <release> 0 </release>
     <summary> Polar Plugin makes polar diagrams for Weather Routing Predictions </summary>
     <api-version> 1.18 </api-version>
@@ -14472,13 +14736,13 @@ Polar Plugin reads VDR data files directly, reads from Opencpn input Nmea channe
     <target-version>10.0.20348</target-version>
     <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.37.0-msvc-x86-10.0.20348-MSVC-tarball/versions/v1.2.37.0/polar_pi-1.2.37.0-msvc-x86-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.38.0-msvc-x86-10.0.20348-MSVC-tarball/versions/v1.2.38.0/polar_pi-1.2.38.0-msvc-x86-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/polar.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Polar </name>
-    <version> 1.2.37.0 </version>
+    <version> 1.2.38.0 </version>
     <release> 0 </release>
     <summary> Polar Plugin makes polar diagrams for Weather Routing Predictions </summary>
     <api-version> 1.18 </api-version>
@@ -14494,13 +14758,13 @@ Polar Plugin reads VDR data files directly, reads from Opencpn input Nmea channe
     <target-version>10.0.20348</target-version>
     <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.37.0-msvc-x86-wx32-10.0.20348-MSVC-tarball/versions/v1.2.37.0/polar_pi-1.2.37.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.38.0-msvc-x86-wx32-10.0.20348-MSVC-tarball/versions/v1.2.38.0/polar_pi-1.2.38.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/polar.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Polar </name>
-    <version> 1.2.37.0 </version>
+    <version> 1.2.38.0 </version>
     <release> 0 </release>
     <summary> Polar Plugin makes polar diagrams for Weather Routing Predictions </summary>
     <api-version> 1.18 </api-version>
@@ -14516,13 +14780,13 @@ Polar Plugin reads VDR data files directly, reads from Opencpn input Nmea channe
     <target-version>22.04</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.37.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v1.2.37.0/polar_pi-1.2.37.0-ubuntu-x86_64-22.04-jammy.tar.gz
+https://dl.cloudsmith.io/public/opencpn/polar-prod/raw/names/polar_pi-1.2.38.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v1.2.38.0/polar_pi-1.2.38.0-ubuntu-x86_64-22.04-jammy.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/polar.html </info-url>
   </plugin>
   <plugin version="1">
     <name> pypilot </name>
-    <version> 0.53.2.0 </version>
+    <version> 0.53.4.0 </version>
     <release> 0 </release>
     <summary> pypilot PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -14538,13 +14802,13 @@ Control the free software autopilot pypilot. See http://pypilot.org for more det
     <target-version>16</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.2.0-android-arm64-16-android-arm64-tarball/versions/v0.53.2.0/pypilot_pi-0.53.2.0-android-arm64-16-android-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.4.0-android-arm64-16-android-arm64-tarball/versions/v0.53.4.0/pypilot_pi-0.53.4.0-android-arm64-16-android-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/pypilot/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> pypilot </name>
-    <version> 0.53.2.0 </version>
+    <version> 0.53.4.0 </version>
     <release> 0 </release>
     <summary> pypilot PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -14560,13 +14824,13 @@ Control the free software autopilot pypilot. See http://pypilot.org for more det
     <target-version>16</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.2.0-android-armhf-16-android-armhf-tarball/versions/v0.53.2.0/pypilot_pi-0.53.2.0-android-armhf-16-android-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.4.0-android-armhf-16-android-armhf-tarball/versions/v0.53.4.0/pypilot_pi-0.53.4.0-android-armhf-16-android-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/pypilot/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> pypilot </name>
-    <version> 0.53.2.0 </version>
+    <version> 0.53.4.0 </version>
     <release> 0 </release>
     <summary> pypilot PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -14579,16 +14843,16 @@ Control the free software autopilot pypilot. See http://pypilot.org for more det
     <target>darwin-wx32</target>
     <build-target>darwin</build-target>
     <build-gtk/>
-    <target-version>14.1</target-version>
+    <target-version>14.3.1</target-version>
     <target-arch>arm64;x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.2.0-darwin-wx32-arm64-x86_64-14.1-macos-tarball/versions/v0.53.2.0/pypilot_pi-0.53.2.0-darwin-wx32-arm64-x86_64-14.1-macos.tar.gz
+https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.4.0-darwin-wx32-arm64-x86_64-14.3.1-macos-tarball/versions/v0.53.4.0/pypilot_pi-0.53.4.0-darwin-wx32-arm64-x86_64-14.3.1-macos.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/pypilot/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> pypilot </name>
-    <version> 0.53.2.0 </version>
+    <version> 0.53.4.0 </version>
     <release> 0 </release>
     <summary> pypilot PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -14604,13 +14868,13 @@ Control the free software autopilot pypilot. See http://pypilot.org for more det
     <target-version>11</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.2.0-debian-arm64-11-bullseye-arm64-tarball/versions/v0.53.2.0/pypilot_pi-0.53.2.0-debian-arm64-11-bullseye-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.4.0-debian-arm64-11-bullseye-arm64-tarball/versions/v0.53.4.0/pypilot_pi-0.53.4.0-debian-arm64-11-bullseye-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/pypilot/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> pypilot </name>
-    <version> 0.53.2.0 </version>
+    <version> 0.53.4.0 </version>
     <release> 0 </release>
     <summary> pypilot PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -14626,13 +14890,35 @@ Control the free software autopilot pypilot. See http://pypilot.org for more det
     <target-version>12</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.2.0-debian-arm64-12-bookworm-arm64-tarball/versions/v0.53.2.0/pypilot_pi-0.53.2.0-debian-arm64-12-bookworm-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.4.0-debian-arm64-12-bookworm-arm64-tarball/versions/v0.53.4.0/pypilot_pi-0.53.4.0-debian-arm64-12-bookworm-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/pypilot/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> pypilot </name>
-    <version> 0.53.2.0 </version>
+    <version> 0.53.4.0 </version>
+    <release> 0 </release>
+    <summary> pypilot PlugIn for OpenCPN </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean D'Epagnier </author>
+    <source> https://github.com/rgleason/pypilot_pi </source>
+    <description>
+Control the free software autopilot pypilot. See http://pypilot.org for more details. nThe plugin connects to pypilot directly implementing a control interface to configure, ncalibrate and command pypilot from opencpn. For more control and tuning route-following nlogic, consider the autopilot route plugin.
+</description>
+    <target>debian-arm64</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>arm64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.4.0-debian-arm64-13-trixie-arm64-tarball/versions/v0.53.4.0/pypilot_pi-0.53.4.0-debian-arm64-13-trixie-arm64.tar.gz
+</tarball-url>
+    <info-url> https://opencpn-manuals.github.io/main/pypilot/index.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> pypilot </name>
+    <version> 0.53.4.0 </version>
     <release> 0 </release>
     <summary> pypilot PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -14648,13 +14934,13 @@ Control the free software autopilot pypilot. See http://pypilot.org for more det
     <target-version>11</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.2.0-debian-armhf-11-bullseye-armhf-tarball/versions/v0.53.2.0/pypilot_pi-0.53.2.0-debian-armhf-11-bullseye-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.4.0-debian-armhf-11-bullseye-armhf-tarball/versions/v0.53.4.0/pypilot_pi-0.53.4.0-debian-armhf-11-bullseye-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/pypilot/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> pypilot </name>
-    <version> 0.53.2.0 </version>
+    <version> 0.53.4.0 </version>
     <release> 0 </release>
     <summary> pypilot PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -14670,13 +14956,35 @@ Control the free software autopilot pypilot. See http://pypilot.org for more det
     <target-version>12</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.2.0-debian-armhf-12-bookworm-armhf-tarball/versions/v0.53.2.0/pypilot_pi-0.53.2.0-debian-armhf-12-bookworm-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.4.0-debian-armhf-12-bookworm-armhf-tarball/versions/v0.53.4.0/pypilot_pi-0.53.4.0-debian-armhf-12-bookworm-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/pypilot/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> pypilot </name>
-    <version> 0.53.2.0 </version>
+    <version> 0.53.4.0 </version>
+    <release> 0 </release>
+    <summary> pypilot PlugIn for OpenCPN </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean D'Epagnier </author>
+    <source> https://github.com/rgleason/pypilot_pi </source>
+    <description>
+Control the free software autopilot pypilot. See http://pypilot.org for more details. nThe plugin connects to pypilot directly implementing a control interface to configure, ncalibrate and command pypilot from opencpn. For more control and tuning route-following nlogic, consider the autopilot route plugin.
+</description>
+    <target>debian-armhf</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>armhf</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.4.0-debian-armhf-13-trixie-armhf-tarball/versions/v0.53.4.0/pypilot_pi-0.53.4.0-debian-armhf-13-trixie-armhf.tar.gz
+</tarball-url>
+    <info-url> https://opencpn-manuals.github.io/main/pypilot/index.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> pypilot </name>
+    <version> 0.53.4.0 </version>
     <release> 0 </release>
     <summary> pypilot PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -14692,13 +15000,13 @@ Control the free software autopilot pypilot. See http://pypilot.org for more det
     <target-version>11</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.2.0-debian-x86_64-11-bullseye-tarball/versions/v0.53.2.0/pypilot_pi-0.53.2.0-debian-x86_64-11-bullseye.tar.gz
+https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.4.0-debian-x86_64-11-bullseye-tarball/versions/v0.53.4.0/pypilot_pi-0.53.4.0-debian-x86_64-11-bullseye.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/pypilot/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> pypilot </name>
-    <version> 0.53.2.0 </version>
+    <version> 0.53.4.0 </version>
     <release> 0 </release>
     <summary> pypilot PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -14714,13 +15022,35 @@ Control the free software autopilot pypilot. See http://pypilot.org for more det
     <target-version>12</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.2.0-debian-x86_64-12-bookworm-tarball/versions/v0.53.2.0/pypilot_pi-0.53.2.0-debian-x86_64-12-bookworm.tar.gz
+https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.4.0-debian-x86_64-12-bookworm-tarball/versions/v0.53.4.0/pypilot_pi-0.53.4.0-debian-x86_64-12-bookworm.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/pypilot/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> pypilot </name>
-    <version> 0.53.2.0 </version>
+    <version> 0.53.4.0 </version>
+    <release> 0 </release>
+    <summary> pypilot PlugIn for OpenCPN </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean D'Epagnier </author>
+    <source> https://github.com/rgleason/pypilot_pi </source>
+    <description>
+Control the free software autopilot pypilot. See http://pypilot.org for more details. nThe plugin connects to pypilot directly implementing a control interface to configure, ncalibrate and command pypilot from opencpn. For more control and tuning route-following nlogic, consider the autopilot route plugin.
+</description>
+    <target>debian-x86_64</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.4.0-debian-x86_64-13-trixie-tarball/versions/v0.53.4.0/pypilot_pi-0.53.4.0-debian-x86_64-13-trixie.tar.gz
+</tarball-url>
+    <info-url> https://opencpn-manuals.github.io/main/pypilot/index.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> pypilot </name>
+    <version> 0.53.4.0 </version>
     <release> 0 </release>
     <summary> pypilot PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -14736,13 +15066,13 @@ Control the free software autopilot pypilot. See http://pypilot.org for more det
     <target-version>22.08</target-version>
     <target-arch>aarch64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.2.0-flatpak-aarch64-22.08-flatpak-tarball/versions/v0.53.2.0/pypilot_pi-0.53.2.0-aarch64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.4.0-flatpak-aarch64-22.08-flatpak-tarball/versions/v0.53.4.0/pypilot_pi-0.53.4.0-aarch64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/pypilot/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> pypilot </name>
-    <version> 0.53.2.0 </version>
+    <version> 0.53.4.0 </version>
     <release> 0 </release>
     <summary> pypilot PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -14758,13 +15088,13 @@ Control the free software autopilot pypilot. See http://pypilot.org for more det
     <target-version>24.08</target-version>
     <target-arch>aarch64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.2.0-flatpak-aarch64-24.08-flatpak-tarball/versions/v0.53.2.0/pypilot_pi-0.53.2.0-aarch64_flatpak-24.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.4.0-flatpak-aarch64-24.08-flatpak-tarball/versions/v0.53.4.0/pypilot_pi-0.53.4.0-aarch64_flatpak-24.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/pypilot/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> pypilot </name>
-    <version> 0.53.2.0 </version>
+    <version> 0.53.4.0 </version>
     <release> 0 </release>
     <summary> pypilot PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -14780,13 +15110,13 @@ Control the free software autopilot pypilot. See http://pypilot.org for more det
     <target-version>22.08</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.2.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v0.53.2.0/pypilot_pi-0.53.2.0-x86_64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.4.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v0.53.4.0/pypilot_pi-0.53.4.0-x86_64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/pypilot/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> pypilot </name>
-    <version> 0.53.2.0 </version>
+    <version> 0.53.4.0 </version>
     <release> 0 </release>
     <summary> pypilot PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -14802,13 +15132,13 @@ Control the free software autopilot pypilot. See http://pypilot.org for more det
     <target-version>24.08</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.2.0-flatpak-x86_64-24.08-flatpak-tarball/versions/v0.53.2.0/pypilot_pi-0.53.2.0-x86_64_flatpak-24.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.4.0-flatpak-x86_64-24.08-flatpak-tarball/versions/v0.53.4.0/pypilot_pi-0.53.4.0-x86_64_flatpak-24.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/pypilot/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> pypilot </name>
-    <version> 0.53.2.0 </version>
+    <version> 0.53.4.0 </version>
     <release> 0 </release>
     <summary> pypilot PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -14824,13 +15154,13 @@ Control the free software autopilot pypilot. See http://pypilot.org for more det
     <target-version>10.0.20348</target-version>
     <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.2.0-msvc-x86-10.0.20348-MSVC-tarball/versions/v0.53.2.0/pypilot_pi-0.53.2.0-msvc-x86-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.4.0-msvc-x86-10.0.20348-MSVC-tarball/versions/v0.53.4.0/pypilot_pi-0.53.4.0-msvc-x86-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/pypilot/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> pypilot </name>
-    <version> 0.53.2.0 </version>
+    <version> 0.53.4.0 </version>
     <release> 0 </release>
     <summary> pypilot PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -14846,13 +15176,13 @@ Control the free software autopilot pypilot. See http://pypilot.org for more det
     <target-version>10.0.20348</target-version>
     <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.2.0-msvc-x86-wx32-10.0.20348-MSVC-tarball/versions/v0.53.2.0/pypilot_pi-0.53.2.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.4.0-msvc-x86-wx32-10.0.20348-MSVC-tarball/versions/v0.53.4.0/pypilot_pi-0.53.4.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/pypilot/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> pypilot </name>
-    <version> 0.53.2.0 </version>
+    <version> 0.53.4.0 </version>
     <release> 0 </release>
     <summary> pypilot PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -14868,7 +15198,7 @@ Control the free software autopilot pypilot. See http://pypilot.org for more det
     <target-version>22.04</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.2.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v0.53.2.0/pypilot_pi-0.53.2.0-ubuntu-x86_64-22.04-jammy.tar.gz
+https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.4.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v0.53.4.0/pypilot_pi-0.53.4.0-ubuntu-x86_64-22.04-jammy.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/pypilot/index.html </info-url>
   </plugin>
@@ -15486,7 +15816,7 @@ https://dl.cloudsmith.io/public/opencpn/radarhub-prod/raw/names/radarhub_pi-0.1.
   </plugin>
   <plugin version="1">
     <name> Raymarine autopilot </name>
-    <version> 2.2.2.0 </version>
+    <version> 2.3.5.0 </version>
     <release> 0 </release>
     <summary> Control a Raymarine Autopilot </summary>
     <api-version> 1.18 </api-version>
@@ -15502,13 +15832,13 @@ Control Raymarine Autopilot using a NMEA0183 to ST1 Converter or NMEA2000 for EV
     <target-version>16</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.2.2.0-android-arm64-16-android-arm64-tarball/versions/v2.2.2.0/raymarine_autopilot_pi-2.2.2.0-android-arm64-16-android-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.3.5.0-android-arm64-16-android-arm64-tarball/versions/v2.3.5.0/raymarine_autopilot_pi-2.3.5.0-android-arm64-16-android-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autopilot-rm/0.1/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Raymarine autopilot </name>
-    <version> 2.2.2.0 </version>
+    <version> 2.3.5.0 </version>
     <release> 0 </release>
     <summary> Control a Raymarine Autopilot </summary>
     <api-version> 1.18 </api-version>
@@ -15524,13 +15854,13 @@ Control Raymarine Autopilot using a NMEA0183 to ST1 Converter or NMEA2000 for EV
     <target-version>16</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.2.2.0-android-armhf-16-android-armhf-tarball/versions/v2.2.2.0/raymarine_autopilot_pi-2.2.2.0-android-armhf-16-android-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.3.5.0-android-armhf-16-android-armhf-tarball/versions/v2.3.5.0/raymarine_autopilot_pi-2.3.5.0-android-armhf-16-android-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autopilot-rm/0.1/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Raymarine autopilot </name>
-    <version> 2.2.2.0 </version>
+    <version> 2.3.5.0 </version>
     <release> 0 </release>
     <summary> Control a Raymarine Autopilot </summary>
     <api-version> 1.18 </api-version>
@@ -15543,16 +15873,16 @@ Control Raymarine Autopilot using a NMEA0183 to ST1 Converter or NMEA2000 for EV
     <target>darwin-wx32</target>
     <build-target>darwin</build-target>
     <build-gtk/>
-    <target-version>14.1</target-version>
+    <target-version>14.3.1</target-version>
     <target-arch>arm64;x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.2.2.0-darwin-wx32-arm64-x86_64-14.1-macos-tarball/versions/v2.2.2.0/raymarine_autopilot_pi-2.2.2.0-darwin-wx32-arm64-x86_64-14.1-macos.tar.gz
+https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.3.5.0-darwin-wx32-arm64-x86_64-14.3.1-macos-tarball/versions/v2.3.5.0/raymarine_autopilot_pi-2.3.5.0-darwin-wx32-arm64-x86_64-14.3.1-macos.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autopilot-rm/0.1/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Raymarine autopilot </name>
-    <version> 2.2.2.0 </version>
+    <version> 2.3.5.0 </version>
     <release> 0 </release>
     <summary> Control a Raymarine Autopilot </summary>
     <api-version> 1.18 </api-version>
@@ -15568,13 +15898,13 @@ Control Raymarine Autopilot using a NMEA0183 to ST1 Converter or NMEA2000 for EV
     <target-version>11</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.2.2.0-debian-arm64-11-bullseye-arm64-tarball/versions/v2.2.2.0/raymarine_autopilot_pi-2.2.2.0-debian-arm64-11-bullseye-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.3.5.0-debian-arm64-11-bullseye-arm64-tarball/versions/v2.3.5.0/raymarine_autopilot_pi-2.3.5.0-debian-arm64-11-bullseye-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autopilot-rm/0.1/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Raymarine autopilot </name>
-    <version> 2.2.2.0 </version>
+    <version> 2.3.5.0 </version>
     <release> 0 </release>
     <summary> Control a Raymarine Autopilot </summary>
     <api-version> 1.18 </api-version>
@@ -15590,13 +15920,35 @@ Control Raymarine Autopilot using a NMEA0183 to ST1 Converter or NMEA2000 for EV
     <target-version>12</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.2.2.0-debian-arm64-12-bookworm-arm64-tarball/versions/v2.2.2.0/raymarine_autopilot_pi-2.2.2.0-debian-arm64-12-bookworm-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.3.5.0-debian-arm64-12-bookworm-arm64-tarball/versions/v2.3.5.0/raymarine_autopilot_pi-2.3.5.0-debian-arm64-12-bookworm-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autopilot-rm/0.1/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Raymarine autopilot </name>
-    <version> 2.2.2.0 </version>
+    <version> 2.3.5.0 </version>
+    <release> 0 </release>
+    <summary> Control a Raymarine Autopilot </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Bernd Cirotzki </author>
+    <source> https://github.com/rgleason/raymarine_autopilot_pi </source>
+    <description>
+Control Raymarine Autopilot using a NMEA0183 to ST1 Converter or NMEA2000 for EVO
+</description>
+    <target>debian-arm64</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>arm64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.3.5.0-debian-arm64-13-trixie-arm64-tarball/versions/v2.3.5.0/raymarine_autopilot_pi-2.3.5.0-debian-arm64-13-trixie-arm64.tar.gz
+</tarball-url>
+    <info-url> https://opencpn-manuals.github.io/main/autopilot-rm/0.1/index.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> Raymarine autopilot </name>
+    <version> 2.3.5.0 </version>
     <release> 0 </release>
     <summary> Control a Raymarine Autopilot </summary>
     <api-version> 1.18 </api-version>
@@ -15612,13 +15964,13 @@ Control Raymarine Autopilot using a NMEA0183 to ST1 Converter or NMEA2000 for EV
     <target-version>11</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.2.2.0-debian-armhf-11-bullseye-armhf-tarball/versions/v2.2.2.0/raymarine_autopilot_pi-2.2.2.0-debian-armhf-11-bullseye-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.3.5.0-debian-armhf-11-bullseye-armhf-tarball/versions/v2.3.5.0/raymarine_autopilot_pi-2.3.5.0-debian-armhf-11-bullseye-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autopilot-rm/0.1/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Raymarine autopilot </name>
-    <version> 2.2.2.0 </version>
+    <version> 2.3.5.0 </version>
     <release> 0 </release>
     <summary> Control a Raymarine Autopilot </summary>
     <api-version> 1.18 </api-version>
@@ -15634,13 +15986,35 @@ Control Raymarine Autopilot using a NMEA0183 to ST1 Converter or NMEA2000 for EV
     <target-version>12</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.2.2.0-debian-armhf-12-bookworm-armhf-tarball/versions/v2.2.2.0/raymarine_autopilot_pi-2.2.2.0-debian-armhf-12-bookworm-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.3.5.0-debian-armhf-12-bookworm-armhf-tarball/versions/v2.3.5.0/raymarine_autopilot_pi-2.3.5.0-debian-armhf-12-bookworm-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autopilot-rm/0.1/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Raymarine autopilot </name>
-    <version> 2.2.2.0 </version>
+    <version> 2.3.5.0 </version>
+    <release> 0 </release>
+    <summary> Control a Raymarine Autopilot </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Bernd Cirotzki </author>
+    <source> https://github.com/rgleason/raymarine_autopilot_pi </source>
+    <description>
+Control Raymarine Autopilot using a NMEA0183 to ST1 Converter or NMEA2000 for EVO
+</description>
+    <target>debian-armhf</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>armhf</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.3.5.0-debian-armhf-13-trixie-armhf-tarball/versions/v2.3.5.0/raymarine_autopilot_pi-2.3.5.0-debian-armhf-13-trixie-armhf.tar.gz
+</tarball-url>
+    <info-url> https://opencpn-manuals.github.io/main/autopilot-rm/0.1/index.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> Raymarine autopilot </name>
+    <version> 2.3.5.0 </version>
     <release> 0 </release>
     <summary> Control a Raymarine Autopilot </summary>
     <api-version> 1.18 </api-version>
@@ -15656,13 +16030,13 @@ Control Raymarine Autopilot using a NMEA0183 to ST1 Converter or NMEA2000 for EV
     <target-version>11</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.2.2.0-debian-x86_64-11-bullseye-tarball/versions/v2.2.2.0/raymarine_autopilot_pi-2.2.2.0-debian-x86_64-11-bullseye.tar.gz
+https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.3.5.0-debian-x86_64-11-bullseye-tarball/versions/v2.3.5.0/raymarine_autopilot_pi-2.3.5.0-debian-x86_64-11-bullseye.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autopilot-rm/0.1/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Raymarine autopilot </name>
-    <version> 2.2.2.0 </version>
+    <version> 2.3.5.0 </version>
     <release> 0 </release>
     <summary> Control a Raymarine Autopilot </summary>
     <api-version> 1.18 </api-version>
@@ -15678,13 +16052,35 @@ Control Raymarine Autopilot using a NMEA0183 to ST1 Converter or NMEA2000 for EV
     <target-version>12</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.2.2.0-debian-x86_64-12-bookworm-tarball/versions/v2.2.2.0/raymarine_autopilot_pi-2.2.2.0-debian-x86_64-12-bookworm.tar.gz
+https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.3.5.0-debian-x86_64-12-bookworm-tarball/versions/v2.3.5.0/raymarine_autopilot_pi-2.3.5.0-debian-x86_64-12-bookworm.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autopilot-rm/0.1/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Raymarine autopilot </name>
-    <version> 2.2.2.0 </version>
+    <version> 2.3.5.0 </version>
+    <release> 0 </release>
+    <summary> Control a Raymarine Autopilot </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Bernd Cirotzki </author>
+    <source> https://github.com/rgleason/raymarine_autopilot_pi </source>
+    <description>
+Control Raymarine Autopilot using a NMEA0183 to ST1 Converter or NMEA2000 for EVO
+</description>
+    <target>debian-x86_64</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.3.5.0-debian-x86_64-13-trixie-tarball/versions/v2.3.5.0/raymarine_autopilot_pi-2.3.5.0-debian-x86_64-13-trixie.tar.gz
+</tarball-url>
+    <info-url> https://opencpn-manuals.github.io/main/autopilot-rm/0.1/index.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> Raymarine autopilot </name>
+    <version> 2.3.5.0 </version>
     <release> 0 </release>
     <summary> Control a Raymarine Autopilot </summary>
     <api-version> 1.18 </api-version>
@@ -15700,13 +16096,13 @@ Control Raymarine Autopilot using a NMEA0183 to ST1 Converter or NMEA2000 for EV
     <target-version>22.08</target-version>
     <target-arch>aarch64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.2.2.0-flatpak-aarch64-22.08-flatpak-tarball/versions/v2.2.2.0/raymarine_autopilot_pi-2.2.2.0-aarch64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.3.5.0-flatpak-aarch64-22.08-flatpak-tarball/versions/v2.3.5.0/raymarine_autopilot_pi-2.3.5.0-aarch64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autopilot-rm/0.1/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Raymarine autopilot </name>
-    <version> 2.2.2.0 </version>
+    <version> 2.3.5.0 </version>
     <release> 0 </release>
     <summary> Control a Raymarine Autopilot </summary>
     <api-version> 1.18 </api-version>
@@ -15722,13 +16118,13 @@ Control Raymarine Autopilot using a NMEA0183 to ST1 Converter or NMEA2000 for EV
     <target-version>24.08</target-version>
     <target-arch>aarch64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.2.2.0-flatpak-aarch64-24.08-flatpak-tarball/versions/v2.2.2.0/raymarine_autopilot_pi-2.2.2.0-aarch64_flatpak-24.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.3.5.0-flatpak-aarch64-24.08-flatpak-tarball/versions/v2.3.5.0/raymarine_autopilot_pi-2.3.5.0-aarch64_flatpak-24.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autopilot-rm/0.1/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Raymarine autopilot </name>
-    <version> 2.2.2.0 </version>
+    <version> 2.3.5.0 </version>
     <release> 0 </release>
     <summary> Control a Raymarine Autopilot </summary>
     <api-version> 1.18 </api-version>
@@ -15744,13 +16140,13 @@ Control Raymarine Autopilot using a NMEA0183 to ST1 Converter or NMEA2000 for EV
     <target-version>22.08</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.2.2.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v2.2.2.0/raymarine_autopilot_pi-2.2.2.0-x86_64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.3.5.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v2.3.5.0/raymarine_autopilot_pi-2.3.5.0-x86_64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autopilot-rm/0.1/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Raymarine autopilot </name>
-    <version> 2.2.2.0 </version>
+    <version> 2.3.5.0 </version>
     <release> 0 </release>
     <summary> Control a Raymarine Autopilot </summary>
     <api-version> 1.18 </api-version>
@@ -15766,13 +16162,13 @@ Control Raymarine Autopilot using a NMEA0183 to ST1 Converter or NMEA2000 for EV
     <target-version>24.08</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.2.2.0-flatpak-x86_64-24.08-flatpak-tarball/versions/v2.2.2.0/raymarine_autopilot_pi-2.2.2.0-x86_64_flatpak-24.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.3.5.0-flatpak-x86_64-24.08-flatpak-tarball/versions/v2.3.5.0/raymarine_autopilot_pi-2.3.5.0-x86_64_flatpak-24.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autopilot-rm/0.1/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Raymarine autopilot </name>
-    <version> 2.2.2.0 </version>
+    <version> 2.3.5.0 </version>
     <release> 0 </release>
     <summary> Control a Raymarine Autopilot </summary>
     <api-version> 1.18 </api-version>
@@ -15788,13 +16184,13 @@ Control Raymarine Autopilot using a NMEA0183 to ST1 Converter or NMEA2000 for EV
     <target-version>10.0.20348</target-version>
     <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.2.2.0-msvc-x86-10.0.20348-MSVC-tarball/versions/v2.2.2.0/raymarine_autopilot_pi-2.2.2.0-msvc-x86-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.3.5.0-msvc-x86-10.0.20348-MSVC-tarball/versions/v2.3.5.0/raymarine_autopilot_pi-2.3.5.0-msvc-x86-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autopilot-rm/0.1/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Raymarine autopilot </name>
-    <version> 2.2.2.0 </version>
+    <version> 2.3.5.0 </version>
     <release> 0 </release>
     <summary> Control a Raymarine Autopilot </summary>
     <api-version> 1.18 </api-version>
@@ -15810,13 +16206,13 @@ Control Raymarine Autopilot using a NMEA0183 to ST1 Converter or NMEA2000 for EV
     <target-version>10.0.20348</target-version>
     <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.2.2.0-msvc-x86-wx32-10.0.20348-MSVC-tarball/versions/v2.2.2.0/raymarine_autopilot_pi-2.2.2.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.3.5.0-msvc-x86-wx32-10.0.20348-MSVC-tarball/versions/v2.3.5.0/raymarine_autopilot_pi-2.3.5.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autopilot-rm/0.1/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Raymarine autopilot </name>
-    <version> 2.2.2.0 </version>
+    <version> 2.3.5.0 </version>
     <release> 0 </release>
     <summary> Control a Raymarine Autopilot </summary>
     <api-version> 1.18 </api-version>
@@ -15832,7 +16228,7 @@ Control Raymarine Autopilot using a NMEA0183 to ST1 Converter or NMEA2000 for EV
     <target-version>22.04</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.2.2.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v2.2.2.0/raymarine_autopilot_pi-2.2.2.0-ubuntu-x86_64-22.04-jammy.tar.gz
+https://dl.cloudsmith.io/public/opencpn/raymarine-autopilot-prod/raw/names/raymarine_autopilot_pi-2.3.5.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v2.3.5.0/raymarine_autopilot_pi-2.3.5.0-ubuntu-x86_64-22.04-jammy.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/autopilot-rm/0.1/index.html </info-url>
   </plugin>
@@ -16909,7 +17305,7 @@ https://dl.cloudsmith.io/public/opencpn/statusbar-prod/raw/names/statusbar_pi-1.
   </plugin>
   <plugin version="1">
     <name> Tactics </name>
-    <version> 1.0.87.0 </version>
+    <version> 1.0.91.0 </version>
     <release> 0 </release>
     <summary> Tactics PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -16925,13 +17321,13 @@ Tactics PlugIn for OpenCPN Provides performance data and instrument display from
     <target-version>16</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.87.0-android-arm64-16-android-arm64-tarball/versions/v1.0.87.0/tactics_pi-1.0.87.0-android-arm64-16-android-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.91.0-android-arm64-16-android-arm64-tarball/versions/v1.0.91.0/tactics_pi-1.0.91.0-android-arm64-16-android-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/tactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Tactics </name>
-    <version> 1.0.87.0 </version>
+    <version> 1.0.91.0 </version>
     <release> 0 </release>
     <summary> Tactics PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -16947,13 +17343,13 @@ Tactics PlugIn for OpenCPN Provides performance data and instrument display from
     <target-version>16</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.87.0-android-armhf-16-android-armhf-tarball/versions/v1.0.87.0/tactics_pi-1.0.87.0-android-armhf-16-android-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.91.0-android-armhf-16-android-armhf-tarball/versions/v1.0.91.0/tactics_pi-1.0.91.0-android-armhf-16-android-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/tactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Tactics </name>
-    <version> 1.0.87.0 </version>
+    <version> 1.0.91.0 </version>
     <release> 0 </release>
     <summary> Tactics PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -16966,16 +17362,16 @@ Tactics PlugIn for OpenCPN Provides performance data and instrument display from
     <target>darwin-wx32</target>
     <build-target>darwin</build-target>
     <build-gtk/>
-    <target-version>14.1</target-version>
+    <target-version>14.3.1</target-version>
     <target-arch>arm64;x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.87.0-darwin-wx32-arm64-x86_64-14.1-macos-tarball/versions/v1.0.87.0/tactics_pi-1.0.87.0-darwin-wx32-arm64-x86_64-14.1-macos.tar.gz
+https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.91.0-darwin-wx32-arm64-x86_64-14.3.1-macos-tarball/versions/v1.0.91.0/tactics_pi-1.0.91.0-darwin-wx32-arm64-x86_64-14.3.1-macos.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/tactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Tactics </name>
-    <version> 1.0.87.0 </version>
+    <version> 1.0.91.0 </version>
     <release> 0 </release>
     <summary> Tactics PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -16991,13 +17387,13 @@ Tactics PlugIn for OpenCPN Provides performance data and instrument display from
     <target-version>11</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.87.0-debian-arm64-11-bullseye-arm64-tarball/versions/v1.0.87.0/tactics_pi-1.0.87.0-debian-arm64-11-bullseye-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.91.0-debian-arm64-11-bullseye-arm64-tarball/versions/v1.0.91.0/tactics_pi-1.0.91.0-debian-arm64-11-bullseye-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/tactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Tactics </name>
-    <version> 1.0.87.0 </version>
+    <version> 1.0.91.0 </version>
     <release> 0 </release>
     <summary> Tactics PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -17013,13 +17409,35 @@ Tactics PlugIn for OpenCPN Provides performance data and instrument display from
     <target-version>12</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.87.0-debian-arm64-12-bookworm-arm64-tarball/versions/v1.0.87.0/tactics_pi-1.0.87.0-debian-arm64-12-bookworm-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.91.0-debian-arm64-12-bookworm-arm64-tarball/versions/v1.0.91.0/tactics_pi-1.0.91.0-debian-arm64-12-bookworm-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/tactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Tactics </name>
-    <version> 1.0.87.0 </version>
+    <version> 1.0.91.0 </version>
+    <release> 0 </release>
+    <summary> Tactics PlugIn for OpenCPN </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Tom R </author>
+    <source> https://github.com/rgleason/tactics_pi </source>
+    <description>
+Tactics PlugIn for OpenCPN Provides performance data and instrument display from NMEA source and polar file.
+</description>
+    <target>debian-arm64</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>arm64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.91.0-debian-arm64-13-trixie-arm64-tarball/versions/v1.0.91.0/tactics_pi-1.0.91.0-debian-arm64-13-trixie-arm64.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/OpenCPN/plugins/tactics.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> Tactics </name>
+    <version> 1.0.91.0 </version>
     <release> 0 </release>
     <summary> Tactics PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -17035,13 +17453,13 @@ Tactics PlugIn for OpenCPN Provides performance data and instrument display from
     <target-version>11</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.87.0-debian-armhf-11-bullseye-armhf-tarball/versions/v1.0.87.0/tactics_pi-1.0.87.0-debian-armhf-11-bullseye-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.91.0-debian-armhf-11-bullseye-armhf-tarball/versions/v1.0.91.0/tactics_pi-1.0.91.0-debian-armhf-11-bullseye-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/tactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Tactics </name>
-    <version> 1.0.87.0 </version>
+    <version> 1.0.91.0 </version>
     <release> 0 </release>
     <summary> Tactics PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -17057,13 +17475,35 @@ Tactics PlugIn for OpenCPN Provides performance data and instrument display from
     <target-version>12</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.87.0-debian-armhf-12-bookworm-armhf-tarball/versions/v1.0.87.0/tactics_pi-1.0.87.0-debian-armhf-12-bookworm-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.91.0-debian-armhf-12-bookworm-armhf-tarball/versions/v1.0.91.0/tactics_pi-1.0.91.0-debian-armhf-12-bookworm-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/tactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Tactics </name>
-    <version> 1.0.87.0 </version>
+    <version> 1.0.91.0 </version>
+    <release> 0 </release>
+    <summary> Tactics PlugIn for OpenCPN </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Tom R </author>
+    <source> https://github.com/rgleason/tactics_pi </source>
+    <description>
+Tactics PlugIn for OpenCPN Provides performance data and instrument display from NMEA source and polar file.
+</description>
+    <target>debian-armhf</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>armhf</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.91.0-debian-armhf-13-trixie-armhf-tarball/versions/v1.0.91.0/tactics_pi-1.0.91.0-debian-armhf-13-trixie-armhf.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/OpenCPN/plugins/tactics.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> Tactics </name>
+    <version> 1.0.91.0 </version>
     <release> 0 </release>
     <summary> Tactics PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -17079,13 +17519,13 @@ Tactics PlugIn for OpenCPN Provides performance data and instrument display from
     <target-version>11</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.87.0-debian-x86_64-11-bullseye-tarball/versions/v1.0.87.0/tactics_pi-1.0.87.0-debian-x86_64-11-bullseye.tar.gz
+https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.91.0-debian-x86_64-11-bullseye-tarball/versions/v1.0.91.0/tactics_pi-1.0.91.0-debian-x86_64-11-bullseye.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/tactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Tactics </name>
-    <version> 1.0.87.0 </version>
+    <version> 1.0.91.0 </version>
     <release> 0 </release>
     <summary> Tactics PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -17101,13 +17541,35 @@ Tactics PlugIn for OpenCPN Provides performance data and instrument display from
     <target-version>12</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.87.0-debian-x86_64-12-bookworm-tarball/versions/v1.0.87.0/tactics_pi-1.0.87.0-debian-x86_64-12-bookworm.tar.gz
+https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.91.0-debian-x86_64-12-bookworm-tarball/versions/v1.0.91.0/tactics_pi-1.0.91.0-debian-x86_64-12-bookworm.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/tactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Tactics </name>
-    <version> 1.0.87.0 </version>
+    <version> 1.0.91.0 </version>
+    <release> 0 </release>
+    <summary> Tactics PlugIn for OpenCPN </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Tom R </author>
+    <source> https://github.com/rgleason/tactics_pi </source>
+    <description>
+Tactics PlugIn for OpenCPN Provides performance data and instrument display from NMEA source and polar file.
+</description>
+    <target>debian-x86_64</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.91.0-debian-x86_64-13-trixie-tarball/versions/v1.0.91.0/tactics_pi-1.0.91.0-debian-x86_64-13-trixie.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/OpenCPN/plugins/tactics.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> Tactics </name>
+    <version> 1.0.91.0 </version>
     <release> 0 </release>
     <summary> Tactics PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -17123,13 +17585,13 @@ Tactics PlugIn for OpenCPN Provides performance data and instrument display from
     <target-version>22.08</target-version>
     <target-arch>aarch64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.87.0-flatpak-aarch64-22.08-flatpak-tarball/versions/v1.0.87.0/tactics_pi-1.0.87.0-aarch64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.91.0-flatpak-aarch64-22.08-flatpak-tarball/versions/v1.0.91.0/tactics_pi-1.0.91.0-aarch64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/tactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Tactics </name>
-    <version> 1.0.87.0 </version>
+    <version> 1.0.91.0 </version>
     <release> 0 </release>
     <summary> Tactics PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -17145,13 +17607,13 @@ Tactics PlugIn for OpenCPN Provides performance data and instrument display from
     <target-version>24.08</target-version>
     <target-arch>aarch64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.87.0-flatpak-aarch64-24.08-flatpak-tarball/versions/v1.0.87.0/tactics_pi-1.0.87.0-aarch64_flatpak-24.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.91.0-flatpak-aarch64-24.08-flatpak-tarball/versions/v1.0.91.0/tactics_pi-1.0.91.0-aarch64_flatpak-24.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/tactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Tactics </name>
-    <version> 1.0.87.0 </version>
+    <version> 1.0.91.0 </version>
     <release> 0 </release>
     <summary> Tactics PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -17167,13 +17629,13 @@ Tactics PlugIn for OpenCPN Provides performance data and instrument display from
     <target-version>22.08</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.87.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v1.0.87.0/tactics_pi-1.0.87.0-x86_64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.91.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v1.0.91.0/tactics_pi-1.0.91.0-x86_64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/tactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Tactics </name>
-    <version> 1.0.87.0 </version>
+    <version> 1.0.91.0 </version>
     <release> 0 </release>
     <summary> Tactics PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -17189,13 +17651,13 @@ Tactics PlugIn for OpenCPN Provides performance data and instrument display from
     <target-version>24.08</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.87.0-flatpak-x86_64-24.08-flatpak-tarball/versions/v1.0.87.0/tactics_pi-1.0.87.0-x86_64_flatpak-24.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.91.0-flatpak-x86_64-24.08-flatpak-tarball/versions/v1.0.91.0/tactics_pi-1.0.91.0-x86_64_flatpak-24.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/tactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Tactics </name>
-    <version> 1.0.87.0 </version>
+    <version> 1.0.91.0 </version>
     <release> 0 </release>
     <summary> Tactics PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -17211,13 +17673,13 @@ Tactics PlugIn for OpenCPN Provides performance data and instrument display from
     <target-version>10.0.20348</target-version>
     <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.87.0-msvc-x86-10.0.20348-MSVC-tarball/versions/v1.0.87.0/tactics_pi-1.0.87.0-msvc-x86-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.91.0-msvc-x86-10.0.20348-MSVC-tarball/versions/v1.0.91.0/tactics_pi-1.0.91.0-msvc-x86-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/tactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Tactics </name>
-    <version> 1.0.87.0 </version>
+    <version> 1.0.91.0 </version>
     <release> 0 </release>
     <summary> Tactics PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -17233,13 +17695,13 @@ Tactics PlugIn for OpenCPN Provides performance data and instrument display from
     <target-version>10.0.20348</target-version>
     <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.87.0-msvc-x86-wx32-10.0.20348-MSVC-tarball/versions/v1.0.87.0/tactics_pi-1.0.87.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.91.0-msvc-x86-wx32-10.0.20348-MSVC-tarball/versions/v1.0.91.0/tactics_pi-1.0.91.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/tactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Tactics </name>
-    <version> 1.0.87.0 </version>
+    <version> 1.0.91.0 </version>
     <release> 0 </release>
     <summary> Tactics PlugIn for OpenCPN </summary>
     <api-version> 1.18 </api-version>
@@ -17255,7 +17717,7 @@ Tactics PlugIn for OpenCPN Provides performance data and instrument display from
     <target-version>22.04</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.87.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v1.0.87.0/tactics_pi-1.0.87.0-ubuntu-x86_64-22.04-jammy.tar.gz
+https://dl.cloudsmith.io/public/opencpn/tactics-prod/raw/names/tactics_pi-1.0.91.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v1.0.91.0/tactics_pi-1.0.91.0-ubuntu-x86_64-22.04-jammy.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/tactics.html </info-url>
   </plugin>
@@ -17831,7 +18293,7 @@ https://dl.cloudsmith.io/public/steven-adler/twocanplugin-prod/raw/names/twocan_
   </plugin>
   <plugin version="1">
     <name> Watchdog </name>
-    <version> 2.5.2.0 </version>
+    <version> 2.5.4.0 </version>
     <release> 0 </release>
     <summary> Implement watchdog ability for opencpn </summary>
     <api-version> 1.18 </api-version>
@@ -17847,13 +18309,13 @@ Set alarms for changing conditions, boundaries, cog, landfall, ais, wind, nmea, 
     <target-version>16</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.2.0-android-arm64-16-android-arm64-tarball/versions/v2.5.2.0/watchdog_pi-2.5.2.0-android-arm64-16-android-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.4.0-android-arm64-16-android-arm64-tarball/versions/v2.5.4.0/watchdog_pi-2.5.4.0-android-arm64-16-android-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/watchdog.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Watchdog </name>
-    <version> 2.5.2.0 </version>
+    <version> 2.5.4.0 </version>
     <release> 0 </release>
     <summary> Implement watchdog ability for opencpn </summary>
     <api-version> 1.18 </api-version>
@@ -17869,13 +18331,13 @@ Set alarms for changing conditions, boundaries, cog, landfall, ais, wind, nmea, 
     <target-version>16</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.2.0-android-armhf-16-android-armhf-tarball/versions/v2.5.2.0/watchdog_pi-2.5.2.0-android-armhf-16-android-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.4.0-android-armhf-16-android-armhf-tarball/versions/v2.5.4.0/watchdog_pi-2.5.4.0-android-armhf-16-android-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/watchdog.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Watchdog </name>
-    <version> 2.5.2.0 </version>
+    <version> 2.5.4.0 </version>
     <release> 0 </release>
     <summary> Implement watchdog ability for opencpn </summary>
     <api-version> 1.18 </api-version>
@@ -17888,16 +18350,16 @@ Set alarms for changing conditions, boundaries, cog, landfall, ais, wind, nmea, 
     <target>darwin-wx32</target>
     <build-target>darwin</build-target>
     <build-gtk/>
-    <target-version>14.1</target-version>
+    <target-version>14.3.1</target-version>
     <target-arch>arm64;x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.2.0-darwin-wx32-arm64-x86_64-14.1-macos-tarball/versions/v2.5.2.0/watchdog_pi-2.5.2.0-darwin-wx32-arm64-x86_64-14.1-macos.tar.gz
+https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.4.0-darwin-wx32-arm64-x86_64-14.3.1-macos-tarball/versions/v2.5.4.0/watchdog_pi-2.5.4.0-darwin-wx32-arm64-x86_64-14.3.1-macos.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/watchdog.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Watchdog </name>
-    <version> 2.5.2.0 </version>
+    <version> 2.5.4.0 </version>
     <release> 0 </release>
     <summary> Implement watchdog ability for opencpn </summary>
     <api-version> 1.18 </api-version>
@@ -17913,13 +18375,13 @@ Set alarms for changing conditions, boundaries, cog, landfall, ais, wind, nmea, 
     <target-version>11</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.2.0-debian-arm64-11-bullseye-arm64-tarball/versions/v2.5.2.0/watchdog_pi-2.5.2.0-debian-arm64-11-bullseye-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.4.0-debian-arm64-11-bullseye-arm64-tarball/versions/v2.5.4.0/watchdog_pi-2.5.4.0-debian-arm64-11-bullseye-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/watchdog.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Watchdog </name>
-    <version> 2.5.2.0 </version>
+    <version> 2.5.4.0 </version>
     <release> 0 </release>
     <summary> Implement watchdog ability for opencpn </summary>
     <api-version> 1.18 </api-version>
@@ -17935,13 +18397,35 @@ Set alarms for changing conditions, boundaries, cog, landfall, ais, wind, nmea, 
     <target-version>12</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.2.0-debian-arm64-12-bookworm-arm64-tarball/versions/v2.5.2.0/watchdog_pi-2.5.2.0-debian-arm64-12-bookworm-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.4.0-debian-arm64-12-bookworm-arm64-tarball/versions/v2.5.4.0/watchdog_pi-2.5.4.0-debian-arm64-12-bookworm-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/watchdog.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Watchdog </name>
-    <version> 2.5.2.0 </version>
+    <version> 2.5.4.0 </version>
+    <release> 0 </release>
+    <summary> Implement watchdog ability for opencpn </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean d'Epagnier </author>
+    <source> https://github.com/rgleason/watchdog_pi </source>
+    <description>
+Set alarms for changing conditions, boundaries, cog, landfall, ais, wind, nmea, weather, pypilot, wind, deadman...
+</description>
+    <target>debian-arm64</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>arm64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.4.0-debian-arm64-13-trixie-arm64-tarball/versions/v2.5.4.0/watchdog_pi-2.5.4.0-debian-arm64-13-trixie-arm64.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/OpenCPN/plugins/watchdog.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> Watchdog </name>
+    <version> 2.5.4.0 </version>
     <release> 0 </release>
     <summary> Implement watchdog ability for opencpn </summary>
     <api-version> 1.18 </api-version>
@@ -17957,13 +18441,13 @@ Set alarms for changing conditions, boundaries, cog, landfall, ais, wind, nmea, 
     <target-version>11</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.2.0-debian-armhf-11-bullseye-armhf-tarball/versions/v2.5.2.0/watchdog_pi-2.5.2.0-debian-armhf-11-bullseye-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.4.0-debian-armhf-11-bullseye-armhf-tarball/versions/v2.5.4.0/watchdog_pi-2.5.4.0-debian-armhf-11-bullseye-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/watchdog.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Watchdog </name>
-    <version> 2.5.2.0 </version>
+    <version> 2.5.4.0 </version>
     <release> 0 </release>
     <summary> Implement watchdog ability for opencpn </summary>
     <api-version> 1.18 </api-version>
@@ -17979,13 +18463,35 @@ Set alarms for changing conditions, boundaries, cog, landfall, ais, wind, nmea, 
     <target-version>12</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.2.0-debian-armhf-12-bookworm-armhf-tarball/versions/v2.5.2.0/watchdog_pi-2.5.2.0-debian-armhf-12-bookworm-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.4.0-debian-armhf-12-bookworm-armhf-tarball/versions/v2.5.4.0/watchdog_pi-2.5.4.0-debian-armhf-12-bookworm-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/watchdog.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Watchdog </name>
-    <version> 2.5.2.0 </version>
+    <version> 2.5.4.0 </version>
+    <release> 0 </release>
+    <summary> Implement watchdog ability for opencpn </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean d'Epagnier </author>
+    <source> https://github.com/rgleason/watchdog_pi </source>
+    <description>
+Set alarms for changing conditions, boundaries, cog, landfall, ais, wind, nmea, weather, pypilot, wind, deadman...
+</description>
+    <target>debian-armhf</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>armhf</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.4.0-debian-armhf-13-trixie-armhf-tarball/versions/v2.5.4.0/watchdog_pi-2.5.4.0-debian-armhf-13-trixie-armhf.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/OpenCPN/plugins/watchdog.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> Watchdog </name>
+    <version> 2.5.4.0 </version>
     <release> 0 </release>
     <summary> Implement watchdog ability for opencpn </summary>
     <api-version> 1.18 </api-version>
@@ -18001,13 +18507,13 @@ Set alarms for changing conditions, boundaries, cog, landfall, ais, wind, nmea, 
     <target-version>11</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.2.0-debian-x86_64-11-bullseye-tarball/versions/v2.5.2.0/watchdog_pi-2.5.2.0-debian-x86_64-11-bullseye.tar.gz
+https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.4.0-debian-x86_64-11-bullseye-tarball/versions/v2.5.4.0/watchdog_pi-2.5.4.0-debian-x86_64-11-bullseye.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/watchdog.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Watchdog </name>
-    <version> 2.5.2.0 </version>
+    <version> 2.5.4.0 </version>
     <release> 0 </release>
     <summary> Implement watchdog ability for opencpn </summary>
     <api-version> 1.18 </api-version>
@@ -18023,13 +18529,35 @@ Set alarms for changing conditions, boundaries, cog, landfall, ais, wind, nmea, 
     <target-version>12</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.2.0-debian-x86_64-12-bookworm-tarball/versions/v2.5.2.0/watchdog_pi-2.5.2.0-debian-x86_64-12-bookworm.tar.gz
+https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.4.0-debian-x86_64-12-bookworm-tarball/versions/v2.5.4.0/watchdog_pi-2.5.4.0-debian-x86_64-12-bookworm.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/watchdog.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Watchdog </name>
-    <version> 2.5.2.0 </version>
+    <version> 2.5.4.0 </version>
+    <release> 0 </release>
+    <summary> Implement watchdog ability for opencpn </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean d'Epagnier </author>
+    <source> https://github.com/rgleason/watchdog_pi </source>
+    <description>
+Set alarms for changing conditions, boundaries, cog, landfall, ais, wind, nmea, weather, pypilot, wind, deadman...
+</description>
+    <target>debian-x86_64</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.4.0-debian-x86_64-13-trixie-tarball/versions/v2.5.4.0/watchdog_pi-2.5.4.0-debian-x86_64-13-trixie.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/OpenCPN/plugins/watchdog.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> Watchdog </name>
+    <version> 2.5.4.0 </version>
     <release> 0 </release>
     <summary> Implement watchdog ability for opencpn </summary>
     <api-version> 1.18 </api-version>
@@ -18045,13 +18573,13 @@ Set alarms for changing conditions, boundaries, cog, landfall, ais, wind, nmea, 
     <target-version>22.08</target-version>
     <target-arch>aarch64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.2.0-flatpak-aarch64-22.08-flatpak-tarball/versions/v2.5.2.0/watchdog_pi-2.5.2.0-aarch64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.4.0-flatpak-aarch64-22.08-flatpak-tarball/versions/v2.5.4.0/watchdog_pi-2.5.4.0-aarch64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/watchdog.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Watchdog </name>
-    <version> 2.5.2.0 </version>
+    <version> 2.5.4.0 </version>
     <release> 0 </release>
     <summary> Implement watchdog ability for opencpn </summary>
     <api-version> 1.18 </api-version>
@@ -18067,13 +18595,13 @@ Set alarms for changing conditions, boundaries, cog, landfall, ais, wind, nmea, 
     <target-version>24.08</target-version>
     <target-arch>aarch64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.2.0-flatpak-aarch64-24.08-flatpak-tarball/versions/v2.5.2.0/watchdog_pi-2.5.2.0-aarch64_flatpak-24.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.4.0-flatpak-aarch64-24.08-flatpak-tarball/versions/v2.5.4.0/watchdog_pi-2.5.4.0-aarch64_flatpak-24.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/watchdog.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Watchdog </name>
-    <version> 2.5.2.0 </version>
+    <version> 2.5.4.0 </version>
     <release> 0 </release>
     <summary> Implement watchdog ability for opencpn </summary>
     <api-version> 1.18 </api-version>
@@ -18089,13 +18617,13 @@ Set alarms for changing conditions, boundaries, cog, landfall, ais, wind, nmea, 
     <target-version>22.08</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.2.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v2.5.2.0/watchdog_pi-2.5.2.0-x86_64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.4.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v2.5.4.0/watchdog_pi-2.5.4.0-x86_64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/watchdog.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Watchdog </name>
-    <version> 2.5.2.0 </version>
+    <version> 2.5.4.0 </version>
     <release> 0 </release>
     <summary> Implement watchdog ability for opencpn </summary>
     <api-version> 1.18 </api-version>
@@ -18111,13 +18639,13 @@ Set alarms for changing conditions, boundaries, cog, landfall, ais, wind, nmea, 
     <target-version>24.08</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.2.0-flatpak-x86_64-24.08-flatpak-tarball/versions/v2.5.2.0/watchdog_pi-2.5.2.0-x86_64_flatpak-24.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.4.0-flatpak-x86_64-24.08-flatpak-tarball/versions/v2.5.4.0/watchdog_pi-2.5.4.0-x86_64_flatpak-24.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/watchdog.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Watchdog </name>
-    <version> 2.5.2.0 </version>
+    <version> 2.5.4.0 </version>
     <release> 0 </release>
     <summary> Implement watchdog ability for opencpn </summary>
     <api-version> 1.18 </api-version>
@@ -18133,13 +18661,13 @@ Set alarms for changing conditions, boundaries, cog, landfall, ais, wind, nmea, 
     <target-version>10.0.20348</target-version>
     <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.2.0-msvc-x86-10.0.20348-MSVC-tarball/versions/v2.5.2.0/watchdog_pi-2.5.2.0-msvc-x86-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.4.0-msvc-x86-10.0.20348-MSVC-tarball/versions/v2.5.4.0/watchdog_pi-2.5.4.0-msvc-x86-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/watchdog.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Watchdog </name>
-    <version> 2.5.2.0 </version>
+    <version> 2.5.4.0 </version>
     <release> 0 </release>
     <summary> Implement watchdog ability for opencpn </summary>
     <api-version> 1.18 </api-version>
@@ -18155,13 +18683,13 @@ Set alarms for changing conditions, boundaries, cog, landfall, ais, wind, nmea, 
     <target-version>10.0.20348</target-version>
     <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.2.0-msvc-x86-wx32-10.0.20348-MSVC-tarball/versions/v2.5.2.0/watchdog_pi-2.5.2.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.4.0-msvc-x86-wx32-10.0.20348-MSVC-tarball/versions/v2.5.4.0/watchdog_pi-2.5.4.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/watchdog.html </info-url>
   </plugin>
   <plugin version="1">
     <name> Watchdog </name>
-    <version> 2.5.2.0 </version>
+    <version> 2.5.4.0 </version>
     <release> 0 </release>
     <summary> Implement watchdog ability for opencpn </summary>
     <api-version> 1.18 </api-version>
@@ -18177,7 +18705,7 @@ Set alarms for changing conditions, boundaries, cog, landfall, ais, wind, nmea, 
     <target-version>22.04</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.2.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v2.5.2.0/watchdog_pi-2.5.2.0-ubuntu-x86_64-22.04-jammy.tar.gz
+https://dl.cloudsmith.io/public/opencpn/watchdog-prod/raw/names/watchdog_pi-2.5.4.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v2.5.4.0/watchdog_pi-2.5.4.0-ubuntu-x86_64-22.04-jammy.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/watchdog.html </info-url>
   </plugin>
@@ -18601,7 +19129,7 @@ https://dl.cloudsmith.io/public/opencpn/weather-routing-prod/raw/names/weather_r
   </plugin>
   <plugin version="1">
     <name> WeatherFax </name>
-    <version> 1.10.17.0 </version>
+    <version> 1.10.18.0 </version>
     <release> 0 </release>
     <summary> Open fax image, decode audio fax, chart overlay </summary>
     <api-version> 1.18 </api-version>
@@ -18617,13 +19145,13 @@ Open image files, decode audio fax to an image, calibrate chart overlay image. C
     <target-version>16</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.17.0-android-arm64-16-android-arm64-tarball/versions/v1.10.17.0/weatherfax_pi-1.10.17.0-android-arm64-16-android-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.18.0-android-arm64-16-android-arm64-tarball/versions/v1.10.18.0/weatherfax_pi-1.10.18.0-android-arm64-16-android-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
     <name> WeatherFax </name>
-    <version> 1.10.17.0 </version>
+    <version> 1.10.18.0 </version>
     <release> 0 </release>
     <summary> Open fax image, decode audio fax, chart overlay </summary>
     <api-version> 1.18 </api-version>
@@ -18639,35 +19167,13 @@ Open image files, decode audio fax to an image, calibrate chart overlay image. C
     <target-version>16</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.17.0-android-armhf-16-android-armhf-tarball/versions/v1.10.17.0/weatherfax_pi-1.10.17.0-android-armhf-16-android-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.18.0-android-armhf-16-android-armhf-tarball/versions/v1.10.18.0/weatherfax_pi-1.10.18.0-android-armhf-16-android-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
     <name> WeatherFax </name>
-    <version> 1.10.17.0 </version>
-    <release> 0 </release>
-    <summary> Open fax image, decode audio fax, chart overlay </summary>
-    <api-version> 1.18 </api-version>
-    <open-source> yes </open-source>
-    <author> Sean d'Epagnier </author>
-    <source> https://github.com/rgleason/weatherfax_pi </source>
-    <description>
-Open image files, decode audio fax to an image, calibrate chart overlay image. Convert images in mercator, polar, conic and uniform coordinates. Convert any image into a raster chart. Built in HF Radio Fax database for SSB and Internet retrieval from meterological sites.
-</description>
-    <target>darwin-wx315</target>
-    <build-target>darwin</build-target>
-    <build-gtk/>
-    <target-version>12.6.3</target-version>
-    <target-arch>x86_64</target-arch>
-    <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.17.0-darwin-wx315-x86_64-12.6.3-macos-tarball/versions/v1.10.17.0/weatherfax_pi-1.10.17.0-darwin-wx315-x86_64-12.6.3-macos.tar.gz
-</tarball-url>
-    <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
-  </plugin>
-  <plugin version="1">
-    <name> WeatherFax </name>
-    <version> 1.10.17.0 </version>
+    <version> 1.10.18.0 </version>
     <release> 0 </release>
     <summary> Open fax image, decode audio fax, chart overlay </summary>
     <api-version> 1.18 </api-version>
@@ -18680,16 +19186,16 @@ Open image files, decode audio fax to an image, calibrate chart overlay image. C
     <target>darwin-wx32</target>
     <build-target>darwin</build-target>
     <build-gtk/>
-    <target-version>12.6.3</target-version>
+    <target-version>14.3.1</target-version>
     <target-arch>arm64;x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.17.0-darwin-wx32-arm64-x86_64-12.6.3-macos-tarball/versions/v1.10.17.0/weatherfax_pi-1.10.17.0-darwin-wx32-arm64-x86_64-12.6.3-macos.tar.gz
+https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.18.0-darwin-wx32-arm64-x86_64-14.3.1-macos-tarball/versions/v1.10.18.0/weatherfax_pi-1.10.18.0-darwin-wx32-arm64-x86_64-14.3.1-macos.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
     <name> WeatherFax </name>
-    <version> 1.10.17.0 </version>
+    <version> 1.10.18.0 </version>
     <release> 0 </release>
     <summary> Open fax image, decode audio fax, chart overlay </summary>
     <api-version> 1.18 </api-version>
@@ -18705,13 +19211,13 @@ Open image files, decode audio fax to an image, calibrate chart overlay image. C
     <target-version>11</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.17.0-debian-arm64-11-bullseye-arm64-tarball/versions/v1.10.17.0/weatherfax_pi-1.10.17.0-debian-arm64-11-bullseye-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.18.0-debian-arm64-11-bullseye-arm64-tarball/versions/v1.10.18.0/weatherfax_pi-1.10.18.0-debian-arm64-11-bullseye-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
     <name> WeatherFax </name>
-    <version> 1.10.17.0 </version>
+    <version> 1.10.18.0 </version>
     <release> 0 </release>
     <summary> Open fax image, decode audio fax, chart overlay </summary>
     <api-version> 1.18 </api-version>
@@ -18727,13 +19233,35 @@ Open image files, decode audio fax to an image, calibrate chart overlay image. C
     <target-version>12</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.17.0-debian-arm64-12-bookworm-arm64-tarball/versions/v1.10.17.0/weatherfax_pi-1.10.17.0-debian-arm64-12-bookworm-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.18.0-debian-arm64-12-bookworm-arm64-tarball/versions/v1.10.18.0/weatherfax_pi-1.10.18.0-debian-arm64-12-bookworm-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
     <name> WeatherFax </name>
-    <version> 1.10.17.0 </version>
+    <version> 1.10.18.0 </version>
+    <release> 0 </release>
+    <summary> Open fax image, decode audio fax, chart overlay </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean d'Epagnier </author>
+    <source> https://github.com/rgleason/weatherfax_pi </source>
+    <description>
+Open image files, decode audio fax to an image, calibrate chart overlay image. Convert images in mercator, polar, conic and uniform coordinates. Convert any image into a raster chart. Built in HF Radio Fax database for SSB and Internet retrieval from meterological sites.
+</description>
+    <target>debian-arm64</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>arm64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.18.0-debian-arm64-13-trixie-arm64-tarball/versions/v1.10.18.0/weatherfax_pi-1.10.18.0-debian-arm64-13-trixie-arm64.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> WeatherFax </name>
+    <version> 1.10.18.0 </version>
     <release> 0 </release>
     <summary> Open fax image, decode audio fax, chart overlay </summary>
     <api-version> 1.18 </api-version>
@@ -18749,13 +19277,57 @@ Open image files, decode audio fax to an image, calibrate chart overlay image. C
     <target-version>11</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.17.0-debian-armhf-11-bullseye-armhf-tarball/versions/v1.10.17.0/weatherfax_pi-1.10.17.0-debian-armhf-11-bullseye-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.18.0-debian-armhf-11-bullseye-armhf-tarball/versions/v1.10.18.0/weatherfax_pi-1.10.18.0-debian-armhf-11-bullseye-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
     <name> WeatherFax </name>
-    <version> 1.10.17.0 </version>
+    <version> 1.10.18.0 </version>
+    <release> 0 </release>
+    <summary> Open fax image, decode audio fax, chart overlay </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean d'Epagnier </author>
+    <source> https://github.com/rgleason/weatherfax_pi </source>
+    <description>
+Open image files, decode audio fax to an image, calibrate chart overlay image. Convert images in mercator, polar, conic and uniform coordinates. Convert any image into a raster chart. Built in HF Radio Fax database for SSB and Internet retrieval from meterological sites.
+</description>
+    <target>debian-armhf</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>12</target-version>
+    <target-arch>armhf</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.18.0-debian-armhf-12-bookworm-armhf-tarball/versions/v1.10.18.0/weatherfax_pi-1.10.18.0-debian-armhf-12-bookworm-armhf.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> WeatherFax </name>
+    <version> 1.10.18.0 </version>
+    <release> 0 </release>
+    <summary> Open fax image, decode audio fax, chart overlay </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean d'Epagnier </author>
+    <source> https://github.com/rgleason/weatherfax_pi </source>
+    <description>
+Open image files, decode audio fax to an image, calibrate chart overlay image. Convert images in mercator, polar, conic and uniform coordinates. Convert any image into a raster chart. Built in HF Radio Fax database for SSB and Internet retrieval from meterological sites.
+</description>
+    <target>debian-armhf</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>armhf</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.18.0-debian-armhf-13-trixie-armhf-tarball/versions/v1.10.18.0/weatherfax_pi-1.10.18.0-debian-armhf-13-trixie-armhf.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> WeatherFax </name>
+    <version> 1.10.18.0 </version>
     <release> 0 </release>
     <summary> Open fax image, decode audio fax, chart overlay </summary>
     <api-version> 1.18 </api-version>
@@ -18771,13 +19343,13 @@ Open image files, decode audio fax to an image, calibrate chart overlay image. C
     <target-version>11</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.17.0-debian-x86_64-11-bullseye-tarball/versions/v1.10.17.0/weatherfax_pi-1.10.17.0-debian-x86_64-11-bullseye.tar.gz
+https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.18.0-debian-x86_64-11-bullseye-tarball/versions/v1.10.18.0/weatherfax_pi-1.10.18.0-debian-x86_64-11-bullseye.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
     <name> WeatherFax </name>
-    <version> 1.10.17.0 </version>
+    <version> 1.10.18.0 </version>
     <release> 0 </release>
     <summary> Open fax image, decode audio fax, chart overlay </summary>
     <api-version> 1.18 </api-version>
@@ -18793,13 +19365,35 @@ Open image files, decode audio fax to an image, calibrate chart overlay image. C
     <target-version>12</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.17.0-debian-x86_64-12-bookworm-tarball/versions/v1.10.17.0/weatherfax_pi-1.10.17.0-debian-x86_64-12-bookworm.tar.gz
+https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.18.0-debian-x86_64-12-bookworm-tarball/versions/v1.10.18.0/weatherfax_pi-1.10.18.0-debian-x86_64-12-bookworm.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
     <name> WeatherFax </name>
-    <version> 1.10.17.0 </version>
+    <version> 1.10.18.0 </version>
+    <release> 0 </release>
+    <summary> Open fax image, decode audio fax, chart overlay </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean d'Epagnier </author>
+    <source> https://github.com/rgleason/weatherfax_pi </source>
+    <description>
+Open image files, decode audio fax to an image, calibrate chart overlay image. Convert images in mercator, polar, conic and uniform coordinates. Convert any image into a raster chart. Built in HF Radio Fax database for SSB and Internet retrieval from meterological sites.
+</description>
+    <target>debian-x86_64</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.18.0-debian-x86_64-13-trixie-tarball/versions/v1.10.18.0/weatherfax_pi-1.10.18.0-debian-x86_64-13-trixie.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> WeatherFax </name>
+    <version> 1.10.18.0 </version>
     <release> 0 </release>
     <summary> Open fax image, decode audio fax, chart overlay </summary>
     <api-version> 1.18 </api-version>
@@ -18815,13 +19409,13 @@ Open image files, decode audio fax to an image, calibrate chart overlay image. C
     <target-version>22.08</target-version>
     <target-arch>aarch64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.17.0-flatpak-aarch64-22.08-flatpak-tarball/versions/v1.10.17.0/weatherfax_pi-1.10.17.0-aarch64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.18.0-flatpak-aarch64-22.08-flatpak-tarball/versions/v1.10.18.0/weatherfax_pi-1.10.18.0-aarch64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
     <name> WeatherFax </name>
-    <version> 1.10.17.0 </version>
+    <version> 1.10.18.0 </version>
     <release> 0 </release>
     <summary> Open fax image, decode audio fax, chart overlay </summary>
     <api-version> 1.18 </api-version>
@@ -18837,13 +19431,13 @@ Open image files, decode audio fax to an image, calibrate chart overlay image. C
     <target-version>24.08</target-version>
     <target-arch>aarch64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.17.0-flatpak-aarch64-24.08-flatpak-tarball/versions/v1.10.17.0/weatherfax_pi-1.10.17.0-aarch64_flatpak-24.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.18.0-flatpak-aarch64-24.08-flatpak-tarball/versions/v1.10.18.0/weatherfax_pi-1.10.18.0-aarch64_flatpak-24.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
     <name> WeatherFax </name>
-    <version> 1.10.17.0 </version>
+    <version> 1.10.18.0 </version>
     <release> 0 </release>
     <summary> Open fax image, decode audio fax, chart overlay </summary>
     <api-version> 1.18 </api-version>
@@ -18859,13 +19453,13 @@ Open image files, decode audio fax to an image, calibrate chart overlay image. C
     <target-version>22.08</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.17.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v1.10.17.0/weatherfax_pi-1.10.17.0-x86_64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.18.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v1.10.18.0/weatherfax_pi-1.10.18.0-x86_64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
     <name> WeatherFax </name>
-    <version> 1.10.17.0 </version>
+    <version> 1.10.18.0 </version>
     <release> 0 </release>
     <summary> Open fax image, decode audio fax, chart overlay </summary>
     <api-version> 1.18 </api-version>
@@ -18881,13 +19475,13 @@ Open image files, decode audio fax to an image, calibrate chart overlay image. C
     <target-version>24.08</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.17.0-flatpak-x86_64-24.08-flatpak-tarball/versions/v1.10.17.0/weatherfax_pi-1.10.17.0-x86_64_flatpak-24.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.18.0-flatpak-x86_64-24.08-flatpak-tarball/versions/v1.10.18.0/weatherfax_pi-1.10.18.0-x86_64_flatpak-24.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
     <name> WeatherFax </name>
-    <version> 1.10.17.0 </version>
+    <version> 1.10.18.0 </version>
     <release> 0 </release>
     <summary> Open fax image, decode audio fax, chart overlay </summary>
     <api-version> 1.18 </api-version>
@@ -18903,13 +19497,13 @@ Open image files, decode audio fax to an image, calibrate chart overlay image. C
     <target-version>10.0.20348</target-version>
     <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.17.0-msvc-x86-10.0.20348-MSVC-tarball/versions/v1.10.17.0/weatherfax_pi-1.10.17.0-msvc-x86-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.18.0-msvc-x86-10.0.20348-MSVC-tarball/versions/v1.10.18.0/weatherfax_pi-1.10.18.0-msvc-x86-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
     <name> WeatherFax </name>
-    <version> 1.10.17.0 </version>
+    <version> 1.10.18.0 </version>
     <release> 0 </release>
     <summary> Open fax image, decode audio fax, chart overlay </summary>
     <api-version> 1.18 </api-version>
@@ -18925,13 +19519,13 @@ Open image files, decode audio fax to an image, calibrate chart overlay image. C
     <target-version>10.0.20348</target-version>
     <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.17.0-msvc-x86-wx32-10.0.20348-MSVC-tarball/versions/v1.10.17.0/weatherfax_pi-1.10.17.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.18.0-msvc-x86-wx32-10.0.20348-MSVC-tarball/versions/v1.10.18.0/weatherfax_pi-1.10.18.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
   <plugin version="1">
     <name> WeatherFax </name>
-    <version> 1.10.17.0 </version>
+    <version> 1.10.18.0 </version>
     <release> 0 </release>
     <summary> Open fax image, decode audio fax, chart overlay </summary>
     <api-version> 1.18 </api-version>
@@ -18947,7 +19541,7 @@ Open image files, decode audio fax to an image, calibrate chart overlay image. C
     <target-version>22.04</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.17.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v1.10.17.0/weatherfax_pi-1.10.17.0-ubuntu-x86_64-22.04-jammy.tar.gz
+https://dl.cloudsmith.io/public/opencpn/weatherfax-prod/raw/names/weatherfax_pi-1.10.18.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v1.10.18.0/weatherfax_pi-1.10.18.0-ubuntu-x86_64-22.04-jammy.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/weatherfax.html </info-url>
   </plugin>
