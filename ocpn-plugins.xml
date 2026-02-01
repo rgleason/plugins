@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <plugins>
   <version>0.0.0</version>
-  <date>2026-02-01 11:35</date>
+  <date>2026-02-01 15:37</date>
   <plugin version="1">
     <name> AutoTrackRaymarine </name>
     <version> 2.3.1.0 </version>
@@ -8651,10 +8651,10 @@ https://dl.cloudsmith.io/public/opencpn/climatology-prod/raw/names/climatology_p
   </plugin>
   <plugin version="1">
     <name> DashboardTactics </name>
-    <version> 1.7.61.0 </version>
+    <version> 1.7.66.0 </version>
     <release> 0 </release>
     <summary> Dashboard and Tactics </summary>
-    <api-version> 1.17 </api-version>
+    <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Rick Gleason </author>
     <source> https://github.com/rgleason/dashboard_tactics_pi </source>
@@ -8667,16 +8667,16 @@ Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanc
     <target-version>16</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.61.0-android-arm64-16-android-arm64-tarball/versions/v1.7.61.0/dashboard_tactics_pi-1.7.61.0-android-arm64-16-android-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.66.0-android-arm64-16-android-arm64-tarball/versions/v1.7.66.0/dashboard_tactics_pi-1.7.66.0-android-arm64-16-android-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> DashboardTactics </name>
-    <version> 1.7.61.0 </version>
+    <version> 1.7.66.0 </version>
     <release> 0 </release>
     <summary> Dashboard and Tactics </summary>
-    <api-version> 1.17 </api-version>
+    <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Rick Gleason </author>
     <source> https://github.com/rgleason/dashboard_tactics_pi </source>
@@ -8689,38 +8689,16 @@ Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanc
     <target-version>16</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.61.0-android-armhf-16-android-armhf-tarball/versions/v1.7.61.0/dashboard_tactics_pi-1.7.61.0-android-armhf-16-android-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.66.0-android-armhf-16-android-armhf-tarball/versions/v1.7.66.0/dashboard_tactics_pi-1.7.66.0-android-armhf-16-android-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> DashboardTactics </name>
-    <version> 1.7.61.0 </version>
+    <version> 1.7.66.0 </version>
     <release> 0 </release>
     <summary> Dashboard and Tactics </summary>
-    <api-version> 1.17 </api-version>
-    <open-source> yes </open-source>
-    <author> Rick Gleason </author>
-    <source> https://github.com/rgleason/dashboard_tactics_pi </source>
-    <description>
-Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanced with performance functions and alternative input/output functions.
-</description>
-    <target>darwin-wx315</target>
-    <build-target>darwin</build-target>
-    <build-gtk/>
-    <target-version>12.3.1</target-version>
-    <target-arch>x86_64</target-arch>
-    <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.61.0-darwin-wx315-x86_64-12.3.1-macos-tarball/versions/v1.7.61.0/dashboard_tactics_pi-1.7.61.0-darwin-wx315-x86_64-12.3.1-macos.tar.gz
-</tarball-url>
-    <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
-  </plugin>
-  <plugin version="1">
-    <name> DashboardTactics </name>
-    <version> 1.7.61.0 </version>
-    <release> 0 </release>
-    <summary> Dashboard and Tactics </summary>
-    <api-version> 1.17 </api-version>
+    <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Rick Gleason </author>
     <source> https://github.com/rgleason/dashboard_tactics_pi </source>
@@ -8730,41 +8708,19 @@ Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanc
     <target>darwin-wx32</target>
     <build-target>darwin</build-target>
     <build-gtk/>
-    <target-version>11.4</target-version>
+    <target-version>14.3.1</target-version>
     <target-arch>arm64;x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.61.0-darwin-wx32-arm64-x86_64-11.4-macos-tarball/versions/v1.7.61.0/dashboard_tactics_pi-1.7.61.0-darwin-wx32-arm64-x86_64-11.4-macos.tar.gz
+https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.66.0-darwin-wx32-arm64-x86_64-14.3.1-macos-tarball/versions/v1.7.66.0/dashboard_tactics_pi-1.7.66.0-darwin-wx32-arm64-x86_64-14.3.1-macos.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> DashboardTactics </name>
-    <version> 1.7.61.0 </version>
+    <version> 1.7.66.0 </version>
     <release> 0 </release>
     <summary> Dashboard and Tactics </summary>
-    <api-version> 1.17 </api-version>
-    <open-source> yes </open-source>
-    <author> Rick Gleason </author>
-    <source> https://github.com/rgleason/dashboard_tactics_pi </source>
-    <description>
-Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanced with performance functions and alternative input/output functions.
-</description>
-    <target>debian-arm64</target>
-    <build-target>debian</build-target>
-    <build-gtk>gtk2</build-gtk>
-    <target-version>10</target-version>
-    <target-arch>arm64</target-arch>
-    <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.61.0-debian-arm64-10-buster-arm64-tarball/versions/v1.7.61.0/dashboard_tactics_pi-1.7.61.0-debian-arm64-10-buster-arm64.tar.gz
-</tarball-url>
-    <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
-  </plugin>
-  <plugin version="1">
-    <name> DashboardTactics </name>
-    <version> 1.7.61.0 </version>
-    <release> 0 </release>
-    <summary> Dashboard and Tactics </summary>
-    <api-version> 1.17 </api-version>
+    <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Rick Gleason </author>
     <source> https://github.com/rgleason/dashboard_tactics_pi </source>
@@ -8777,16 +8733,16 @@ Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanc
     <target-version>11</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.61.0-debian-arm64-11-bullseye-arm64-tarball/versions/v1.7.61.0/dashboard_tactics_pi-1.7.61.0-debian-arm64-11-bullseye-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.66.0-debian-arm64-11-bullseye-arm64-tarball/versions/v1.7.66.0/dashboard_tactics_pi-1.7.66.0-debian-arm64-11-bullseye-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> DashboardTactics </name>
-    <version> 1.7.61.0 </version>
+    <version> 1.7.66.0 </version>
     <release> 0 </release>
     <summary> Dashboard and Tactics </summary>
-    <api-version> 1.17 </api-version>
+    <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Rick Gleason </author>
     <source> https://github.com/rgleason/dashboard_tactics_pi </source>
@@ -8799,60 +8755,38 @@ Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanc
     <target-version>12</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.61.0-debian-arm64-12-bookworm-arm64-tarball/versions/v1.7.61.0/dashboard_tactics_pi-1.7.61.0-debian-arm64-12-bookworm-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.66.0-debian-arm64-12-bookworm-arm64-tarball/versions/v1.7.66.0/dashboard_tactics_pi-1.7.66.0-debian-arm64-12-bookworm-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> DashboardTactics </name>
-    <version> 1.7.61.0 </version>
+    <version> 1.7.66.0 </version>
     <release> 0 </release>
     <summary> Dashboard and Tactics </summary>
-    <api-version> 1.17 </api-version>
+    <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Rick Gleason </author>
     <source> https://github.com/rgleason/dashboard_tactics_pi </source>
     <description>
 Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanced with performance functions and alternative input/output functions.
 </description>
-    <target>debian-armhf</target>
-    <build-target>debian</build-target>
-    <build-gtk>gtk2</build-gtk>
-    <target-version>10</target-version>
-    <target-arch>armhf</target-arch>
-    <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.61.0-debian-armhf-10-buster-armhf-tarball/versions/v1.7.61.0/dashboard_tactics_pi-1.7.61.0-debian-armhf-10-buster-armhf.tar.gz
-</tarball-url>
-    <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
-  </plugin>
-  <plugin version="1">
-    <name> DashboardTactics </name>
-    <version> 1.7.61.0 </version>
-    <release> 0 </release>
-    <summary> Dashboard and Tactics </summary>
-    <api-version> 1.17 </api-version>
-    <open-source> yes </open-source>
-    <author> Rick Gleason </author>
-    <source> https://github.com/rgleason/dashboard_tactics_pi </source>
-    <description>
-Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanced with performance functions and alternative input/output functions.
-</description>
-    <target>debian-gtk3-armhf</target>
+    <target>debian-arm64</target>
     <build-target>debian</build-target>
     <build-gtk/>
-    <target-version>10</target-version>
-    <target-arch>armhf</target-arch>
+    <target-version>13</target-version>
+    <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.61.0-debian-armhf-gtk3-10-buster-armhf-tarball/versions/v1.7.61.0/dashboard_tactics_pi-1.7.61.0-debian-armhf-10-gtk3-buster-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.66.0-debian-arm64-13-trixie-arm64-tarball/versions/v1.7.66.0/dashboard_tactics_pi-1.7.66.0-debian-arm64-13-trixie-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> DashboardTactics </name>
-    <version> 1.7.61.0 </version>
+    <version> 1.7.66.0 </version>
     <release> 0 </release>
     <summary> Dashboard and Tactics </summary>
-    <api-version> 1.17 </api-version>
+    <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Rick Gleason </author>
     <source> https://github.com/rgleason/dashboard_tactics_pi </source>
@@ -8865,16 +8799,16 @@ Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanc
     <target-version>11</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.61.0-debian-armhf-11-bullseye-armhf-tarball/versions/v1.7.61.0/dashboard_tactics_pi-1.7.61.0-debian-armhf-11-bullseye-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.66.0-debian-armhf-11-bullseye-armhf-tarball/versions/v1.7.66.0/dashboard_tactics_pi-1.7.66.0-debian-armhf-11-bullseye-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> DashboardTactics </name>
-    <version> 1.7.61.0 </version>
+    <version> 1.7.66.0 </version>
     <release> 0 </release>
     <summary> Dashboard and Tactics </summary>
-    <api-version> 1.17 </api-version>
+    <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Rick Gleason </author>
     <source> https://github.com/rgleason/dashboard_tactics_pi </source>
@@ -8887,38 +8821,38 @@ Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanc
     <target-version>12</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.61.0-debian-armhf-12-bookworm-armhf-tarball/versions/v1.7.61.0/dashboard_tactics_pi-1.7.61.0-debian-armhf-12-bookworm-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.66.0-debian-armhf-12-bookworm-armhf-tarball/versions/v1.7.66.0/dashboard_tactics_pi-1.7.66.0-debian-armhf-12-bookworm-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> DashboardTactics </name>
-    <version> 1.7.61.0 </version>
+    <version> 1.7.66.0 </version>
     <release> 0 </release>
     <summary> Dashboard and Tactics </summary>
-    <api-version> 1.17 </api-version>
+    <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Rick Gleason </author>
     <source> https://github.com/rgleason/dashboard_tactics_pi </source>
     <description>
 Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanced with performance functions and alternative input/output functions.
 </description>
-    <target>debian-x86_64</target>
+    <target>debian-armhf</target>
     <build-target>debian</build-target>
-    <build-gtk>gtk2</build-gtk>
-    <target-version>10</target-version>
-    <target-arch>x86_64</target-arch>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.61.0-debian-x86_64-10-buster-tarball/versions/v1.7.61.0/dashboard_tactics_pi-1.7.61.0-debian-x86_64-10-buster.tar.gz
+https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.66.0-debian-armhf-13-trixie-armhf-tarball/versions/v1.7.66.0/dashboard_tactics_pi-1.7.66.0-debian-armhf-13-trixie-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> DashboardTactics </name>
-    <version> 1.7.61.0 </version>
+    <version> 1.7.66.0 </version>
     <release> 0 </release>
     <summary> Dashboard and Tactics </summary>
-    <api-version> 1.17 </api-version>
+    <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Rick Gleason </author>
     <source> https://github.com/rgleason/dashboard_tactics_pi </source>
@@ -8931,16 +8865,16 @@ Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanc
     <target-version>11</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.61.0-debian-x86_64-11-bullseye-tarball/versions/v1.7.61.0/dashboard_tactics_pi-1.7.61.0-debian-x86_64-11-bullseye.tar.gz
+https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.66.0-debian-x86_64-11-bullseye-tarball/versions/v1.7.66.0/dashboard_tactics_pi-1.7.66.0-debian-x86_64-11-bullseye.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> DashboardTactics </name>
-    <version> 1.7.61.0 </version>
+    <version> 1.7.66.0 </version>
     <release> 0 </release>
     <summary> Dashboard and Tactics </summary>
-    <api-version> 1.17 </api-version>
+    <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Rick Gleason </author>
     <source> https://github.com/rgleason/dashboard_tactics_pi </source>
@@ -8953,16 +8887,38 @@ Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanc
     <target-version>12</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.61.0-debian-x86_64-12-bookworm-tarball/versions/v1.7.61.0/dashboard_tactics_pi-1.7.61.0-debian-x86_64-12-bookworm.tar.gz
+https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.66.0-debian-x86_64-12-bookworm-tarball/versions/v1.7.66.0/dashboard_tactics_pi-1.7.66.0-debian-x86_64-12-bookworm.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> DashboardTactics </name>
-    <version> 1.7.61.0 </version>
+    <version> 1.7.66.0 </version>
     <release> 0 </release>
     <summary> Dashboard and Tactics </summary>
-    <api-version> 1.17 </api-version>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Rick Gleason </author>
+    <source> https://github.com/rgleason/dashboard_tactics_pi </source>
+    <description>
+Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanced with performance functions and alternative input/output functions.
+</description>
+    <target>debian-x86_64</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.66.0-debian-x86_64-13-trixie-tarball/versions/v1.7.66.0/dashboard_tactics_pi-1.7.66.0-debian-x86_64-13-trixie.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> DashboardTactics </name>
+    <version> 1.7.66.0 </version>
+    <release> 0 </release>
+    <summary> Dashboard and Tactics </summary>
+    <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Rick Gleason </author>
     <source> https://github.com/rgleason/dashboard_tactics_pi </source>
@@ -8975,16 +8931,38 @@ Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanc
     <target-version>22.08</target-version>
     <target-arch>aarch64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.61.0-flatpak-aarch64-22.08-flatpak-arm64-tarball/versions/v1.7.61.0/dashboard_tactics_pi-1.7.61.0-aarch64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.66.0-flatpak-aarch64-22.08-flatpak-tarball/versions/v1.7.66.0/dashboard_tactics_pi-1.7.66.0-aarch64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> DashboardTactics </name>
-    <version> 1.7.61.0 </version>
+    <version> 1.7.66.0 </version>
     <release> 0 </release>
     <summary> Dashboard and Tactics </summary>
-    <api-version> 1.17 </api-version>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Rick Gleason </author>
+    <source> https://github.com/rgleason/dashboard_tactics_pi </source>
+    <description>
+Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanced with performance functions and alternative input/output functions.
+</description>
+    <target>flatpak-aarch64</target>
+    <build-target>flatpak</build-target>
+    <build-gtk/>
+    <target-version>24.08</target-version>
+    <target-arch>aarch64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.66.0-flatpak-aarch64-24.08-flatpak-tarball/versions/v1.7.66.0/dashboard_tactics_pi-1.7.66.0-aarch64_flatpak-24.08.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> DashboardTactics </name>
+    <version> 1.7.66.0 </version>
+    <release> 0 </release>
+    <summary> Dashboard and Tactics </summary>
+    <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Rick Gleason </author>
     <source> https://github.com/rgleason/dashboard_tactics_pi </source>
@@ -8997,16 +8975,38 @@ Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanc
     <target-version>22.08</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.61.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v1.7.61.0/dashboard_tactics_pi-1.7.61.0-x86_64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.66.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v1.7.66.0/dashboard_tactics_pi-1.7.66.0-x86_64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> DashboardTactics </name>
-    <version> 1.7.61.0 </version>
+    <version> 1.7.66.0 </version>
     <release> 0 </release>
     <summary> Dashboard and Tactics </summary>
-    <api-version> 1.17 </api-version>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> Rick Gleason </author>
+    <source> https://github.com/rgleason/dashboard_tactics_pi </source>
+    <description>
+Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanced with performance functions and alternative input/output functions.
+</description>
+    <target>flatpak-x86_64</target>
+    <build-target>flatpak</build-target>
+    <build-gtk/>
+    <target-version>24.08</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.66.0-flatpak-x86_64-24.08-flatpak-tarball/versions/v1.7.66.0/dashboard_tactics_pi-1.7.66.0-x86_64_flatpak-24.08.tar.gz
+</tarball-url>
+    <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> DashboardTactics </name>
+    <version> 1.7.66.0 </version>
+    <release> 0 </release>
+    <summary> Dashboard and Tactics </summary>
+    <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Rick Gleason </author>
     <source> https://github.com/rgleason/dashboard_tactics_pi </source>
@@ -9017,18 +9017,18 @@ Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanc
     <build-target>msvc</build-target>
     <build-gtk/>
     <target-version>10.0.20348</target-version>
-    <target-arch>x86_64</target-arch>
+    <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.61.0-msvc-x86_64-10.0.20348-MSVC-tarball/versions/v1.7.61.0/dashboard_tactics_pi-1.7.61.0-msvc-x86_64-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.66.0-msvc-x86-10.0.20348-MSVC-tarball/versions/v1.7.66.0/dashboard_tactics_pi-1.7.66.0-msvc-x86-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> DashboardTactics </name>
-    <version> 1.7.61.0 </version>
+    <version> 1.7.66.0 </version>
     <release> 0 </release>
     <summary> Dashboard and Tactics </summary>
-    <api-version> 1.17 </api-version>
+    <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Rick Gleason </author>
     <source> https://github.com/rgleason/dashboard_tactics_pi </source>
@@ -9039,40 +9039,18 @@ Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanc
     <build-target>msvc</build-target>
     <build-gtk/>
     <target-version>10.0.20348</target-version>
-    <target-arch>x86_64</target-arch>
+    <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.61.0-msvc-x86_64-wx32-10.0.20348-MSVC-tarball/versions/v1.7.61.0/dashboard_tactics_pi-1.7.61.0-msvc-x86_64-wx32-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.66.0-msvc-x86-wx32-10.0.20348-MSVC-tarball/versions/v1.7.66.0/dashboard_tactics_pi-1.7.66.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
   </plugin>
   <plugin version="1">
     <name> DashboardTactics </name>
-    <version> 1.7.61.0 </version>
+    <version> 1.7.66.0 </version>
     <release> 0 </release>
     <summary> Dashboard and Tactics </summary>
-    <api-version> 1.17 </api-version>
-    <open-source> yes </open-source>
-    <author> Rick Gleason </author>
-    <source> https://github.com/rgleason/dashboard_tactics_pi </source>
-    <description>
-Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanced with performance functions and alternative input/output functions.
-</description>
-    <target>ubuntu-armhf</target>
-    <build-target>ubuntu</build-target>
-    <build-gtk>gtk2</build-gtk>
-    <target-version>18.04</target-version>
-    <target-arch>armhf</target-arch>
-    <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.61.0-ubuntu-armhf-18.04-buster-armhf-tarball/versions/v1.7.61.0/dashboard_tactics_pi-1.7.61.0-ubuntu-armhf-18.04-buster-armhf.tar.gz
-</tarball-url>
-    <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
-  </plugin>
-  <plugin version="1">
-    <name> DashboardTactics </name>
-    <version> 1.7.61.0 </version>
-    <release> 0 </release>
-    <summary> Dashboard and Tactics </summary>
-    <api-version> 1.17 </api-version>
+    <api-version> 1.18 </api-version>
     <open-source> yes </open-source>
     <author> Rick Gleason </author>
     <source> https://github.com/rgleason/dashboard_tactics_pi </source>
@@ -9085,7 +9063,7 @@ Dashboard PlugIn with Tactics for OpenCPN Provides navigation instruments enhanc
     <target-version>22.04</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.61.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v1.7.61.0/dashboard_tactics_pi-1.7.61.0-ubuntu-x86_64-22.04-jammy.tar.gz
+https://dl.cloudsmith.io/public/opencpn/dashboardtactics-beta/raw/names/dashboard_tactics_pi-1.7.66.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v1.7.66.0/dashboard_tactics_pi-1.7.66.0-ubuntu-x86_64-22.04-jammy.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/dashboardtactics.html </info-url>
   </plugin>
@@ -10851,7 +10829,7 @@ https://dl.cloudsmith.io/public/opencpn/findit-prod/raw/names/findit_pi-1.3.55.0
   </plugin>
   <plugin version="1">
     <name> GPS Odometer </name>
-    <version> 0.8.11.0 </version>
+    <version> 0.8.13.0 </version>
     <release> 0 </release>
     <summary> GPS/GNSS based for release 5.8 and above </summary>
     <api-version> 1.18 </api-version>
@@ -10867,13 +10845,13 @@ Using GPS/GNSS satellite data to calculate log and trip information as well as d
     <target-version>16</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.11.0-android-arm64-16-android-arm64-tarball/versions/v0.8.11.0/gpsodometer_pi-0.8.11.0-android-arm64-16-android-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.13.0-android-arm64-16-android-arm64-tarball/versions/v0.8.13.0/gpsodometer_pi-0.8.13.0-android-arm64-16-android-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/gps-odometer/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> GPS Odometer </name>
-    <version> 0.8.11.0 </version>
+    <version> 0.8.13.0 </version>
     <release> 0 </release>
     <summary> GPS/GNSS based for release 5.8 and above </summary>
     <api-version> 1.18 </api-version>
@@ -10889,13 +10867,13 @@ Using GPS/GNSS satellite data to calculate log and trip information as well as d
     <target-version>16</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.11.0-android-armhf-16-android-armhf-tarball/versions/v0.8.11.0/gpsodometer_pi-0.8.11.0-android-armhf-16-android-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.13.0-android-armhf-16-android-armhf-tarball/versions/v0.8.13.0/gpsodometer_pi-0.8.13.0-android-armhf-16-android-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/gps-odometer/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> GPS Odometer </name>
-    <version> 0.8.11.0 </version>
+    <version> 0.8.13.0 </version>
     <release> 0 </release>
     <summary> GPS/GNSS based for release 5.8 and above </summary>
     <api-version> 1.18 </api-version>
@@ -10908,16 +10886,16 @@ Using GPS/GNSS satellite data to calculate log and trip information as well as d
     <target>darwin-wx32</target>
     <build-target>darwin</build-target>
     <build-gtk/>
-    <target-version>14.1</target-version>
+    <target-version>14.3.1</target-version>
     <target-arch>arm64;x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.11.0-darwin-wx32-arm64-x86_64-14.1-macos-tarball/versions/v0.8.11.0/gpsodometer_pi-0.8.11.0-darwin-wx32-arm64-x86_64-14.1-macos.tar.gz
+https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.13.0-darwin-wx32-arm64-x86_64-14.3.1-macos-tarball/versions/v0.8.13.0/gpsodometer_pi-0.8.13.0-darwin-wx32-arm64-x86_64-14.3.1-macos.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/gps-odometer/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> GPS Odometer </name>
-    <version> 0.8.11.0 </version>
+    <version> 0.8.13.0 </version>
     <release> 0 </release>
     <summary> GPS/GNSS based for release 5.8 and above </summary>
     <api-version> 1.18 </api-version>
@@ -10933,13 +10911,13 @@ Using GPS/GNSS satellite data to calculate log and trip information as well as d
     <target-version>11</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.11.0-debian-arm64-11-bullseye-arm64-tarball/versions/v0.8.11.0/gpsodometer_pi-0.8.11.0-debian-arm64-11-bullseye-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.13.0-debian-arm64-11-bullseye-arm64-tarball/versions/v0.8.13.0/gpsodometer_pi-0.8.13.0-debian-arm64-11-bullseye-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/gps-odometer/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> GPS Odometer </name>
-    <version> 0.8.11.0 </version>
+    <version> 0.8.13.0 </version>
     <release> 0 </release>
     <summary> GPS/GNSS based for release 5.8 and above </summary>
     <api-version> 1.18 </api-version>
@@ -10955,13 +10933,35 @@ Using GPS/GNSS satellite data to calculate log and trip information as well as d
     <target-version>12</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.11.0-debian-arm64-12-bookworm-arm64-tarball/versions/v0.8.11.0/gpsodometer_pi-0.8.11.0-debian-arm64-12-bookworm-arm64.tar.gz
+https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.13.0-debian-arm64-12-bookworm-arm64-tarball/versions/v0.8.13.0/gpsodometer_pi-0.8.13.0-debian-arm64-12-bookworm-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/gps-odometer/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> GPS Odometer </name>
-    <version> 0.8.11.0 </version>
+    <version> 0.8.13.0 </version>
+    <release> 0 </release>
+    <summary> GPS/GNSS based for release 5.8 and above </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> LennartG </author>
+    <source> https://github.com/rgleason/GPS-Odometer_pi </source>
+    <description>
+Using GPS/GNSS satellite data to calculate log and trip information as well as deparure and arrival times
+</description>
+    <target>debian-arm64</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>arm64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.13.0-debian-arm64-13-trixie-arm64-tarball/versions/v0.8.13.0/gpsodometer_pi-0.8.13.0-debian-arm64-13-trixie-arm64.tar.gz
+</tarball-url>
+    <info-url> https://opencpn-manuals.github.io/main/gps-odometer/index.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> GPS Odometer </name>
+    <version> 0.8.13.0 </version>
     <release> 0 </release>
     <summary> GPS/GNSS based for release 5.8 and above </summary>
     <api-version> 1.18 </api-version>
@@ -10977,13 +10977,13 @@ Using GPS/GNSS satellite data to calculate log and trip information as well as d
     <target-version>11</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.11.0-debian-armhf-11-bullseye-armhf-tarball/versions/v0.8.11.0/gpsodometer_pi-0.8.11.0-debian-armhf-11-bullseye-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.13.0-debian-armhf-11-bullseye-armhf-tarball/versions/v0.8.13.0/gpsodometer_pi-0.8.13.0-debian-armhf-11-bullseye-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/gps-odometer/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> GPS Odometer </name>
-    <version> 0.8.11.0 </version>
+    <version> 0.8.13.0 </version>
     <release> 0 </release>
     <summary> GPS/GNSS based for release 5.8 and above </summary>
     <api-version> 1.18 </api-version>
@@ -10999,13 +10999,35 @@ Using GPS/GNSS satellite data to calculate log and trip information as well as d
     <target-version>12</target-version>
     <target-arch>armhf</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.11.0-debian-armhf-12-bookworm-armhf-tarball/versions/v0.8.11.0/gpsodometer_pi-0.8.11.0-debian-armhf-12-bookworm-armhf.tar.gz
+https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.13.0-debian-armhf-12-bookworm-armhf-tarball/versions/v0.8.13.0/gpsodometer_pi-0.8.13.0-debian-armhf-12-bookworm-armhf.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/gps-odometer/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> GPS Odometer </name>
-    <version> 0.8.11.0 </version>
+    <version> 0.8.13.0 </version>
+    <release> 0 </release>
+    <summary> GPS/GNSS based for release 5.8 and above </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> LennartG </author>
+    <source> https://github.com/rgleason/GPS-Odometer_pi </source>
+    <description>
+Using GPS/GNSS satellite data to calculate log and trip information as well as deparure and arrival times
+</description>
+    <target>debian-armhf</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>armhf</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.13.0-debian-armhf-13-trixie-armhf-tarball/versions/v0.8.13.0/gpsodometer_pi-0.8.13.0-debian-armhf-13-trixie-armhf.tar.gz
+</tarball-url>
+    <info-url> https://opencpn-manuals.github.io/main/gps-odometer/index.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> GPS Odometer </name>
+    <version> 0.8.13.0 </version>
     <release> 0 </release>
     <summary> GPS/GNSS based for release 5.8 and above </summary>
     <api-version> 1.18 </api-version>
@@ -11021,13 +11043,13 @@ Using GPS/GNSS satellite data to calculate log and trip information as well as d
     <target-version>11</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.11.0-debian-x86_64-11-bullseye-tarball/versions/v0.8.11.0/gpsodometer_pi-0.8.11.0-debian-x86_64-11-bullseye.tar.gz
+https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.13.0-debian-x86_64-11-bullseye-tarball/versions/v0.8.13.0/gpsodometer_pi-0.8.13.0-debian-x86_64-11-bullseye.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/gps-odometer/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> GPS Odometer </name>
-    <version> 0.8.11.0 </version>
+    <version> 0.8.13.0 </version>
     <release> 0 </release>
     <summary> GPS/GNSS based for release 5.8 and above </summary>
     <api-version> 1.18 </api-version>
@@ -11043,13 +11065,35 @@ Using GPS/GNSS satellite data to calculate log and trip information as well as d
     <target-version>12</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.11.0-debian-x86_64-12-bookworm-tarball/versions/v0.8.11.0/gpsodometer_pi-0.8.11.0-debian-x86_64-12-bookworm.tar.gz
+https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.13.0-debian-x86_64-12-bookworm-tarball/versions/v0.8.13.0/gpsodometer_pi-0.8.13.0-debian-x86_64-12-bookworm.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/gps-odometer/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> GPS Odometer </name>
-    <version> 0.8.11.0 </version>
+    <version> 0.8.13.0 </version>
+    <release> 0 </release>
+    <summary> GPS/GNSS based for release 5.8 and above </summary>
+    <api-version> 1.18 </api-version>
+    <open-source> yes </open-source>
+    <author> LennartG </author>
+    <source> https://github.com/rgleason/GPS-Odometer_pi </source>
+    <description>
+Using GPS/GNSS satellite data to calculate log and trip information as well as deparure and arrival times
+</description>
+    <target>debian-x86_64</target>
+    <build-target>debian</build-target>
+    <build-gtk/>
+    <target-version>13</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>
+https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.13.0-debian-x86_64-13-trixie-tarball/versions/v0.8.13.0/gpsodometer_pi-0.8.13.0-debian-x86_64-13-trixie.tar.gz
+</tarball-url>
+    <info-url> https://opencpn-manuals.github.io/main/gps-odometer/index.html </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> GPS Odometer </name>
+    <version> 0.8.13.0 </version>
     <release> 0 </release>
     <summary> GPS/GNSS based for release 5.8 and above </summary>
     <api-version> 1.18 </api-version>
@@ -11065,13 +11109,13 @@ Using GPS/GNSS satellite data to calculate log and trip information as well as d
     <target-version>22.08</target-version>
     <target-arch>aarch64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.11.0-flatpak-aarch64-22.08-flatpak-tarball/versions/v0.8.11.0/gpsodometer_pi-0.8.11.0-aarch64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.13.0-flatpak-aarch64-22.08-flatpak-tarball/versions/v0.8.13.0/gpsodometer_pi-0.8.13.0-aarch64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/gps-odometer/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> GPS Odometer </name>
-    <version> 0.8.11.0 </version>
+    <version> 0.8.13.0 </version>
     <release> 0 </release>
     <summary> GPS/GNSS based for release 5.8 and above </summary>
     <api-version> 1.18 </api-version>
@@ -11087,13 +11131,13 @@ Using GPS/GNSS satellite data to calculate log and trip information as well as d
     <target-version>24.08</target-version>
     <target-arch>aarch64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.11.0-flatpak-aarch64-24.08-flatpak-tarball/versions/v0.8.11.0/gpsodometer_pi-0.8.11.0-aarch64_flatpak-24.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.13.0-flatpak-aarch64-24.08-flatpak-tarball/versions/v0.8.13.0/gpsodometer_pi-0.8.13.0-aarch64_flatpak-24.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/gps-odometer/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> GPS Odometer </name>
-    <version> 0.8.11.0 </version>
+    <version> 0.8.13.0 </version>
     <release> 0 </release>
     <summary> GPS/GNSS based for release 5.8 and above </summary>
     <api-version> 1.18 </api-version>
@@ -11109,13 +11153,13 @@ Using GPS/GNSS satellite data to calculate log and trip information as well as d
     <target-version>22.08</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.11.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v0.8.11.0/gpsodometer_pi-0.8.11.0-x86_64_flatpak-22.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.13.0-flatpak-x86_64-22.08-flatpak-tarball/versions/v0.8.13.0/gpsodometer_pi-0.8.13.0-x86_64_flatpak-22.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/gps-odometer/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> GPS Odometer </name>
-    <version> 0.8.11.0 </version>
+    <version> 0.8.13.0 </version>
     <release> 0 </release>
     <summary> GPS/GNSS based for release 5.8 and above </summary>
     <api-version> 1.18 </api-version>
@@ -11131,13 +11175,13 @@ Using GPS/GNSS satellite data to calculate log and trip information as well as d
     <target-version>24.08</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.11.0-flatpak-x86_64-24.08-flatpak-tarball/versions/v0.8.11.0/gpsodometer_pi-0.8.11.0-x86_64_flatpak-24.08.tar.gz
+https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.13.0-flatpak-x86_64-24.08-flatpak-tarball/versions/v0.8.13.0/gpsodometer_pi-0.8.13.0-x86_64_flatpak-24.08.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/gps-odometer/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> GPS Odometer </name>
-    <version> 0.8.11.0 </version>
+    <version> 0.8.13.0 </version>
     <release> 0 </release>
     <summary> GPS/GNSS based for release 5.8 and above </summary>
     <api-version> 1.18 </api-version>
@@ -11153,13 +11197,13 @@ Using GPS/GNSS satellite data to calculate log and trip information as well as d
     <target-version>10.0.20348</target-version>
     <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.11.0-msvc-x86-10.0.20348-MSVC-tarball/versions/v0.8.11.0/gpsodometer_pi-0.8.11.0-msvc-x86-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.13.0-msvc-x86-10.0.20348-MSVC-tarball/versions/v0.8.13.0/gpsodometer_pi-0.8.13.0-msvc-x86-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/gps-odometer/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> GPS Odometer </name>
-    <version> 0.8.11.0 </version>
+    <version> 0.8.13.0 </version>
     <release> 0 </release>
     <summary> GPS/GNSS based for release 5.8 and above </summary>
     <api-version> 1.18 </api-version>
@@ -11175,13 +11219,13 @@ Using GPS/GNSS satellite data to calculate log and trip information as well as d
     <target-version>10.0.20348</target-version>
     <target-arch>x86</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.11.0-msvc-x86-wx32-10.0.20348-MSVC-tarball/versions/v0.8.11.0/gpsodometer_pi-0.8.11.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
+https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.13.0-msvc-x86-wx32-10.0.20348-MSVC-tarball/versions/v0.8.13.0/gpsodometer_pi-0.8.13.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/gps-odometer/index.html </info-url>
   </plugin>
   <plugin version="1">
     <name> GPS Odometer </name>
-    <version> 0.8.11.0 </version>
+    <version> 0.8.13.0 </version>
     <release> 0 </release>
     <summary> GPS/GNSS based for release 5.8 and above </summary>
     <api-version> 1.18 </api-version>
@@ -11197,7 +11241,7 @@ Using GPS/GNSS satellite data to calculate log and trip information as well as d
     <target-version>22.04</target-version>
     <target-arch>x86_64</target-arch>
     <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.11.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v0.8.11.0/gpsodometer_pi-0.8.11.0-ubuntu-x86_64-22.04-jammy.tar.gz
+https://dl.cloudsmith.io/public/opencpn/gps-odometer-prod/raw/names/gpsodometer_pi-0.8.13.0-ubuntu-x86_64-wx32-22.04-jammy-tarball/versions/v0.8.13.0/gpsodometer_pi-0.8.13.0-ubuntu-x86_64-22.04-jammy.tar.gz
 </tarball-url>
     <info-url> https://opencpn-manuals.github.io/main/gps-odometer/index.html </info-url>
   </plugin>
