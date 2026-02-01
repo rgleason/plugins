@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin version="1">
 <name> pypilot </name>
-<version> 0.53.2.0 </version>
+<version> 0.53.4.0 </version>
 <release> 0 </release>
 <summary> pypilot PlugIn for OpenCPN </summary>
 
@@ -17,10 +17,10 @@ Control the free software autopilot pypilot. See http://pypilot.org for more det
 <target>darwin-wx32</target>
 <build-target>darwin</build-target>
 <build-gtk></build-gtk>
-<target-version>14.1</target-version>
+<target-version>14.3.1</target-version>
 <target-arch>arm64;x86_64</target-arch>
 <tarball-url>
-https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.2.0-darwin-wx32-arm64-x86_64-14.1-macos-tarball/versions/v0.53.2.0/pypilot_pi-0.53.2.0-darwin-wx32-arm64-x86_64-14.1-macos.tar.gz
+https://dl.cloudsmith.io/public/opencpn/pypilot-prod/raw/names/pypilot_pi-0.53.4.0-darwin-wx32-arm64-x86_64-14.3.1-macos-tarball/versions/v0.53.4.0/pypilot_pi-0.53.4.0-darwin-wx32-arm64-x86_64-14.3.1-macos.tar.gz
 </tarball-url>
 <info-url> https://opencpn-manuals.github.io/main/pypilot/index.html </info-url>
 </plugin>
