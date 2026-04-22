@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  -->
+<plugin version="1">
+  <name> VDR </name>
+  <version> 1.4.2.0+6649.3f90b02 </version>
+  <release> 0 </release>
+  <summary> Voyage Data Recorder </summary>
+
+  <api-version> 1.18 </api-version>
+  <open-source> yes </open-source>
+  <author> Rick Gleason </author>
+  <source>  </source>
+  <info-url> https://opencpn.org/OpenCPN/plugins/vdr.html </info-url>
+
+  <description> A Voyage Data Recorder (VDR) to record and play NMEA files.
+Save NMEA stream to a file.  Replay NMEA stream previously saved. Used to test plugins.
+ </description>
+
+  <target>debian-x86_64</target>
+  <target-version>12</target-version>
+  <target-arch>x86_64</target-arch>
+  <tarball-url> https://dl.cloudsmith.io/public/opencpn/vdr-alpha/raw/names/VDR-1.4-debian-x86_64-12-tarball/versions/1.4.2.0+6649.3f90b02/VDR-1.4.2.0+6649.3f90b02_debian-x86_64-12-x86_64.tar.gz </tarball-url>
+  <tarball-checksum> 8bf63a4a9acba4ac6dcd5b439ce382c051b12640b7881a5d15472e4fa0da64bf </tarball-checksum>
+</plugin>
