@@ -1,29 +1,7 @@
 <?xml version="1.0" ?>
 <plugins>
   <version>0.0.0</version>
-  <date>2026-09-20 13:30</date>
-  <plugin version="1">
-    <name> xWeatherRouting </name>
-    <version> 1.17.2.0 </version>
-    <release> 0 </release>
-    <summary> Upgraded weather routing with departure and arrival planning. </summary>
-    <api-version> 1.21 </api-version>
-    <open-source> yes </open-source>
-    <author> Sean d'Epagnier; Weather Routing Plugin Team </author>
-    <source> https://github.com/pob220/xweather_routing_pi </source>
-    <description>
-    WeatherRouting computes land-aware sailing routes using deterministic forward isochrones, reverse recovery, graph fallback, concurrent departure optimisation, and planned-arrival routing. Stock OpenCPN uses GSHHS land checks; optional chart-backed safety is available only when the host provides it.
-  </description>
-    <target>ubuntu-wx32-x86_64</target>
-    <build-target>ubuntu</build-target>
-    <build-gtk>gtk3</build-gtk>
-    <target-version>22.04</target-version>
-    <target-arch>x86_64</target-arch>
-    <tarball-url>
-    https://dl.cloudsmith.io/public/pob220/xweather-routing-alpha-oss/raw/names/xweather_routing_pi-1.17.2.0-ubuntu-wx32-x86_64-22.04-x86_64-tarball/versions/1.17.2.0+380.6c4d5b2/xweather_routing_pi-1.17.2.0-ubuntu-x86_64-22.04-jammy.tar.gz
-  </tarball-url>
-    <info-url> https://github.com/pob220/xweather_routing_pi </info-url>
-  </plugin>
+  <date>2026-10-03 14:16</date>
   <plugin version="1">
     <name> Testplugin </name>
     <version> 1.0.361.0 </version>
@@ -133,28 +111,6 @@ https://dl.cloudsmith.io/public/opencpn/windvane-alpha/raw/names/windvane_pi-1.0
     https://dl.cloudsmith.io/public/pob220/offlinetides-alpha-oss/raw/names/offlinetides_pi-1.0.2.0-flatpak-x86_64-wx32-25.08-tarball/versions/1.0.2.0+22.2483ab1/offlinetides_pi-1.0.2.0-x86_64-32_flatpak-25.08.tar.gz
   </tarball-url>
     <info-url> https://github.com/pob220/offlinetides_pi </info-url>
-  </plugin>
-  <plugin version="1">
-    <name> xWeatherRouting </name>
-    <version> 1.17.2.0 </version>
-    <release> 0 </release>
-    <summary> Upgraded weather routing with departure and arrival planning. </summary>
-    <api-version> 1.21 </api-version>
-    <open-source> yes </open-source>
-    <author> Sean d'Epagnier; Weather Routing Plugin Team </author>
-    <source> https://github.com/pob220/xweather_routing_pi </source>
-    <description>
-    WeatherRouting computes land-aware sailing routes using deterministic forward isochrones, reverse recovery, graph fallback, concurrent departure optimisation, and planned-arrival routing. Stock OpenCPN uses GSHHS land checks; optional chart-backed safety is available only when the host provides it.
-  </description>
-    <target>debian-x86_64</target>
-    <build-target>debian</build-target>
-    <build-gtk>gtk3</build-gtk>
-    <target-version>13</target-version>
-    <target-arch>x86_64</target-arch>
-    <tarball-url>
-    https://dl.cloudsmith.io/public/pob220/xweather-routing-alpha-oss/raw/names/xweather_routing_pi-1.17.2.0-debian-x86_64-13-x86_64-tarball/versions/1.17.2.0+380.6c4d5b2/xweather_routing_pi-1.17.2.0-debian-x86_64-13-trixie.tar.gz
-  </tarball-url>
-    <info-url> https://github.com/pob220/xweather_routing_pi </info-url>
   </plugin>
   <plugin version="1">
     <name> Testplugin </name>
@@ -336,28 +292,6 @@ https://dl.cloudsmith.io/public/opencpn/ocpn_draw-alpha/raw/names/ocpn_draw_pi-1
     <info-url> https://opencpn.org/OpenCPN/plugins/draw.html </info-url>
   </plugin>
   <plugin version="1">
-    <name> xWeatherRouting </name>
-    <version> 1.17.2.0 </version>
-    <release> 0 </release>
-    <summary> Upgraded weather routing with departure and arrival planning. </summary>
-    <api-version> 1.21 </api-version>
-    <open-source> yes </open-source>
-    <author> Sean d'Epagnier; Weather Routing Plugin Team </author>
-    <source> https://github.com/pob220/xweather_routing_pi </source>
-    <description>
-    WeatherRouting computes land-aware sailing routes using deterministic forward isochrones, reverse recovery, graph fallback, concurrent departure optimisation, and planned-arrival routing. Stock OpenCPN uses GSHHS land checks; optional chart-backed safety is available only when the host provides it.
-  </description>
-    <target>flatpak-x86_64</target>
-    <build-target>flatpak</build-target>
-    <build-gtk/>
-    <target-version>25.08</target-version>
-    <target-arch>x86_64</target-arch>
-    <tarball-url>
-    https://dl.cloudsmith.io/public/pob220/xweather-routing-alpha-oss/raw/names/xweather_routing_pi-1.17.2.0-flatpak-x86_64-25.08-x86_64-tarball/versions/1.17.2.0+380.6c4d5b2/xweather_routing_pi-1.17.2.0-x86_64_flatpak-25.08.tar.gz
-  </tarball-url>
-    <info-url> https://github.com/pob220/xweather_routing_pi </info-url>
-  </plugin>
-  <plugin version="1">
     <name> OCPN Draw </name>
     <version> 1.10.1.1 </version>
     <release> 1 </release>
@@ -510,50 +444,6 @@ OCPN_DRAW (OD) is a plugin that extends the capability of OCPN to include non-st
 https://dl.cloudsmith.io/public/opencpn/ocpn_draw-alpha/raw/names/ocpn_draw_pi-1.10.0.0-debian-arm64-11-bullseye-arm64-tarball/versions/1.10.0.0+8380.924d084/ocpn_draw_pi-1.10.0.0-debian-arm64-11-bullseye-arm64.tar.gz
 </tarball-url>
     <info-url> https://opencpn.org/OpenCPN/plugins/draw.html </info-url>
-  </plugin>
-  <plugin version="1">
-    <name> xWeatherRouting </name>
-    <version> 1.17.2.0 </version>
-    <release> 0 </release>
-    <summary> Upgraded weather routing with departure and arrival planning. </summary>
-    <api-version> 1.21 </api-version>
-    <open-source> yes </open-source>
-    <author> Sean d'Epagnier; Weather Routing Plugin Team </author>
-    <source> https://github.com/pob220/xweather_routing_pi </source>
-    <description>
-    WeatherRouting computes land-aware sailing routes using deterministic forward isochrones, reverse recovery, graph fallback, concurrent departure optimisation, and planned-arrival routing. Stock OpenCPN uses GSHHS land checks; optional chart-backed safety is available only when the host provides it.
-  </description>
-    <target>ubuntu-gtk3-x86_64</target>
-    <build-target>ubuntu</build-target>
-    <build-gtk>gtk3</build-gtk>
-    <target-version>24.04</target-version>
-    <target-arch>x86_64</target-arch>
-    <tarball-url>
-    https://dl.cloudsmith.io/public/pob220/xweather-routing-alpha-oss/raw/names/xweather_routing_pi-1.17.2.0-ubuntu-gtk3-x86_64-24.04-x86_64-tarball/versions/1.17.2.0+380.6c4d5b2/xweather_routing_pi-1.17.2.0-ubuntu-x86_64-24.04-gtk3-noble.tar.gz
-  </tarball-url>
-    <info-url> https://github.com/pob220/xweather_routing_pi </info-url>
-  </plugin>
-  <plugin version="1">
-    <name> xWeatherRouting </name>
-    <version> 1.17.2.0 </version>
-    <release> 0 </release>
-    <summary> Upgraded weather routing with departure and arrival planning. </summary>
-    <api-version> 1.21 </api-version>
-    <open-source> yes </open-source>
-    <author> Sean d'Epagnier; Weather Routing Plugin Team </author>
-    <source> https://github.com/pob220/xweather_routing_pi </source>
-    <description>
-    WeatherRouting computes land-aware sailing routes using deterministic forward isochrones, reverse recovery, graph fallback, concurrent departure optimisation, and planned-arrival routing. Stock OpenCPN uses GSHHS land checks; optional chart-backed safety is available only when the host provides it.
-  </description>
-    <target>msvc-wx32</target>
-    <build-target>msvc</build-target>
-    <build-gtk/>
-    <target-version>10.0.20348</target-version>
-    <target-arch>x86</target-arch>
-    <tarball-url>
-    https://dl.cloudsmith.io/public/pob220/xweather-routing-alpha-oss/raw/names/xweather_routing_pi-1.17.2.0-msvc-wx32-10.0.20348-x86-tarball/versions/1.17.2.0+380.6c4d5b2/xweather_routing_pi-1.17.2.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
-  </tarball-url>
-    <info-url> https://github.com/pob220/xweather_routing_pi </info-url>
   </plugin>
   <plugin version="1">
     <name> Windvane </name>
@@ -2888,28 +2778,6 @@ https://dl.cloudsmith.io/public/opencpn/windvane-alpha/raw/names/windvane_pi-1.0
     <info-url> https://opencpn.org/wiki/dokuwiki/doku.php?id=opencpn:opencpn_user_manual:plugins:sailing:windvane </info-url>
   </plugin>
   <plugin version="1">
-    <name> xWeatherRouting </name>
-    <version> 1.17.2.0 </version>
-    <release> 0 </release>
-    <summary> Upgraded weather routing with departure and arrival planning. </summary>
-    <api-version> 1.21 </api-version>
-    <open-source> yes </open-source>
-    <author> Sean d'Epagnier; Weather Routing Plugin Team </author>
-    <source> https://github.com/pob220/xweather_routing_pi </source>
-    <description>
-    WeatherRouting computes land-aware sailing routes using deterministic forward isochrones, reverse recovery, graph fallback, concurrent departure optimisation, and planned-arrival routing. Stock OpenCPN uses GSHHS land checks; optional chart-backed safety is available only when the host provides it.
-  </description>
-    <target>debian-x86_64</target>
-    <build-target>debian</build-target>
-    <build-gtk>gtk3</build-gtk>
-    <target-version>12</target-version>
-    <target-arch>x86_64</target-arch>
-    <tarball-url>
-    https://dl.cloudsmith.io/public/pob220/xweather-routing-alpha-oss/raw/names/xweather_routing_pi-1.17.2.0-debian-x86_64-12-x86_64-tarball/versions/1.17.2.0+380.6c4d5b2/xweather_routing_pi-1.17.2.0-debian-x86_64-12-bookworm.tar.gz
-  </tarball-url>
-    <info-url> https://github.com/pob220/xweather_routing_pi </info-url>
-  </plugin>
-  <plugin version="1">
     <name> OCPN Draw </name>
     <version> 1.10.1.1 </version>
     <release> 1 </release>
@@ -2999,24 +2867,255 @@ https://dl.cloudsmith.io/public/opencpn/ocpn_draw-alpha/raw/names/ocpn_draw_pi-1
   </plugin>
   <plugin version="1">
     <name> xWeatherRouting </name>
-    <version> 1.17.2.0 </version>
+    <version> 1.24.0 </version>
     <release> 0 </release>
-    <summary> Upgraded weather routing with departure and arrival planning. </summary>
+    <summary>Advanced weather routing with departure and arrival planning.</summary>
     <api-version> 1.21 </api-version>
     <open-source> yes </open-source>
     <author> Sean d'Epagnier; Weather Routing Plugin Team </author>
     <source> https://github.com/pob220/xweather_routing_pi </source>
     <description>
-    WeatherRouting computes land-aware sailing routes using deterministic forward isochrones, reverse recovery, graph fallback, concurrent departure optimisation, and planned-arrival routing. Stock OpenCPN uses GSHHS land checks; optional chart-backed safety is available only when the host provides it.
-  </description>
+      WeatherRouting offers Auto, Quick, Standard, Professional and All (slow), with independent saved engine settings and explicit search presets. Auto falls back through Quick and Standard to Professional up to 400% effort. All compares four engines, including the internal Alternative engine, and shares a bounded extra-search allowance across successful engines. Optional fastest/comfort alternatives also work with individual engines and Auto, with saved percentage and seconds limits. A retained-route comparison table and slider balance passage time against discomfort exposure while preserving the worst known leg. Wind-only ranking is enabled by default and remembered. Extra comfort limits never reduce the ordinary engines' budgets; All initially selects the earliest validated arrival. Quick uses hardened contour routing with independent chronological validation. Standard provides bounded adaptive search; Professional keeps a validated Quick candidate and searches for a faster route with broader recovery methods. All support plugin-managed GSHHG shorelines; optional chart-backed safety requires a compatible host.
+    </description>
+    <target>msvc-wx32</target>
+    <build-target>msvc</build-target>
+    <build-gtk />
+    <target-version>10.0.20348</target-version>
+    <target-arch>x86</target-arch>
+    <tarball-url>
+      https://dl.cloudsmith.io/public/pob220/xweather-routing-alpha-oss/raw/names/xweather_routing_pi-1.24.0-msvc-wx32-10.0.20348-x86-tarball/versions/1.24.0+1260.00c7cda/xweather_routing_pi-1.24.0-msvc-x86-wx32-10.0.20348-MSVC.tar.gz
+    </tarball-url>
+    <tarball-checksum> 9c597da4b4322485251b0425b9751e48ea1322fbf531c147ec91414e457e79ae </tarball-checksum>
+    <info-url> https://github.com/pob220/xweather_routing_pi </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> xWeatherRouting </name>
+    <version> 1.24.0 </version>
+    <release> 0 </release>
+    <summary>Advanced weather routing with departure and arrival planning.</summary>
+    <api-version> 1.21 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean d'Epagnier; Weather Routing Plugin Team </author>
+    <source> https://github.com/pob220/xweather_routing_pi </source>
+    <description>
+      WeatherRouting offers Auto, Quick, Standard, Professional and All (slow), with independent saved engine settings and explicit search presets. Auto falls back through Quick and Standard to Professional up to 400% effort. All compares four engines, including the internal Alternative engine, and shares a bounded extra-search allowance across successful engines. Optional fastest/comfort alternatives also work with individual engines and Auto, with saved percentage and seconds limits. A retained-route comparison table and slider balance passage time against discomfort exposure while preserving the worst known leg. Wind-only ranking is enabled by default and remembered. Extra comfort limits never reduce the ordinary engines' budgets; All initially selects the earliest validated arrival. Quick uses hardened contour routing with independent chronological validation. Standard provides bounded adaptive search; Professional keeps a validated Quick candidate and searches for a faster route with broader recovery methods. All support plugin-managed GSHHG shorelines; optional chart-backed safety requires a compatible host.
+    </description>
+    <target>msvc-64</target>
+    <build-target>msvc</build-target>
+    <build-gtk />
+    <target-version>10</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>
+      https://dl.cloudsmith.io/public/pob220/xweather-routing-alpha-oss/raw/names/xweather_routing_pi-1.24.0-msvc-64-10-x86_64-tarball/versions/1.24.0+1260.00c7cda/xweather_routing_pi-1.24.0-msvc-64-x86_64-10.0-MSVC-x64.tar.gz
+    </tarball-url>
+    <tarball-checksum> 9fb91a82a9ef325bbe2b90fae55b9e1a7a61f2909ec974adefc2519bd0a339b7 </tarball-checksum>
+    <info-url> https://github.com/pob220/xweather_routing_pi </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> xWeatherRouting </name>
+    <version> 1.24.0 </version>
+    <release> 0 </release>
+    <summary>Advanced weather routing with departure and arrival planning.</summary>
+    <api-version> 1.21 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean d'Epagnier; Weather Routing Plugin Team </author>
+    <source> https://github.com/pob220/xweather_routing_pi </source>
+    <description>
+      WeatherRouting offers Auto, Quick, Standard, Professional and All (slow), with independent saved engine settings and explicit search presets. Auto falls back through Quick and Standard to Professional up to 400% effort. All compares four engines, including the internal Alternative engine, and shares a bounded extra-search allowance across successful engines. Optional fastest/comfort alternatives also work with individual engines and Auto, with saved percentage and seconds limits. A retained-route comparison table and slider balance passage time against discomfort exposure while preserving the worst known leg. Wind-only ranking is enabled by default and remembered. Extra comfort limits never reduce the ordinary engines' budgets; All initially selects the earliest validated arrival. Quick uses hardened contour routing with independent chronological validation. Standard provides bounded adaptive search; Professional keeps a validated Quick candidate and searches for a faster route with broader recovery methods. All support plugin-managed GSHHG shorelines; optional chart-backed safety requires a compatible host.
+    </description>
+    <target>debian-x86_64</target>
+    <build-target>debian</build-target>
+    <build-gtk>gtk3</build-gtk>
+    <target-version>13</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>
+      https://dl.cloudsmith.io/public/pob220/xweather-routing-alpha-oss/raw/names/xweather_routing_pi-1.24.0-debian-x86_64-13-x86_64-tarball/versions/1.24.0+1260.00c7cda/xweather_routing_pi-1.24.0-debian-x86_64-13-trixie.tar.gz
+    </tarball-url>
+    <tarball-checksum> 19488dffcf2df494f2bc85fa818c6a4561b411f203ad0747f8bd82019cae8380 </tarball-checksum>
+    <info-url> https://github.com/pob220/xweather_routing_pi </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> xWeatherRouting </name>
+    <version> 1.24.0 </version>
+    <release> 0 </release>
+    <summary>Advanced weather routing with departure and arrival planning.</summary>
+    <api-version> 1.21 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean d'Epagnier; Weather Routing Plugin Team </author>
+    <source> https://github.com/pob220/xweather_routing_pi </source>
+    <description>
+      WeatherRouting offers Auto, Quick, Standard, Professional and All (slow), with independent saved engine settings and explicit search presets. Auto falls back through Quick and Standard to Professional up to 400% effort. All compares four engines, including the internal Alternative engine, and shares a bounded extra-search allowance across successful engines. Optional fastest/comfort alternatives also work with individual engines and Auto, with saved percentage and seconds limits. A retained-route comparison table and slider balance passage time against discomfort exposure while preserving the worst known leg. Wind-only ranking is enabled by default and remembered. Extra comfort limits never reduce the ordinary engines' budgets; All initially selects the earliest validated arrival. Quick uses hardened contour routing with independent chronological validation. Standard provides bounded adaptive search; Professional keeps a validated Quick candidate and searches for a faster route with broader recovery methods. All support plugin-managed GSHHG shorelines; optional chart-backed safety requires a compatible host.
+    </description>
+    <target>ubuntu-x86_64</target>
+    <build-target>ubuntu</build-target>
+    <build-gtk>gtk3</build-gtk>
+    <target-version>24.04</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>
+      https://dl.cloudsmith.io/public/pob220/xweather-routing-alpha-oss/raw/names/xweather_routing_pi-1.24.0-ubuntu-x86_64-24.04-x86_64-tarball/versions/1.24.0+1260.00c7cda/xweather_routing_pi-1.24.0-ubuntu-x86_64-24.04-noble.tar.gz
+    </tarball-url>
+    <tarball-checksum> 622bb3075558655bfbcc1e2dbe487b6fa5e2be12317d7c3a0339fb212bb25884 </tarball-checksum>
+    <info-url> https://github.com/pob220/xweather_routing_pi </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> xWeatherRouting </name>
+    <version> 1.24.0 </version>
+    <release> 0 </release>
+    <summary>Advanced weather routing with departure and arrival planning.</summary>
+    <api-version> 1.21 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean d'Epagnier; Weather Routing Plugin Team </author>
+    <source> https://github.com/pob220/xweather_routing_pi </source>
+    <description>
+      WeatherRouting offers Auto, Quick, Standard, Professional and All (slow), with independent saved engine settings and explicit search presets. Auto falls back through Quick and Standard to Professional up to 400% effort. All compares four engines, including the internal Alternative engine, and shares a bounded extra-search allowance across successful engines. Optional fastest/comfort alternatives also work with individual engines and Auto, with saved percentage and seconds limits. A retained-route comparison table and slider balance passage time against discomfort exposure while preserving the worst known leg. Wind-only ranking is enabled by default and remembered. Extra comfort limits never reduce the ordinary engines' budgets; All initially selects the earliest validated arrival. Quick uses hardened contour routing with independent chronological validation. Standard provides bounded adaptive search; Professional keeps a validated Quick candidate and searches for a faster route with broader recovery methods. All support plugin-managed GSHHG shorelines; optional chart-backed safety requires a compatible host.
+    </description>
     <target>darwin-wx32</target>
     <build-target>darwin</build-target>
-    <build-gtk/>
+    <build-gtk />
     <target-version>15.3.2</target-version>
     <target-arch>arm64</target-arch>
     <tarball-url>
-    https://dl.cloudsmith.io/public/pob220/xweather-routing-alpha-oss/raw/names/xweather_routing_pi-1.17.2.0-darwin-wx32-15.3.2-arm64-tarball/versions/1.17.2.0+380.6c4d5b2/xweather_routing_pi-1.17.2.0-darwin-wx32-arm64-15.3.2-macos-arm64.tar.gz
-  </tarball-url>
+      https://dl.cloudsmith.io/public/pob220/xweather-routing-alpha-oss/raw/names/xweather_routing_pi-1.24.0-darwin-wx32-15.3.2-arm64-tarball/versions/1.24.0+1260.00c7cda/xweather_routing_pi-1.24.0-darwin-wx32-arm64-15.3.2-macos-arm64.tar.gz
+    </tarball-url>
+    <tarball-checksum> 843a81d9d3c07753d16e62ee67fbb815361ff21c50453d106c6ee2bfc3ebe824 </tarball-checksum>
+    <info-url> https://github.com/pob220/xweather_routing_pi </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> xWeatherRouting </name>
+    <version> 1.24.0 </version>
+    <release> 0 </release>
+    <summary>Advanced weather routing with departure and arrival planning.</summary>
+    <api-version> 1.21 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean d'Epagnier; Weather Routing Plugin Team </author>
+    <source> https://github.com/pob220/xweather_routing_pi </source>
+    <description>
+      WeatherRouting offers Auto, Quick, Standard, Professional and All (slow), with independent saved engine settings and explicit search presets. Auto falls back through Quick and Standard to Professional up to 400% effort. All compares four engines, including the internal Alternative engine, and shares a bounded extra-search allowance across successful engines. Optional fastest/comfort alternatives also work with individual engines and Auto, with saved percentage and seconds limits. A retained-route comparison table and slider balance passage time against discomfort exposure while preserving the worst known leg. Wind-only ranking is enabled by default and remembered. Extra comfort limits never reduce the ordinary engines' budgets; All initially selects the earliest validated arrival. Quick uses hardened contour routing with independent chronological validation. Standard provides bounded adaptive search; Professional keeps a validated Quick candidate and searches for a faster route with broader recovery methods. All support plugin-managed GSHHG shorelines; optional chart-backed safety requires a compatible host.
+    </description>
+    <target>ubuntu-x86_64</target>
+    <build-target>ubuntu</build-target>
+    <build-gtk>gtk3</build-gtk>
+    <target-version>22.04</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>
+      https://dl.cloudsmith.io/public/pob220/xweather-routing-alpha-oss/raw/names/xweather_routing_pi-1.24.0-ubuntu-x86_64-22.04-x86_64-tarball/versions/1.24.0+1260.00c7cda/xweather_routing_pi-1.24.0-ubuntu-x86_64-22.04-jammy.tar.gz
+    </tarball-url>
+    <tarball-checksum> 5a594ea9bd4d7c1c234aa1258bc65ae44706c0ca128cd31a45aab3fb2bbdec90 </tarball-checksum>
+    <info-url> https://github.com/pob220/xweather_routing_pi </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> xWeatherRouting </name>
+    <version> 1.24.0 </version>
+    <release> 0 </release>
+    <summary>Advanced weather routing with departure and arrival planning.</summary>
+    <api-version> 1.21 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean d'Epagnier; Weather Routing Plugin Team </author>
+    <source> https://github.com/pob220/xweather_routing_pi </source>
+    <description>
+      WeatherRouting offers Auto, Quick, Standard, Professional and All (slow), with independent saved engine settings and explicit search presets. Auto falls back through Quick and Standard to Professional up to 400% effort. All compares four engines, including the internal Alternative engine, and shares a bounded extra-search allowance across successful engines. Optional fastest/comfort alternatives also work with individual engines and Auto, with saved percentage and seconds limits. A retained-route comparison table and slider balance passage time against discomfort exposure while preserving the worst known leg. Wind-only ranking is enabled by default and remembered. Extra comfort limits never reduce the ordinary engines' budgets; All initially selects the earliest validated arrival. Quick uses hardened contour routing with independent chronological validation. Standard provides bounded adaptive search; Professional keeps a validated Quick candidate and searches for a faster route with broader recovery methods. All support plugin-managed GSHHG shorelines; optional chart-backed safety requires a compatible host.
+    </description>
+    <target>flatpak-32-x86_64</target>
+    <build-target>flatpak</build-target>
+    <build-gtk />
+    <target-version>25.08</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>
+      https://dl.cloudsmith.io/public/pob220/xweather-routing-alpha-oss/raw/names/xweather_routing_pi-1.24.0-flatpak-32-x86_64-25.08-x86_64-tarball/versions/1.24.0+1260.00c7cda/xweather_routing_pi-1.24.0-x86_64-32_flatpak-25.08.tar.gz
+    </tarball-url>
+    <tarball-checksum> 1a2fc32beada8d1b28d921aa1bc62a2b08a92376382aea2bfffb4c4bc80ef5f8 </tarball-checksum>
+    <info-url> https://github.com/pob220/xweather_routing_pi </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> xWeatherRouting </name>
+    <version> 1.24.0 </version>
+    <release> 0 </release>
+    <summary>Advanced weather routing with departure and arrival planning.</summary>
+    <api-version> 1.21 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean d'Epagnier; Weather Routing Plugin Team </author>
+    <source> https://github.com/pob220/xweather_routing_pi </source>
+    <description>
+      WeatherRouting offers Auto, Quick, Standard, Professional and All (slow), with independent saved engine settings and explicit search presets. Auto falls back through Quick and Standard to Professional up to 400% effort. All compares four engines, including the internal Alternative engine, and shares a bounded extra-search allowance across successful engines. Optional fastest/comfort alternatives also work with individual engines and Auto, with saved percentage and seconds limits. A retained-route comparison table and slider balance passage time against discomfort exposure while preserving the worst known leg. Wind-only ranking is enabled by default and remembered. Extra comfort limits never reduce the ordinary engines' budgets; All initially selects the earliest validated arrival. Quick uses hardened contour routing with independent chronological validation. Standard provides bounded adaptive search; Professional keeps a validated Quick candidate and searches for a faster route with broader recovery methods. All support plugin-managed GSHHG shorelines; optional chart-backed safety requires a compatible host.
+    </description>
+    <target>flatpak-32-aarch64</target>
+    <build-target>flatpak</build-target>
+    <build-gtk />
+    <target-version>25.08</target-version>
+    <target-arch>aarch64</target-arch>
+    <tarball-url>
+      https://dl.cloudsmith.io/public/pob220/xweather-routing-alpha-oss/raw/names/xweather_routing_pi-1.24.0-flatpak-32-aarch64-25.08-aarch64-tarball/versions/1.24.0+1260.00c7cda/xweather_routing_pi-1.24.0-aarch64-32_flatpak-25.08.tar.gz
+    </tarball-url>
+    <tarball-checksum> fe00319ecd7a240c82edd54c40062e79dc9044ff693a8206a80ead9a123d6a98 </tarball-checksum>
+    <info-url> https://github.com/pob220/xweather_routing_pi </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> xWeatherRouting </name>
+    <version> 1.24.0 </version>
+    <release> 0 </release>
+    <summary>Advanced weather routing with departure and arrival planning.</summary>
+    <api-version> 1.21 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean d'Epagnier; Weather Routing Plugin Team </author>
+    <source> https://github.com/pob220/xweather_routing_pi </source>
+    <description>
+      WeatherRouting offers Auto, Quick, Standard, Professional and All (slow), with independent saved engine settings and explicit search presets. Auto falls back through Quick and Standard to Professional up to 400% effort. All compares four engines, including the internal Alternative engine, and shares a bounded extra-search allowance across successful engines. Optional fastest/comfort alternatives also work with individual engines and Auto, with saved percentage and seconds limits. A retained-route comparison table and slider balance passage time against discomfort exposure while preserving the worst known leg. Wind-only ranking is enabled by default and remembered. Extra comfort limits never reduce the ordinary engines' budgets; All initially selects the earliest validated arrival. Quick uses hardened contour routing with independent chronological validation. Standard provides bounded adaptive search; Professional keeps a validated Quick candidate and searches for a faster route with broader recovery methods. All support plugin-managed GSHHG shorelines; optional chart-backed safety requires a compatible host.
+    </description>
+    <target>debian-arm64</target>
+    <build-target>debian</build-target>
+    <build-gtk>gtk3</build-gtk>
+    <target-version>12</target-version>
+    <target-arch>arm64</target-arch>
+    <tarball-url>
+      https://dl.cloudsmith.io/public/pob220/xweather-routing-alpha-oss/raw/names/xweather_routing_pi-1.24.0-debian-arm64-12-arm64-tarball/versions/1.24.0+1260.00c7cda/xweather_routing_pi-1.24.0-debian-arm64-12-bookworm-arm64.tar.gz
+    </tarball-url>
+    <tarball-checksum> dea1f27bede3daaed3cedb0809b0336ce75c46c10d9358d2d5cf4afbb50c94b7 </tarball-checksum>
+    <info-url> https://github.com/pob220/xweather_routing_pi </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> xWeatherRouting </name>
+    <version> 1.24.0 </version>
+    <release> 0 </release>
+    <summary>Advanced weather routing with departure and arrival planning.</summary>
+    <api-version> 1.21 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean d'Epagnier; Weather Routing Plugin Team </author>
+    <source> https://github.com/pob220/xweather_routing_pi </source>
+    <description>
+      WeatherRouting offers Auto, Quick, Standard, Professional and All (slow), with independent saved engine settings and explicit search presets. Auto falls back through Quick and Standard to Professional up to 400% effort. All compares four engines, including the internal Alternative engine, and shares a bounded extra-search allowance across successful engines. Optional fastest/comfort alternatives also work with individual engines and Auto, with saved percentage and seconds limits. A retained-route comparison table and slider balance passage time against discomfort exposure while preserving the worst known leg. Wind-only ranking is enabled by default and remembered. Extra comfort limits never reduce the ordinary engines' budgets; All initially selects the earliest validated arrival. Quick uses hardened contour routing with independent chronological validation. Standard provides bounded adaptive search; Professional keeps a validated Quick candidate and searches for a faster route with broader recovery methods. All support plugin-managed GSHHG shorelines; optional chart-backed safety requires a compatible host.
+    </description>
+    <target>debian-x86_64</target>
+    <build-target>debian</build-target>
+    <build-gtk>gtk3</build-gtk>
+    <target-version>12</target-version>
+    <target-arch>x86_64</target-arch>
+    <tarball-url>
+      https://dl.cloudsmith.io/public/pob220/xweather-routing-alpha-oss/raw/names/xweather_routing_pi-1.24.0-debian-x86_64-12-x86_64-tarball/versions/1.24.0+1260.00c7cda/xweather_routing_pi-1.24.0-debian-x86_64-12-bookworm.tar.gz
+    </tarball-url>
+    <tarball-checksum> 5fc4aea349501cbdde55bd61477ab4eb900cdf6d94c8c9783886642e98b5d011 </tarball-checksum>
+    <info-url> https://github.com/pob220/xweather_routing_pi </info-url>
+  </plugin>
+  <plugin version="1">
+    <name> xWeatherRouting </name>
+    <version> 1.24.0 </version>
+    <release> 0 </release>
+    <summary>Advanced weather routing with departure and arrival planning.</summary>
+    <api-version> 1.21 </api-version>
+    <open-source> yes </open-source>
+    <author> Sean d'Epagnier; Weather Routing Plugin Team </author>
+    <source> https://github.com/pob220/xweather_routing_pi </source>
+    <description>
+      WeatherRouting offers Auto, Quick, Standard, Professional and All (slow), with independent saved engine settings and explicit search presets. Auto falls back through Quick and Standard to Professional up to 400% effort. All compares four engines, including the internal Alternative engine, and shares a bounded extra-search allowance across successful engines. Optional fastest/comfort alternatives also work with individual engines and Auto, with saved percentage and seconds limits. A retained-route comparison table and slider balance passage time against discomfort exposure while preserving the worst known leg. Wind-only ranking is enabled by default and remembered. Extra comfort limits never reduce the ordinary engines' budgets; All initially selects the earliest validated arrival. Quick uses hardened contour routing with independent chronological validation. Standard provides bounded adaptive search; Professional keeps a validated Quick candidate and searches for a faster route with broader recovery methods. All support plugin-managed GSHHG shorelines; optional chart-backed safety requires a compatible host.
+    </description>
+    <target>android-arm64</target>
+    <build-target>android</build-target>
+    <build-gtk />
+    <target-version>16</target-version>
+    <target-arch>arm64</target-arch>
+    <tarball-url>
+      https://dl.cloudsmith.io/public/pob220/xweather-routing-alpha-oss/raw/names/xweather_routing_pi-1.24.0-android-arm64-16-arm64-tarball/versions/1.24.0+1260.00c7cda/xweather_routing_pi-1.24.0-android-arm64-16-android-arm64.tar.gz
+    </tarball-url>
+    <tarball-checksum> 87411c18cbe1470d4b8cda2ce0051474f41fd1115ea56bd20ec94ae7f50aa842 </tarball-checksum>
     <info-url> https://github.com/pob220/xweather_routing_pi </info-url>
   </plugin>
 </plugins>
