@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <plugin version="1">
   <name> xWeatherRouting </name>
-  <version> 1.19.1 </version>
+  <version> 1.29.2 </version>
   <release> 0 </release>
   <summary>Advanced weather routing with departure and arrival planning.</summary>
 
@@ -14,14 +14,12 @@
     WeatherRouting offers Quick, Standard and Professional engines with independent saved settings and explicit search presets. Quick uses hardened contour routing with independent chronological validation. Standard provides bounded adaptive search; Professional adds broader recovery methods. All support plugin-managed GSHHG shorelines; optional chart-backed safety requires a compatible host.
   </description>
 
-  <target>darwin-wx32</target>
-  <build-target>darwin</build-target>
+  <target>msvc-wx32</target>
+  <build-target>msvc</build-target>
   <build-gtk />
-  <target-version>15.3.2</target-version>
-  <target-arch>arm64</target-arch>
-  <tarball-url>
-    https://dl.cloudsmith.io/public/pob220/xweather-routing-alpha-oss/raw/names/xweather_routing_pi-1.19.1-darwin-wx32-15.3.2-arm64-tarball/versions/1.19.1+948.0df6c52/xweather_routing_pi-1.19.1-darwin-wx32-arm64-15.3.2-macos-arm64.tar.gz
-  </tarball-url>
-  <tarball-checksum>e780ac1caefb0160706fb3771131ea7a43b24314d0454dca98667bb0ed727af7</tarball-checksum>
+  <target-version>10.0.20348</target-version>
+  <target-arch>x86</target-arch>
+  <tarball-url>https://dl.cloudsmith.io/public/pob220/xweather-routing-alpha-oss/raw/names/xweather_routing_pi-1.29.2-msvc-wx32-10.0.20348-x86-tarball/versions/1.29.2+1674.d67060c/xweather_routing_pi-1.29.2-msvc-x86-wx32-10.0.20348-MSVC.tar.gz</tarball-url>
+  <tarball-checksum>748fc7bc8a49058749c2a90bc41de51d2b9b0fcebdc72d72170096a8a22a8022</tarball-checksum>
   <info-url> https://github.com/pob220/xweather_routing_pi </info-url>
 </plugin>
